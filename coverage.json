@@ -1,22 +1,26 @@
 {
-  "generated_at": "2026-10-25T13:15:03+00:00",
-  "generated_at_unix": 1792934103,
-  "generation_seconds": 42.5,
-  "window_start": "20261024131503 +0000",
-  "window_stop": "20261101131503 +0000",
-  "channels": 11519,
-  "current_channels": 11502,
-  "future_channels": 11507,
-  "programmes": 914534,
+  "generated_at": "2026-10-25T13:34:34+00:00",
+  "generated_at_unix": 1792935274,
+  "generation_seconds": 126.4,
+  "window_start": "20261024133434 +0000",
+  "window_stop": "20261101133434 +0000",
+  "channels": 11521,
+  "current_channels": 11501,
+  "future_channels": 11508,
+  "programmes": 913585,
   "latest_programme_end": 1793551320,
   "source_contributions": {
     "inline-freelivesports": {
-      "programmes": 10728,
+      "programmes": 10734,
       "channels": 103
     },
     "inline-lg": {
       "programmes": 1682,
       "channels": 187
+    },
+    "previous-published": {
+      "programmes": 194,
+      "channels": 153
     },
     "inline-localnow": {
       "programmes": 920,
@@ -39,8 +43,8 @@
       "channels": 718
     },
     "inline-tubi": {
-      "programmes": 7575,
-      "channels": 177
+      "programmes": 7518,
+      "channels": 176
     },
     "pluto-us": {
       "programmes": 23984,
@@ -51,7 +55,7 @@
       "channels": 531
     },
     "epgshare-au1": {
-      "programmes": 53407,
+      "programmes": 53266,
       "channels": 304
     },
     "epgshare-br1": {
@@ -63,15 +67,15 @@
       "channels": 68
     },
     "epgshare-de1": {
-      "programmes": 21974,
+      "programmes": 21971,
       "channels": 252
     },
     "epgshare-es1": {
-      "programmes": 27958,
+      "programmes": 27851,
       "channels": 328
     },
     "epgshare-fr1": {
-      "programmes": 55561,
+      "programmes": 55447,
       "channels": 492
     },
     "epgshare-ie": {
@@ -83,7 +87,7 @@
       "channels": 703
     },
     "epgshare-it1": {
-      "programmes": 18022,
+      "programmes": 17956,
       "channels": 156
     },
     "sky-uk": {
@@ -91,7 +95,7 @@
       "channels": 570
     },
     "epgshare-uk": {
-      "programmes": 9660,
+      "programmes": 9559,
       "channels": 375
     },
     "freeview-uk": {
@@ -99,7 +103,7 @@
       "channels": 397
     },
     "epgshare-us2": {
-      "programmes": 136340,
+      "programmes": 135780,
       "channels": 1404
     }
   },
@@ -299,8 +303,8 @@
       "sha256": "0e08cdd017bd497bc51616724053309d7101005197e179d22f63696fb9432886",
       "input_channels": 284,
       "window_programmes": 47786,
-      "current_programmes": 278,
-      "future_programmes": 43687,
+      "current_programmes": 277,
+      "future_programmes": 43631,
       "invalid_programmes": 0,
       "first": 1792819800,
       "last": 1793523600
@@ -317,7 +321,7 @@
       "input_channels": 371,
       "window_programmes": 75605,
       "current_programmes": 364,
-      "future_programmes": 68882,
+      "future_programmes": 68784,
       "invalid_programmes": 0,
       "first": 1792843200,
       "last": 1793523600
@@ -332,9 +336,9 @@
       "fetched_at": 1792933693,
       "sha256": "49749d19d1901f4257b333655ca62aad80657e03624ffee4e5f37126ae5e9504",
       "input_channels": 486,
-      "window_programmes": 37026,
+      "window_programmes": 36924,
       "current_programmes": 388,
-      "future_programmes": 26493,
+      "future_programmes": 26393,
       "invalid_programmes": 0,
       "first": 1792800000,
       "last": 1793172600
@@ -351,7 +355,7 @@
       "input_channels": 175,
       "window_programmes": 17887,
       "current_programmes": 163,
-      "future_programmes": 15617,
+      "future_programmes": 15574,
       "invalid_programmes": 0,
       "first": 1792886400,
       "last": 1793253600
@@ -374,7 +378,7 @@
       "input_channels": 368,
       "window_programmes": 13974,
       "current_programmes": 288,
-      "future_programmes": 9171,
+      "future_programmes": 9048,
       "invalid_programmes": 0,
       "first": 1792857600,
       "last": 1793153521
@@ -391,7 +395,7 @@
       "input_channels": 696,
       "window_programmes": 34007,
       "current_programmes": 695,
-      "future_programmes": 23286,
+      "future_programmes": 23020,
       "invalid_programmes": 1,
       "first": 1792857600,
       "last": 1793153090
@@ -408,7 +412,7 @@
       "input_channels": 273,
       "window_programmes": 2492,
       "current_programmes": 272,
-      "future_programmes": 2153,
+      "future_programmes": 2033,
       "invalid_programmes": 0,
       "first": 1792890000,
       "last": 1792970580
@@ -425,7 +429,7 @@
       "input_channels": 187,
       "window_programmes": 4481,
       "current_programmes": 187,
-      "future_programmes": 3594,
+      "future_programmes": 3493,
       "invalid_programmes": 0,
       "first": 1792908000,
       "last": 1793005500
@@ -442,7 +446,7 @@
       "input_channels": 430,
       "window_programmes": 8777,
       "current_programmes": 429,
-      "future_programmes": 7145,
+      "future_programmes": 6993,
       "invalid_programmes": 0,
       "first": 1792910700,
       "last": 1793008800
@@ -459,7 +463,7 @@
       "input_channels": 75,
       "window_programmes": 8551,
       "current_programmes": 70,
-      "future_programmes": 8046,
+      "future_programmes": 8029,
       "invalid_programmes": 13,
       "first": 1792890000,
       "last": 1793361600
@@ -474,9 +478,9 @@
       "fetched_at": 1792933695,
       "sha256": "0cfb75a3bbbe7ba6d1c3a75ec75085ac7085edf5a162e4699243d0655dc5d32d",
       "input_channels": 769,
-      "window_programmes": 72439,
+      "window_programmes": 72148,
       "current_programmes": 753,
-      "future_programmes": 52824,
+      "future_programmes": 52535,
       "invalid_programmes": 20,
       "first": 1792800000,
       "last": 1793192400
@@ -493,7 +497,7 @@
       "input_channels": 1166,
       "window_programmes": 103212,
       "current_programmes": 713,
-      "future_programmes": 83540,
+      "future_programmes": 82919,
       "invalid_programmes": 0,
       "first": 1792866600,
       "last": 1793212199
@@ -508,9 +512,9 @@
       "fetched_at": 1792933695,
       "sha256": "970d364f79ef6532f4c4b6a2ed8825a5301c1c0b9b7b5b289aeac18fdc927ebc",
       "input_channels": 266,
-      "window_programmes": 21970,
+      "window_programmes": 21967,
       "current_programmes": 248,
-      "future_programmes": 18367,
+      "future_programmes": 18300,
       "invalid_programmes": 14,
       "first": 1792804500,
       "last": 1793260800
@@ -525,9 +529,9 @@
       "fetched_at": 1792933695,
       "sha256": "544ba78af1dd7e62b449edc8c6158d75aa4dd5cfc679b79b2b23ae24372a209e",
       "input_channels": 195,
-      "window_programmes": 18100,
+      "window_programmes": 18034,
       "current_programmes": 155,
-      "future_programmes": 13060,
+      "future_programmes": 13000,
       "invalid_programmes": 54,
       "first": 1792792800,
       "last": 1793228700
@@ -544,7 +548,7 @@
       "input_channels": 266,
       "window_programmes": 19236,
       "current_programmes": 225,
-      "future_programmes": 16061,
+      "future_programmes": 15969,
       "invalid_programmes": 1,
       "first": 1792891500,
       "last": 1793263800
@@ -559,9 +563,9 @@
       "fetched_at": 1792933695,
       "sha256": "846ac09264d12deb20c11c7098f5fbb7e73b390f73ff896d7060ce66866d50d8",
       "input_channels": 373,
-      "window_programmes": 28936,
+      "window_programmes": 28828,
       "current_programmes": 339,
-      "future_programmes": 21124,
+      "future_programmes": 21009,
       "invalid_programmes": 644,
       "first": 1792792980,
       "last": 1793314800
@@ -582,9 +586,9 @@
       "fetched_at": 1792933695,
       "sha256": "0e52f66d710de874e1d82826cfe78b7ddaf0da5ed161be6e14e32af74db0e7ee",
       "input_channels": 345,
-      "window_programmes": 49783,
+      "window_programmes": 49655,
       "current_programmes": 281,
-      "future_programmes": 40619,
+      "future_programmes": 40501,
       "invalid_programmes": 577,
       "first": 1792771200,
       "last": 1793449320
@@ -599,9 +603,9 @@
       "fetched_at": 1792933695,
       "sha256": "aaa12a06adca37137a611b5858c6ca1cb719c82628ebafef57d4dc3d17f2a030",
       "input_channels": 574,
-      "window_programmes": 63108,
+      "window_programmes": 62994,
       "current_programmes": 564,
-      "future_programmes": 48625,
+      "future_programmes": 48440,
       "invalid_programmes": 93,
       "first": 1792800000,
       "last": 1793311560
@@ -628,12 +632,12 @@
       "id": "inline-lg",
       "priority": 5,
       "status": "downloaded",
-      "fetched_at": 1792934104,
+      "fetched_at": 1792935275,
       "kind": "public_inline_catalogue",
       "input_channels": 187,
       "window_programmes": 1682,
       "current_programmes": 187,
-      "future_programmes": 1607,
+      "future_programmes": 1530,
       "invalid_programmes": 0,
       "first": 1792920628,
       "last": 1792972800
@@ -660,12 +664,12 @@
       "id": "inline-tubi",
       "priority": 5,
       "status": "downloaded",
-      "fetched_at": 1792934104,
+      "fetched_at": 1792935275,
       "kind": "public_inline_catalogue",
-      "input_channels": 177,
-      "window_programmes": 7575,
-      "current_programmes": 177,
-      "future_programmes": 7571,
+      "input_channels": 176,
+      "window_programmes": 7518,
+      "current_programmes": 176,
+      "future_programmes": 7518,
       "invalid_programmes": 0,
       "first": 1792904400,
       "last": 1793074245
@@ -674,12 +678,12 @@
       "id": "inline-localnow",
       "priority": 5,
       "status": "downloaded",
-      "fetched_at": 1792934104,
+      "fetched_at": 1792935275,
       "kind": "public_inline_catalogue",
       "input_channels": 184,
       "window_programmes": 920,
       "current_programmes": 184,
-      "future_programmes": 918,
+      "future_programmes": 913,
       "invalid_programmes": 0,
       "first": 1792908000,
       "last": 1793005200
@@ -688,12 +692,12 @@
       "id": "inline-freelivesports",
       "priority": 5,
       "status": "downloaded",
-      "fetched_at": 1792934104,
+      "fetched_at": 1792935275,
       "kind": "public_inline_catalogue",
       "input_channels": 103,
-      "window_programmes": 11210,
+      "window_programmes": 11216,
       "current_programmes": 109,
-      "future_programmes": 10826,
+      "future_programmes": 10784,
       "invalid_programmes": 0,
       "first": 1792908000,
       "last": 1793551320
@@ -709,11 +713,24 @@
       "sha256": "0f96ddc636a65042aa753763f5b9fca759358de0f5aacf274eb642e315f458ce",
       "input_channels": 727,
       "window_programmes": 66852,
-      "current_programmes": 726,
-      "future_programmes": 64042,
+      "current_programmes": 725,
+      "future_programmes": 63749,
       "invalid_programmes": 0,
       "first": 1792864800,
       "last": 1793223240
+    },
+    {
+      "id": "previous-published",
+      "priority": 10000,
+      "status": "published_cache",
+      "published_at": "2026-10-25T13:15:03+00:00",
+      "input_channels": 11519,
+      "window_programmes": 913454,
+      "current_programmes": 11499,
+      "future_programmes": 734168,
+      "invalid_programmes": 0,
+      "first": 1792814400,
+      "last": 1793551320
     }
   ],
   "inventory_sources": [
@@ -740,7 +757,7 @@
     {
       "id": "inline-inventory-tubi",
       "status": "public_provider_snapshot",
-      "rows": 177
+      "rows": 176
     },
     {
       "id": "inline-inventory-stirr",
@@ -775,7 +792,7 @@
     {
       "id": "inline-inventory-roku",
       "status": "public_provider_snapshot",
-      "rows": 836
+      "rows": 837
     }
   ],
   "assessment_scope": "Public default Free-TV and iptv-org logical identities plus available provider-native catalogue identities. Includes provider copies; private accounts and the viewer's installed database are not observable here",
@@ -830,8 +847,8 @@
     },
     "unknown/provider-native": {
       "assessed": 3663,
-      "matched": 1378,
-      "current": 1377,
+      "matched": 1377,
+      "current": 1375,
       "future": 1376
     },
     "by": {
@@ -1892,10 +1909,10 @@
     }
   },
   "assessed_channels": 14488,
-  "matched_channels": 2406,
-  "assessed_current_channels": 2403,
+  "matched_channels": 2405,
+  "assessed_current_channels": 2401,
   "assessed_future_channels": 2404,
-  "unmatched_channels": 12082,
-  "sha256": "23f49b625134d2c82fd7818c562d6ff843d07b85f59afac2dc68e0ef92378329",
-  "compressed_bytes": 38194059
+  "unmatched_channels": 12083,
+  "sha256": "9518c64595eb94aa43f0e8f35217f7c83b1c228ea74945018419f76ab7f239a9",
+  "compressed_bytes": 38152803
 }
