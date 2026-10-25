@@ -65592,8 +65592,38 @@
     "list": "native-whale"
   },
   {
-    "name": "The Walking Dead Universe",
-    "epg_id": "enginexumo:99991623",
+    "name": "Sports Connect",
+    "epg_id": "enginefls:68543f26a4a3e82dffc86da2",
+    "country": "",
+    "list": "native-freelivesports"
+  },
+  {
+    "name": "MotorRacing",
+    "epg_id": "enginefls:67917ab78c569dd6bc2eb2c4",
+    "country": "",
+    "list": "native-freelivesports"
+  },
+  {
+    "name": "RPM Motorsport",
+    "epg_id": "enginefls:6675bae1d823954d12bb5b44",
+    "country": "",
+    "list": "native-freelivesports"
+  },
+  {
+    "name": "HorizonSports",
+    "epg_id": "enginefls:67917a6de0eff6898a8584ff",
+    "country": "",
+    "list": "native-freelivesports"
+  },
+  {
+    "name": "Action Plus",
+    "epg_id": "enginefls:66f5a9a408f2c39175aab916",
+    "country": "",
+    "list": "native-freelivesports"
+  },
+  {
+    "name": "In Touch + Network",
+    "epg_id": "enginexumo:99951481",
     "country": "",
     "list": "native-xumo"
   },
@@ -65604,8 +65634,8 @@
     "list": "native-xumo"
   },
   {
-    "name": "In Touch + Network",
-    "epg_id": "enginexumo:99951481",
+    "name": "Scares by Shudder",
+    "epg_id": "enginexumo:99951349",
     "country": "",
     "list": "native-xumo"
   },
@@ -65616,104 +65646,20 @@
     "list": "native-xumo"
   },
   {
-    "name": "Scares by Shudder",
-    "epg_id": "enginexumo:99951349",
+    "name": "The FBI",
+    "epg_id": "enginexumo:99951395",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Dateline 24/7",
-    "epg_id": "enginexumo:99991626",
+    "name": "Court TV",
+    "epg_id": "enginexumo:99951559",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "GustoTV",
-    "epg_id": "enginexumo:99991328",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Lauren Lake’s Paternity Court",
-    "epg_id": "enginexumo:99951581",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "The First 48 by A&E",
-    "epg_id": "enginexumo:99951490",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Cheaters",
-    "epg_id": "enginexumo:99951252",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Grit Xtra",
-    "epg_id": "enginexumo:99951152",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "The Conners",
-    "epg_id": "enginexumo:99951329",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "NBC Comedy Vault",
-    "epg_id": "enginexumo:99951244",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "The Virginian",
-    "epg_id": "enginexumo:99951525",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "BUZZR",
-    "epg_id": "enginexumo:99951124",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Weeds & Nurse Jackie",
-    "epg_id": "enginexumo:99951535",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "ION",
-    "epg_id": "enginexumo:99951158",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Universal Westerns",
-    "epg_id": "enginexumo:99951255",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Deal Zone by History",
-    "epg_id": "enginexumo:99951553",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "ElectricNOW",
-    "epg_id": "enginexumo:99991378",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Property & Reno",
-    "epg_id": "enginexumo:99951221",
+    "name": "Xena Warrior Princess",
+    "epg_id": "enginexumo:99951412",
     "country": "",
     "list": "native-xumo"
   },
@@ -65730,14 +65676,8 @@
     "list": "native-xumo"
   },
   {
-    "name": "ION Mystery",
-    "epg_id": "enginexumo:99951157",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Leave It to Beaver",
-    "epg_id": "enginexumo:99951257",
+    "name": "Deal Zone by History",
+    "epg_id": "enginexumo:99951553",
     "country": "",
     "list": "native-xumo"
   },
@@ -65748,74 +65688,26 @@
     "list": "native-xumo"
   },
   {
-    "name": "The Carol Burnett Show",
-    "epg_id": "enginexumo:99951380",
+    "name": "Grit Xtra",
+    "epg_id": "enginexumo:99951152",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "The Osbournes",
-    "epg_id": "enginexumo:99951408",
+    "name": "Cheaters",
+    "epg_id": "enginexumo:99951252",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "UFC",
-    "epg_id": "enginexumo:99951134",
+    "name": "BUZZR",
+    "epg_id": "enginexumo:99951124",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "AMERICATEVÉ",
-    "epg_id": "enginexumo:99951140",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Classic Doctor Who",
-    "epg_id": "enginexumo:99951248",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Court TV",
-    "epg_id": "enginexumo:99951559",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "A&E Crime 360",
-    "epg_id": "enginexumo:99951471",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Law & Order",
-    "epg_id": "enginexumo:99951468",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "The Addams Family",
-    "epg_id": "enginexumo:99951578",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Xena Warrior Princess",
-    "epg_id": "enginexumo:99951412",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Love After Lockup We TV",
-    "epg_id": "enginexumo:99951479",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "The FBI",
-    "epg_id": "enginexumo:99951395",
+    "name": "ION",
+    "epg_id": "enginexumo:99951158",
     "country": "",
     "list": "native-xumo"
   },
@@ -65826,140 +65718,14 @@
     "list": "native-xumo"
   },
   {
-    "name": "Forensic Files",
-    "epg_id": "enginexumo:99991367",
+    "name": "ElectricNOW",
+    "epg_id": "enginexumo:99991378",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Storage Wars by A&E",
-    "epg_id": "enginexumo:99951475",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Lucky Dog",
-    "epg_id": "enginexumo:99951444",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "CBS News 24/7",
-    "epg_id": "enginexumo:99991158",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "The Outer Limits",
-    "epg_id": "enginexumo:99951579",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Acorn TV Mysteries",
-    "epg_id": "enginexumo:99951478",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Universal Action",
-    "epg_id": "enginexumo:99951254",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "This Old House",
-    "epg_id": "enginexumo:99991293",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Western Bound Wrangled by INSP",
-    "epg_id": "enginexumo:99951160",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "TNA Wrestling Channel",
-    "epg_id": "enginexumo:99991341",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Stargate",
-    "epg_id": "enginexumo:99951580",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "BritBox Mysteries",
-    "epg_id": "enginexumo:99951213",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Hit Sitcoms",
-    "epg_id": "enginexumo:99951397",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "CBS Sports HQ",
-    "epg_id": "enginexumo:99991645",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Driftwood",
-    "epg_id": "enginexumo:99951585",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Hallmark Movies & More",
-    "epg_id": "enginexumo:99991709",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Universal Monsters",
-    "epg_id": "enginexumo:99951264",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Tastemade",
-    "epg_id": "enginexumo:99991202",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Anger Management",
-    "epg_id": "enginexumo:99951192",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Power Rangers",
-    "epg_id": "enginexumo:99951441",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "20/20",
-    "epg_id": "enginexumo:99951518",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "In the Heat of the Night",
-    "epg_id": "enginexumo:99951576",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Circle Country",
-    "epg_id": "enginexumo:99991131",
+    "name": "Leave It to Beaver",
+    "epg_id": "enginexumo:99951257",
     "country": "",
     "list": "native-xumo"
   },
@@ -65970,278 +65736,50 @@
     "list": "native-xumo"
   },
   {
-    "name": "CNN Headlines",
-    "epg_id": "enginexumo:99951386",
+    "name": "The Carol Burnett Show",
+    "epg_id": "enginexumo:99951380",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "The Pet Collective",
-    "epg_id": "enginexumo:99991174",
+    "name": "Universal Westerns",
+    "epg_id": "enginexumo:99951255",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "The Celebrity Name Game Channel",
-    "epg_id": "enginexumo:99951224",
+    "name": "Storage Wars by A&E",
+    "epg_id": "enginexumo:99951475",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Supermarket Sweep",
-    "epg_id": "enginexumo:99951126",
+    "name": "ION Mystery",
+    "epg_id": "enginexumo:99951157",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Xumo Free Kids TV",
-    "epg_id": "enginexumo:99991107",
+    "name": "CBS Sports HQ",
+    "epg_id": "enginexumo:99991645",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Laff More",
-    "epg_id": "enginexumo:99951232",
+    "name": "Lucky Dog",
+    "epg_id": "enginexumo:99951444",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Green Acres",
-    "epg_id": "enginexumo:99951577",
+    "name": "Property & Reno",
+    "epg_id": "enginexumo:99951221",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Family Affair Channel",
-    "epg_id": "enginexumo:99951146",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Modern Marvels by History",
-    "epg_id": "enginexumo:99951473",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Secrets of War",
-    "epg_id": "enginexumo:99951591",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Ancient Aliens",
-    "epg_id": "enginexumo:99951474",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Vice Entertainment",
-    "epg_id": "enginexumo:99951453",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Love The Planet",
-    "epg_id": "enginexumo:99951328",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Transformers",
-    "epg_id": "enginexumo:99951443",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "ONE Championship",
-    "epg_id": "enginexumo:99951530",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Sesame Street",
-    "epg_id": "enginexumo:99951595",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "CNN Originals",
-    "epg_id": "enginexumo:99951387",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Murder, She Wrote",
-    "epg_id": "enginexumo:99951239",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "ION Plus",
-    "epg_id": "enginexumo:9999614",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Xumo Free Comedy TV",
-    "epg_id": "enginexumo:99991105",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Ghosts Are Real",
-    "epg_id": "enginexumo:99951391",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Confess by Nosey",
-    "epg_id": "enginexumo:99991388",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Mysterious Worlds",
-    "epg_id": "enginexumo:99951398",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Family Feud Classic",
-    "epg_id": "enginexumo:99951339",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Divorce Court",
-    "epg_id": "enginexumo:99991346",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "NBC News NOW",
-    "epg_id": "enginexumo:99991247",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Wild West TV",
-    "epg_id": "enginexumo:99951356",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Tastemade Travel Channel",
-    "epg_id": "enginexumo:9995118",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "MovieSphere by Lionsgate",
-    "epg_id": "enginexumo:99951251",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "OuterSphere by Lionsgate",
-    "epg_id": "enginexumo:99951250",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Saved by the Bell",
-    "epg_id": "enginexumo:99951247",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Toon Goggles",
-    "epg_id": "enginexumo:99991268",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Telemundo Al Día",
-    "epg_id": "enginexumo:99991747",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Love Nature",
-    "epg_id": "enginexumo:99991398",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "SparkTV: Light & Love",
-    "epg_id": "enginexumo:99951528",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Universal Crime",
-    "epg_id": "enginexumo:99951245",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "UnXplained Zone",
-    "epg_id": "enginexumo:99951552",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Homeful",
-    "epg_id": "enginexumo:99991693",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "How-To",
-    "epg_id": "enginexumo:99951392",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "ABC News Live",
-    "epg_id": "enginexumo:99951517",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Johnny Carson TV",
-    "epg_id": "enginexumo:99991157",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Sweet Escapes",
-    "epg_id": "enginexumo:99951385",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "BBC Food",
-    "epg_id": "enginexumo:99951177",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Curiosity Now",
-    "epg_id": "enginexumo:99951358",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Elevation Church Network",
-    "epg_id": "enginexumo:99951543",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Shades of Black",
-    "epg_id": "enginexumo:9995106",
+    "name": "Classic Doctor Who",
+    "epg_id": "enginexumo:99951248",
     "country": "",
     "list": "native-xumo"
   },
@@ -66252,212 +65790,44 @@
     "list": "native-xumo"
   },
   {
-    "name": "Joel Osteen Network",
-    "epg_id": "enginexumo:99951344",
+    "name": "Modern Marvels by History",
+    "epg_id": "enginexumo:99951473",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Live PD Presents",
-    "epg_id": "enginexumo:99951489",
+    "name": "The Outer Limits",
+    "epg_id": "enginexumo:99951579",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Revry",
-    "epg_id": "enginexumo:99991296",
+    "name": "Dateline 24/7",
+    "epg_id": "enginexumo:99991626",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Xumo Free Travel & Lifestyle TV",
-    "epg_id": "enginexumo:99991111",
+    "name": "Law & Order",
+    "epg_id": "enginexumo:99951468",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Fear Factor",
-    "epg_id": "enginexumo:99951130",
+    "name": "The First 48 by A&E",
+    "epg_id": "enginexumo:99951490",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "At Home with Family Handyman",
-    "epg_id": "enginexumo:99951156",
+    "name": "Acorn TV Mysteries",
+    "epg_id": "enginexumo:99951478",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Shout! Movies",
-    "epg_id": "enginexumo:99951411",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Discovery Turbo TV",
-    "epg_id": "enginexumo:99951438",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Hungry",
-    "epg_id": "enginexumo:99991380",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "BBC News",
-    "epg_id": "enginexumo:99951298",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Bizarre Foods with Andrew Zimmern",
-    "epg_id": "enginexumo:99951393",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "FAITHOPE",
-    "epg_id": "enginexumo:99951189",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Willow Sports",
-    "epg_id": "enginexumo:99951406",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Haunt TV",
-    "epg_id": "enginexumo:99951375",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Say Yes to the Dress",
-    "epg_id": "enginexumo:99951394",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Teletubbies",
-    "epg_id": "enginexumo:99991761",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "MGM Presents: Action",
-    "epg_id": "enginexumo:99951572",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Newsmax2",
-    "epg_id": "enginexumo:99991194",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Sensical Jr.",
-    "epg_id": "enginexumo:99951280",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Tiny House Nation",
-    "epg_id": "enginexumo:99951472",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "BBC Earth",
-    "epg_id": "enginexumo:99951231",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "PFL MMA",
-    "epg_id": "enginexumo:99951203",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "My Little Pony",
-    "epg_id": "enginexumo:99951442",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Are We There Yet?",
-    "epg_id": "enginexumo:99991667",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "PBS Nature",
-    "epg_id": "enginexumo:99951195",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Billiard TV",
-    "epg_id": "enginexumo:99991627",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "History & Warfare",
-    "epg_id": "enginexumo:99951560",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "The Asylum",
-    "epg_id": "enginexumo:99991331",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Alfred Hitchcock Presents",
-    "epg_id": "enginexumo:99951256",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "The Yorkshire Vet & Friends",
-    "epg_id": "enginexumo:99951347",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "LOL Network",
-    "epg_id": "enginexumo:99951492",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "50 Cent Action",
-    "epg_id": "enginexumo:99951439",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "25 Words or Less",
-    "epg_id": "enginexumo:99991659",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "The Bold and the Beautiful",
-    "epg_id": "enginexumo:99951476",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "CBS News Bay Area",
-    "epg_id": "enginexumo:99991655",
+    "name": "Weeds & Nurse Jackie",
+    "epg_id": "enginexumo:99951535",
     "country": "",
     "list": "native-xumo"
   },
@@ -66468,20 +65838,548 @@
     "list": "native-xumo"
   },
   {
-    "name": "Fifth Gear",
-    "epg_id": "enginexumo:99951207",
+    "name": "The Virginian",
+    "epg_id": "enginexumo:99951525",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Lassie",
-    "epg_id": "enginexumo:99951259",
+    "name": "The Addams Family",
+    "epg_id": "enginexumo:99951578",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Murdoch Mysteries",
-    "epg_id": "enginexumo:99951452",
+    "name": "CNN Originals",
+    "epg_id": "enginexumo:99951387",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Western Bound Wrangled by INSP",
+    "epg_id": "enginexumo:99951160",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Driftwood",
+    "epg_id": "enginexumo:99951585",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "TNA Wrestling Channel",
+    "epg_id": "enginexumo:99991341",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Love After Lockup We TV",
+    "epg_id": "enginexumo:99951479",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Stargate",
+    "epg_id": "enginexumo:99951580",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "UFC",
+    "epg_id": "enginexumo:99951134",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Universal Monsters",
+    "epg_id": "enginexumo:99951264",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "CBS News 24/7",
+    "epg_id": "enginexumo:99991158",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Murder, She Wrote",
+    "epg_id": "enginexumo:99951239",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Supermarket Sweep",
+    "epg_id": "enginexumo:99951126",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Forensic Files",
+    "epg_id": "enginexumo:99991367",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Anger Management",
+    "epg_id": "enginexumo:99951192",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "NBC Comedy Vault",
+    "epg_id": "enginexumo:99951244",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "GustoTV",
+    "epg_id": "enginexumo:99991328",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "In the Heat of the Night",
+    "epg_id": "enginexumo:99951576",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Lauren Lake’s Paternity Court",
+    "epg_id": "enginexumo:99951581",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Hit Sitcoms",
+    "epg_id": "enginexumo:99951397",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "The Osbournes",
+    "epg_id": "enginexumo:99951408",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Johnny Carson TV",
+    "epg_id": "enginexumo:99991157",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "The Conners",
+    "epg_id": "enginexumo:99951329",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "This Old House",
+    "epg_id": "enginexumo:99991293",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "20/20",
+    "epg_id": "enginexumo:99951518",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Mysterious Worlds",
+    "epg_id": "enginexumo:99951398",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "ABC News Live",
+    "epg_id": "enginexumo:99951517",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Family Affair Channel",
+    "epg_id": "enginexumo:99951146",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Sweet Escapes",
+    "epg_id": "enginexumo:99951385",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Power Rangers",
+    "epg_id": "enginexumo:99951441",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Ghosts Are Real",
+    "epg_id": "enginexumo:99951391",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "A&E Crime 360",
+    "epg_id": "enginexumo:99951471",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Tastemade",
+    "epg_id": "enginexumo:99991202",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "The Pet Collective",
+    "epg_id": "enginexumo:99991174",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Circle Country",
+    "epg_id": "enginexumo:99991131",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Secrets of War",
+    "epg_id": "enginexumo:99951591",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Hallmark Movies & More",
+    "epg_id": "enginexumo:99991709",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "BBC News",
+    "epg_id": "enginexumo:99951298",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "The Bold and the Beautiful",
+    "epg_id": "enginexumo:99951476",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Divorce Court",
+    "epg_id": "enginexumo:99991346",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Curiosity Now",
+    "epg_id": "enginexumo:99951358",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "ONE Championship",
+    "epg_id": "enginexumo:99951530",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Family Feud Classic",
+    "epg_id": "enginexumo:99951339",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Newsmax2",
+    "epg_id": "enginexumo:99991194",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "NBC News NOW",
+    "epg_id": "enginexumo:99991247",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Universal Action",
+    "epg_id": "enginexumo:99951254",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Transformers",
+    "epg_id": "enginexumo:99951443",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "BBC Food",
+    "epg_id": "enginexumo:99951177",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "ION Plus",
+    "epg_id": "enginexumo:9999614",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "BritBox Mysteries",
+    "epg_id": "enginexumo:99951213",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Bizarre Foods with Andrew Zimmern",
+    "epg_id": "enginexumo:99951393",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "OuterSphere by Lionsgate",
+    "epg_id": "enginexumo:99951250",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "The Walking Dead Universe",
+    "epg_id": "enginexumo:99991623",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Telemundo Al Día",
+    "epg_id": "enginexumo:99991747",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Ancient Aliens",
+    "epg_id": "enginexumo:99951474",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Love The Planet",
+    "epg_id": "enginexumo:99951328",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "MovieSphere by Lionsgate",
+    "epg_id": "enginexumo:99951251",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Vice Entertainment",
+    "epg_id": "enginexumo:99951453",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "How-To",
+    "epg_id": "enginexumo:99951392",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Universal Crime",
+    "epg_id": "enginexumo:99951245",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Discovery Turbo TV",
+    "epg_id": "enginexumo:99951438",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Laff More",
+    "epg_id": "enginexumo:99951232",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Teletubbies",
+    "epg_id": "enginexumo:99991761",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "SparkTV: Light & Love",
+    "epg_id": "enginexumo:99951528",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Wild West TV",
+    "epg_id": "enginexumo:99951356",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Green Acres",
+    "epg_id": "enginexumo:99951577",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Xumo Free Comedy TV",
+    "epg_id": "enginexumo:99991105",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "CNN Headlines",
+    "epg_id": "enginexumo:99951386",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Tiny House Nation",
+    "epg_id": "enginexumo:99951472",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "UnXplained Zone",
+    "epg_id": "enginexumo:99951552",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "At Home with Family Handyman",
+    "epg_id": "enginexumo:99951156",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Homeful",
+    "epg_id": "enginexumo:99991693",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Xumo Free Kids TV",
+    "epg_id": "enginexumo:99991107",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "25 Words or Less",
+    "epg_id": "enginexumo:99991659",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Toon Goggles",
+    "epg_id": "enginexumo:99991268",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Sesame Street",
+    "epg_id": "enginexumo:99951595",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Shades of Black",
+    "epg_id": "enginexumo:9995106",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Hungry",
+    "epg_id": "enginexumo:99991380",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Tastemade Travel Channel",
+    "epg_id": "enginexumo:9995118",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Alfred Hitchcock Presents",
+    "epg_id": "enginexumo:99951256",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "The Asylum",
+    "epg_id": "enginexumo:99991331",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Love Nature",
+    "epg_id": "enginexumo:99991398",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FAITHOPE",
+    "epg_id": "enginexumo:99951189",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Confess by Nosey",
+    "epg_id": "enginexumo:99991388",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "The Celebrity Name Game Channel",
+    "epg_id": "enginexumo:99951224",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Joel Osteen Network",
+    "epg_id": "enginexumo:99951344",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "MGM Presents: Action",
+    "epg_id": "enginexumo:99951572",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Haunt TV",
+    "epg_id": "enginexumo:99951375",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Shout! Movies",
+    "epg_id": "enginexumo:99951411",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Elevation Church Network",
+    "epg_id": "enginexumo:99951543",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Say Yes to the Dress",
+    "epg_id": "enginexumo:99951394",
     "country": "",
     "list": "native-xumo"
   },
@@ -66492,44 +66390,62 @@
     "list": "native-xumo"
   },
   {
-    "name": "The Emeril Lagasse Channel",
-    "epg_id": "enginexumo:99951514",
+    "name": "Are We There Yet?",
+    "epg_id": "enginexumo:99991667",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "All Weddings We TV",
-    "epg_id": "enginexumo:99991625",
+    "name": "Live PD Presents",
+    "epg_id": "enginexumo:99951489",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Field & Stream TV",
-    "epg_id": "enginexumo:99991374",
+    "name": "PBS Nature",
+    "epg_id": "enginexumo:99951195",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Universal Movies",
-    "epg_id": "enginexumo:99991621",
+    "name": "The Yorkshire Vet & Friends",
+    "epg_id": "enginexumo:99951347",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Scripps News",
-    "epg_id": "enginexumo:99991148",
+    "name": "Fear Factor",
+    "epg_id": "enginexumo:99951130",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Ebony TV by Lionsgate",
-    "epg_id": "enginexumo:99951293",
+    "name": "The Jamie Oliver Channel",
+    "epg_id": "enginexumo:99951153",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Rainbow Rangers",
-    "epg_id": "enginexumo:99991283",
+    "name": "Saved by the Bell",
+    "epg_id": "enginexumo:99951247",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "History & Warfare",
+    "epg_id": "enginexumo:99951560",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Billiard TV",
+    "epg_id": "enginexumo:99991627",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "The Jack Hanna Channel",
+    "epg_id": "enginexumo:99951491",
     "country": "",
     "list": "native-xumo"
   },
@@ -66540,14 +66456,80 @@
     "list": "native-xumo"
   },
   {
+    "name": "RiffTrax",
+    "epg_id": "enginexumo:99991106",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "AMERICATEVÉ",
+    "epg_id": "enginexumo:99951140",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
     "name": "The Design Network",
     "epg_id": "enginexumo:99991390",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "True History Channel",
-    "epg_id": "enginexumo:99991650",
+    "name": "50 Cent Action",
+    "epg_id": "enginexumo:99951439",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Fifth Gear",
+    "epg_id": "enginexumo:99951207",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Baywatch",
+    "epg_id": "enginexumo:99951133",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Rainbow Rangers",
+    "epg_id": "enginexumo:99991283",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Field & Stream TV",
+    "epg_id": "enginexumo:99991374",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "BBC Earth",
+    "epg_id": "enginexumo:99951231",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Willow Sports",
+    "epg_id": "enginexumo:99951406",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "LOL Network",
+    "epg_id": "enginexumo:99951492",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "My Little Pony",
+    "epg_id": "enginexumo:99951442",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "OAN Plus",
+    "epg_id": "enginexumo:99951404",
     "country": "",
     "list": "native-xumo"
   },
@@ -66558,20 +66540,38 @@
     "list": "native-xumo"
   },
   {
-    "name": "iHeart Hip Hop Beats",
-    "epg_id": "enginexumo:9995103",
+    "name": "Sensical Jr.",
+    "epg_id": "enginexumo:99951280",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "NBC 4 Washington News",
-    "epg_id": "enginexumo:99951181",
+    "name": "PFL MMA",
+    "epg_id": "enginexumo:99951203",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "RiffTrax",
-    "epg_id": "enginexumo:99991106",
+    "name": "Home. Made. Nation",
+    "epg_id": "enginexumo:99951470",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "PowerNation",
+    "epg_id": "enginexumo:99991291",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "PBS Food",
+    "epg_id": "enginexumo:99951588",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "All Weddings We TV",
+    "epg_id": "enginexumo:99991625",
     "country": "",
     "list": "native-xumo"
   },
@@ -66582,26 +66582,122 @@
     "list": "native-xumo"
   },
   {
-    "name": "Today's Homeowner",
-    "epg_id": "enginexumo:99991759",
+    "name": "Dr. Phil",
+    "epg_id": "enginexumo:99951370",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Stories by AMC",
-    "epg_id": "enginexumo:99991622",
+    "name": "Stingray Remember the 80s",
+    "epg_id": "enginexumo:99991742",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "America's Test Kitchen",
-    "epg_id": "enginexumo:99991369",
+    "name": "Universal Movies",
+    "epg_id": "enginexumo:99991621",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Cosmic Frontiers",
+    "epg_id": "enginexumo:99951345",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Tastemade Home",
+    "epg_id": "enginexumo:99951436",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Murdoch Mysteries",
+    "epg_id": "enginexumo:99951452",
     "country": "",
     "list": "native-xumo"
   },
   {
     "name": "Dungeons & Dragons Adventures",
     "epg_id": "enginexumo:99951440",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Antiques Road Trip",
+    "epg_id": "enginexumo:99951353",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "iHeart Hip Hop Beats",
+    "epg_id": "enginexumo:9995103",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Today's Homeowner",
+    "epg_id": "enginexumo:99991759",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Ebony TV by Lionsgate",
+    "epg_id": "enginexumo:99951293",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Stingray Naturescape",
+    "epg_id": "enginexumo:99991252",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Impact Gospel",
+    "epg_id": "enginexumo:99951434",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "STELLAR",
+    "epg_id": "enginexumo:99951211",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "TV One Stars & Stories",
+    "epg_id": "enginexumo:99951379",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "NBC 4 Washington News",
+    "epg_id": "enginexumo:99951181",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "AMC Thrillers",
+    "epg_id": "enginexumo:99951377",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "CBS News New York",
+    "epg_id": "enginexumo:99991641",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Top Gear",
+    "epg_id": "enginexumo:99951249",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "America's Test Kitchen",
+    "epg_id": "enginexumo:99991369",
     "country": "",
     "list": "native-xumo"
   },
@@ -66618,110 +66714,20 @@
     "list": "native-xumo"
   },
   {
-    "name": "AMC Thrillers",
-    "epg_id": "enginexumo:99951377",
+    "name": "Stories by AMC",
+    "epg_id": "enginexumo:99991622",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "TV One CRIME & JUSTICE FAST CHANNEL",
-    "epg_id": "enginexumo:99951299",
+    "name": "The Emeril Lagasse Channel",
+    "epg_id": "enginexumo:99951514",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Rebelde",
-    "epg_id": "enginexumo:99951567",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "HBO Boxing",
-    "epg_id": "enginexumo:99951469",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Impact Gospel",
-    "epg_id": "enginexumo:99951434",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "PBS Genealogy",
-    "epg_id": "enginexumo:99951589",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Stingray Remember the 80s",
-    "epg_id": "enginexumo:99991742",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Baywatch",
-    "epg_id": "enginexumo:99951133",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "The Jack Hanna Channel",
-    "epg_id": "enginexumo:99951491",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Cosmic Frontiers",
-    "epg_id": "enginexumo:99951345",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "McLeod's Daughters",
-    "epg_id": "enginexumo:99951138",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "FOX LOCAL Los Angeles",
-    "epg_id": "enginexumo:99951420",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "The Jamie Oliver Channel",
-    "epg_id": "enginexumo:99951153",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Dr. Phil",
-    "epg_id": "enginexumo:99951370",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Bravo Vault",
-    "epg_id": "enginexumo:99951242",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "PowerNation",
-    "epg_id": "enginexumo:99991291",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "OAN Plus",
-    "epg_id": "enginexumo:99951404",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Little House on the Prairie",
-    "epg_id": "enginexumo:99951240",
+    "name": "True History Channel",
+    "epg_id": "enginexumo:99991650",
     "country": "",
     "list": "native-xumo"
   },
@@ -66732,92 +66738,14 @@
     "list": "native-xumo"
   },
   {
-    "name": "Mayday: Air Disaster",
-    "epg_id": "enginexumo:99951262",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Home. Made. Nation",
-    "epg_id": "enginexumo:99951470",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
     "name": "FilmRise Horror",
     "epg_id": "enginexumo:99991337",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "FOX LOCAL Dallas-Fort Worth",
-    "epg_id": "enginexumo:99951418",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Top Gear",
-    "epg_id": "enginexumo:99951249",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "PBS Travel",
-    "epg_id": "enginexumo:99951587",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "The NBA Channel",
-    "epg_id": "enginexumo:99951383",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Stingray Hit List",
-    "epg_id": "enginexumo:99991117",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Antiques Road Trip",
-    "epg_id": "enginexumo:99951353",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "TV One Stars & Stories",
-    "epg_id": "enginexumo:99951379",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "The Price is Right: The Barker Era",
-    "epg_id": "enginexumo:99951125",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Bachelor Nation",
-    "epg_id": "enginexumo:99951384",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "WSOC Charlotte",
-    "epg_id": "enginexumo:99991691",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "STELLAR",
-    "epg_id": "enginexumo:99951211",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Growing Up Hip-Hop",
-    "epg_id": "enginexumo:99951480",
+    "name": "Lassie",
+    "epg_id": "enginexumo:99951259",
     "country": "",
     "list": "native-xumo"
   },
@@ -66828,200 +66756,44 @@
     "list": "native-xumo"
   },
   {
+    "name": "Xumo Free Travel & Lifestyle TV",
+    "epg_id": "enginexumo:99991111",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "TV One CRIME & JUSTICE FAST CHANNEL",
+    "epg_id": "enginexumo:99951299",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Stingray Hit List",
+    "epg_id": "enginexumo:99991117",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Revry",
+    "epg_id": "enginexumo:99991296",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "CBS News Bay Area",
+    "epg_id": "enginexumo:99991655",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "PBS Genealogy",
+    "epg_id": "enginexumo:99951589",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
     "name": "FOX LOCAL Tampa Bay",
     "epg_id": "enginexumo:99951416",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Nosey",
-    "epg_id": "enginexumo:99991366",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Xumo Free Nature & Wildlife TV",
-    "epg_id": "enginexumo:99951218",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Swerve Combat",
-    "epg_id": "enginexumo:99991696",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Dog the Bounty Hunter",
-    "epg_id": "enginexumo:99951485",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "BBC Home & Garden",
-    "epg_id": "enginexumo:99951178",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "SPEEDVISION",
-    "epg_id": "enginexumo:99951268",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "ShopLC",
-    "epg_id": "enginexumo:99991370",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Wendy Williams",
-    "epg_id": "enginexumo:99951433",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Portlandia",
-    "epg_id": "enginexumo:99951301",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "CBS News New York",
-    "epg_id": "enginexumo:99991641",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "GaitherTV FAST",
-    "epg_id": "enginexumo:99951524",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Family Feud",
-    "epg_id": "enginexumo:99991232",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Combat War Channel",
-    "epg_id": "enginexumo:99991379",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "World Poker Tour",
-    "epg_id": "enginexumo:99991317",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "American Crimes",
-    "epg_id": "enginexumo:99951461",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "The Wu Tang Collection TV",
-    "epg_id": "enginexumo:99991745",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "The Martha Stewart Channel",
-    "epg_id": "enginexumo:99951513",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "At The Movies",
-    "epg_id": "enginexumo:99951603",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Real Housewives Vault",
-    "epg_id": "enginexumo:99951243",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Monsters & Nightmares",
-    "epg_id": "enginexumo:99991399",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "PBS Food",
-    "epg_id": "enginexumo:99951588",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "A&E Live PD: Greatest Shifts",
-    "epg_id": "enginexumo:99951550",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Xumo Free Food TV",
-    "epg_id": "enginexumo:9995117",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "FOX LOCAL Chicago",
-    "epg_id": "enginexumo:99951415",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "DaystarTV",
-    "epg_id": "enginexumo:99951592",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Stingray Naturescape",
-    "epg_id": "enginexumo:99991252",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Bad Girls Club",
-    "epg_id": "enginexumo:99951467",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Como Dice El Dicho",
-    "epg_id": "enginexumo:99951564",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Tastemade Home",
-    "epg_id": "enginexumo:99951436",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Just for Laughs Gags",
-    "epg_id": "enginexumo:99991204",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Unsolved Mysteries",
-    "epg_id": "enginexumo:99991680",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Xumo Free Game Show TV",
-    "epg_id": "enginexumo:99991639",
     "country": "",
     "list": "native-xumo"
   },
@@ -67032,26 +66804,86 @@
     "list": "native-xumo"
   },
   {
-    "name": "MGM Celebrates Black Cinema",
-    "epg_id": "enginexumo:99951574",
+    "name": "Bravo Vault",
+    "epg_id": "enginexumo:99951242",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Oxygen True Crime Archives",
-    "epg_id": "enginexumo:99951466",
+    "name": "Growing Up Hip-Hop",
+    "epg_id": "enginexumo:99951480",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Midsomer Murders",
-    "epg_id": "enginexumo:99991698",
+    "name": "HBO Boxing",
+    "epg_id": "enginexumo:99951469",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "World's Wildest Police Videos",
-    "epg_id": "enginexumo:99951544",
+    "name": "Bachelor Nation",
+    "epg_id": "enginexumo:99951384",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Mayday: Air Disaster",
+    "epg_id": "enginexumo:99951262",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "McLeod's Daughters",
+    "epg_id": "enginexumo:99951138",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "WSOC Charlotte",
+    "epg_id": "enginexumo:99991691",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Combat War Channel",
+    "epg_id": "enginexumo:99991379",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Xumo Free Nature & Wildlife TV",
+    "epg_id": "enginexumo:99951218",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "World Poker Tour",
+    "epg_id": "enginexumo:99991317",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Scripps News",
+    "epg_id": "enginexumo:99991148",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "SPEEDVISION",
+    "epg_id": "enginexumo:99951268",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Real Housewives Vault",
+    "epg_id": "enginexumo:99951243",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Wendy Williams",
+    "epg_id": "enginexumo:99951433",
     "country": "",
     "list": "native-xumo"
   },
@@ -67062,50 +66894,20 @@
     "list": "native-xumo"
   },
   {
-    "name": "Classic Car Auctions by History",
-    "epg_id": "enginexumo:99951486",
+    "name": "The Martha Stewart Channel",
+    "epg_id": "enginexumo:99951513",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "PBS Antiques Roadshow",
-    "epg_id": "enginexumo:99951206",
+    "name": "Dog the Bounty Hunter",
+    "epg_id": "enginexumo:99951485",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "iHeartCountry",
-    "epg_id": "enginexumo:9995102",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Highway to Heaven",
-    "epg_id": "enginexumo:99951401",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "REELZ Famous & Infamous",
-    "epg_id": "enginexumo:99991368",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "beIN SPORTS XTRA",
-    "epg_id": "enginexumo:99991387",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Paranormal Files",
-    "epg_id": "enginexumo:99991769",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Stingray Greatest Hits",
-    "epg_id": "enginexumo:99991120",
+    "name": "Bad Girls Club",
+    "epg_id": "enginexumo:99951467",
     "country": "",
     "list": "native-xumo"
   },
@@ -67116,164 +66918,14 @@
     "list": "native-xumo"
   },
   {
-    "name": "GOLFPASS",
-    "epg_id": "enginexumo:99951462",
+    "name": "Nosey",
+    "epg_id": "enginexumo:99991366",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "SportsGrid",
-    "epg_id": "enginexumo:99951586",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "FailArmy",
-    "epg_id": "enginexumo:99991153",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "America's Got Talent",
-    "epg_id": "enginexumo:99951457",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "FILMEX CLASICO",
-    "epg_id": "enginexumo:99981121",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "All Reality We TV",
-    "epg_id": "enginexumo:99951376",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "OUTflix Movies",
-    "epg_id": "enginexumo:99951288",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Ninja Kidz TV",
-    "epg_id": "enginexumo:99951229",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Matched Married Meet by Lifetime",
-    "epg_id": "enginexumo:99951487",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "The Lone Ranger",
-    "epg_id": "enginexumo:99951258",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Hell's Kitchen",
-    "epg_id": "enginexumo:99991681",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Stingray Soul Storm",
-    "epg_id": "enginexumo:99991121",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "ALLBLK Gems",
-    "epg_id": "enginexumo:99951477",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Xumo Free Action & Drama TV",
-    "epg_id": "enginexumo:99991784",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "El Rey Rebel",
-    "epg_id": "enginexumo:99951536",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Estrella News",
-    "epg_id": "enginexumo:99991776",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "FILMEX",
-    "epg_id": "enginexumo:99951120",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Deal Or No Deal",
-    "epg_id": "enginexumo:99991113",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Great American RomComs",
-    "epg_id": "enginexumo:99951596",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "MythBusters",
-    "epg_id": "enginexumo:99951396",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "iHeart90s",
-    "epg_id": "enginexumo:9995100",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "KIRO Seattle",
-    "epg_id": "enginexumo:9995112",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Comedy Dynamics",
-    "epg_id": "enginexumo:99951463",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "ET",
-    "epg_id": "enginexumo:99991670",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Pure Flix TV",
-    "epg_id": "enginexumo:99951407",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "The Great British Baking Channel",
-    "epg_id": "enginexumo:99951607",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Hi-Yah!",
-    "epg_id": "enginexumo:99991302",
+    "name": "The Price is Right: The Barker Era",
+    "epg_id": "enginexumo:99951125",
     "country": "",
     "list": "native-xumo"
   },
@@ -67284,416 +66936,212 @@
     "list": "native-xumo"
   },
   {
+    "name": "PBS Travel",
+    "epg_id": "enginexumo:99951587",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FOX LOCAL Chicago",
+    "epg_id": "enginexumo:99951415",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Stingray Soul Storm",
+    "epg_id": "enginexumo:99991121",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "The Wu Tang Collection TV",
+    "epg_id": "enginexumo:99991745",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "iHeartCountry",
+    "epg_id": "enginexumo:9995102",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Como Dice El Dicho",
+    "epg_id": "enginexumo:99951564",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FILMEX CLASICO",
+    "epg_id": "enginexumo:99981121",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Little House on the Prairie",
+    "epg_id": "enginexumo:99951240",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
     "name": "PursuitUp",
     "epg_id": "enginexumo:99991648",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Las Vegas",
-    "epg_id": "enginexumo:99951238",
+    "name": "Portlandia",
+    "epg_id": "enginexumo:99951301",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "GoldenTV",
-    "epg_id": "enginexumo:99951493",
+    "name": "American Crimes",
+    "epg_id": "enginexumo:99951461",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Ghost Hunters",
-    "epg_id": "enginexumo:99951277",
+    "name": "FOX LOCAL Los Angeles",
+    "epg_id": "enginexumo:99951420",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Dance Moms by Lifetime",
-    "epg_id": "enginexumo:99951488",
+    "name": "At The Movies",
+    "epg_id": "enginexumo:99951603",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Fairground AI TV",
-    "epg_id": "enginexumo:99951590",
+    "name": "Stingray Greatest Hits",
+    "epg_id": "enginexumo:99991120",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Xumo Free Crime TV",
-    "epg_id": "enginexumo:99991384",
+    "name": "Monsters & Nightmares",
+    "epg_id": "enginexumo:99991399",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Rig TV",
-    "epg_id": "enginexumo:99951338",
+    "name": "Swerve Combat",
+    "epg_id": "enginexumo:99991696",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "PokerGO",
-    "epg_id": "enginexumo:99991633",
+    "name": "Classic Car Auctions by History",
+    "epg_id": "enginexumo:99951486",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Heartland",
-    "epg_id": "enginexumo:99951494",
+    "name": "The NBA Channel",
+    "epg_id": "enginexumo:99951383",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "NBC LX Home",
-    "epg_id": "enginexumo:99991651",
+    "name": "Rebelde",
+    "epg_id": "enginexumo:99951567",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "It's Showtime at the Apollo",
-    "epg_id": "enginexumo:99991349",
+    "name": "beIN SPORTS XTRA",
+    "epg_id": "enginexumo:99991387",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "DOCUMENTARY+",
-    "epg_id": "enginexumo:99991638",
+    "name": "Family Feud",
+    "epg_id": "enginexumo:99991232",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Dateline en Español",
-    "epg_id": "enginexumo:99951547",
+    "name": "PBS Antiques Roadshow",
+    "epg_id": "enginexumo:99951206",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "FOX LOCAL Seattle",
-    "epg_id": "enginexumo:99951417",
+    "name": "MGM Celebrates Black Cinema",
+    "epg_id": "enginexumo:99951574",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "El Señor de los Cielos",
-    "epg_id": "enginexumo:99991748",
+    "name": "A&E Live PD: Greatest Shifts",
+    "epg_id": "enginexumo:99951550",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Fluffy TV",
-    "epg_id": "enginexumo:99951287",
+    "name": "iHeart90s",
+    "epg_id": "enginexumo:9995100",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Bizaar",
-    "epg_id": "enginexumo:99951435",
+    "name": "BBC Home & Garden",
+    "epg_id": "enginexumo:99951178",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "The Graham Norton Show",
-    "epg_id": "enginexumo:99951450",
+    "name": "DaystarTV",
+    "epg_id": "enginexumo:99951592",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "HSN",
-    "epg_id": "enginexumo:99991271",
+    "name": "Oxygen True Crime Archives",
+    "epg_id": "enginexumo:99951466",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Complex TV",
-    "epg_id": "enginexumo:99991303",
+    "name": "Ninja Kidz TV",
+    "epg_id": "enginexumo:99951229",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "CBS News Boston",
-    "epg_id": "enginexumo:99991656",
+    "name": "Highway to Heaven",
+    "epg_id": "enginexumo:99951401",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "La Fea Más Bella",
-    "epg_id": "enginexumo:99951568",
+    "name": "Paranormal Files",
+    "epg_id": "enginexumo:99991769",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Extreme Jobs",
-    "epg_id": "enginexumo:99951432",
+    "name": "Midsomer Murders",
+    "epg_id": "enginexumo:99991698",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Stash TV",
-    "epg_id": "enginexumo:99991300",
+    "name": "Xumo Free Game Show TV",
+    "epg_id": "enginexumo:99991639",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "TYT",
-    "epg_id": "enginexumo:99991147",
+    "name": "All Reality We TV",
+    "epg_id": "enginexumo:99951376",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Big 12 Studios",
-    "epg_id": "enginexumo:99951359",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Xumo Free Reality TV",
-    "epg_id": "enginexumo:99991364",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "World of Love Island",
-    "epg_id": "enginexumo:99951508",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "The Repair Shop",
-    "epg_id": "enginexumo:99951604",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Salem News Channel",
-    "epg_id": "enginexumo:99951283",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "beIN SPORTS XTRA en Español",
-    "epg_id": "enginexumo:99991785",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "SNL Vault",
-    "epg_id": "enginexumo:99951236",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Nash Bridges",
-    "epg_id": "enginexumo:99951330",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "QVC",
-    "epg_id": "enginexumo:99991344",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Million Dollar Listing Vault",
-    "epg_id": "enginexumo:99951237",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Stingray Classic Rock",
-    "epg_id": "enginexumo:99991119",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Designated Survivor",
-    "epg_id": "enginexumo:99951346",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "News 12 New York",
-    "epg_id": "enginexumo:99951222",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "MGM Presents",
-    "epg_id": "enginexumo:99951573",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "E! Keeping Up",
-    "epg_id": "enginexumo:99951465",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "PBR RidePass",
-    "epg_id": "enginexumo:99951388",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "FOX LOCAL Milwaukee",
-    "epg_id": "enginexumo:99951429",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "WITZ Comedy",
-    "epg_id": "enginexumo:99951403",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Trinity Broadcast Network",
-    "epg_id": "enginexumo:99991708",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Property Brothers",
-    "epg_id": "enginexumo:99951537",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Bowling TV",
-    "epg_id": "enginexumo:99951510",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Ice Road Truckers by History",
-    "epg_id": "enginexumo:99951484",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Bloomberg TV+",
-    "epg_id": "enginexumo:99951533",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Fox Weather",
-    "epg_id": "enginexumo:99991694",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "FOX LOCAL Minnesota",
-    "epg_id": "enginexumo:99951431",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "ITN’s CreatureVerse",
-    "epg_id": "enginexumo:99951593",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "TennisChannel 2",
-    "epg_id": "enginexumo:99951389",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "SWAC TV",
-    "epg_id": "enginexumo:99951594",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "@Home DIY",
-    "epg_id": "enginexumo:99951482",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "NBC 6 South Florida News",
-    "epg_id": "enginexumo:99951167",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Spectrum News+",
-    "epg_id": "enginexumo:99951337",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Fubo Sports Network",
-    "epg_id": "enginexumo:99951548",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "BBC Drama",
-    "epg_id": "enginexumo:99951605",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Spectrum Noticias",
-    "epg_id": "enginexumo:99951414",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Xtreme Outdoor by History",
-    "epg_id": "enginexumo:99951554",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Lawless by Lionsgate",
-    "epg_id": "enginexumo:99951410",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "WFTV Orlando",
-    "epg_id": "enginexumo:9995107",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Reuters 60",
-    "epg_id": "enginexumo:99951197",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "American Ninja Warrior",
-    "epg_id": "enginexumo:99951318",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Action News Jax",
-    "epg_id": "enginexumo:9995110",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Scripps Sports Network",
-    "epg_id": "enginexumo:99951538",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Ryz Sports Network",
-    "epg_id": "enginexumo:99951373",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "FOX Sports",
-    "epg_id": "enginexumo:99991196",
+    "name": "ALLBLK Gems",
+    "epg_id": "enginexumo:99951477",
     "country": "",
     "list": "native-xumo"
   },
@@ -67704,38 +67152,68 @@
     "list": "native-xumo"
   },
   {
-    "name": "A&E Alaska State Troopers",
-    "epg_id": "enginexumo:99951555",
+    "name": "SportsGrid",
+    "epg_id": "enginexumo:99951586",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Untold Stories of the ER",
-    "epg_id": "enginexumo:99951341",
+    "name": "Unsolved Mysteries",
+    "epg_id": "enginexumo:99991680",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "FOX LOCAL Phoenix",
-    "epg_id": "enginexumo:99951419",
+    "name": "Salem News Channel",
+    "epg_id": "enginexumo:99951283",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Garden with Monty Don",
-    "epg_id": "enginexumo:99951212",
+    "name": "The Great British Baking Channel",
+    "epg_id": "enginexumo:99951607",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Places & Spaces",
-    "epg_id": "enginexumo:99951350",
+    "name": "Deal Or No Deal",
+    "epg_id": "enginexumo:99991113",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "FOX LOCAL Houston",
-    "epg_id": "enginexumo:99951423",
+    "name": "The Lone Ranger",
+    "epg_id": "enginexumo:99951258",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Ghost Hunters",
+    "epg_id": "enginexumo:99951277",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "beIN SPORTS XTRA en Español",
+    "epg_id": "enginexumo:99991785",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Xumo Free Food TV",
+    "epg_id": "enginexumo:9995117",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "REELZ Famous & Infamous",
+    "epg_id": "enginexumo:99991368",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "OUTflix Movies",
+    "epg_id": "enginexumo:99951288",
     "country": "",
     "list": "native-xumo"
   },
@@ -67746,80 +67224,374 @@
     "list": "native-xumo"
   },
   {
-    "name": "Jajaja",
-    "epg_id": "enginexumo:99951565",
+    "name": "World's Wildest Police Videos",
+    "epg_id": "enginexumo:99951544",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Dog Whisperer",
-    "epg_id": "enginexumo:99951294",
+    "name": "Las Vegas",
+    "epg_id": "enginexumo:99951238",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Canela.TV Clasicos",
-    "epg_id": "enginexumo:99951367",
+    "name": "El Rey Rebel",
+    "epg_id": "enginexumo:99951536",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Strongman Champions League",
-    "epg_id": "enginexumo:99951180",
+    "name": "FOX LOCAL Dallas-Fort Worth",
+    "epg_id": "enginexumo:99951418",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "NESN NATION",
-    "epg_id": "enginexumo:99951569",
+    "name": "FailArmy",
+    "epg_id": "enginexumo:99991153",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "NBC 4 New York News",
-    "epg_id": "enginexumo:99951163",
+    "name": "ShopLC",
+    "epg_id": "enginexumo:99991370",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "NBC Sports NOW",
-    "epg_id": "enginexumo:99951253",
+    "name": "GoldenTV",
+    "epg_id": "enginexumo:99951493",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "WildEarth",
-    "epg_id": "enginexumo:99991628",
+    "name": "GaitherTV FAST",
+    "epg_id": "enginexumo:99951524",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Come Dine With Me",
-    "epg_id": "enginexumo:99951451",
+    "name": "Just for Laughs Gags",
+    "epg_id": "enginexumo:99991204",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Creator TV",
-    "epg_id": "enginexumo:99951437",
+    "name": "Hell's Kitchen",
+    "epg_id": "enginexumo:99991681",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Baby Shark TV",
-    "epg_id": "enginexumo:99951209",
+    "name": "America's Got Talent",
+    "epg_id": "enginexumo:99951457",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Maverick Black Cinema",
-    "epg_id": "enginexumo:99991336",
+    "name": "NBC LX Home",
+    "epg_id": "enginexumo:99991651",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "EarthXtra",
-    "epg_id": "enginexumo:99951378",
+    "name": "MythBusters",
+    "epg_id": "enginexumo:99951396",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "ET",
+    "epg_id": "enginexumo:99991670",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Property Brothers",
+    "epg_id": "enginexumo:99951537",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Pure Flix TV",
+    "epg_id": "enginexumo:99951407",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Great American RomComs",
+    "epg_id": "enginexumo:99951596",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Bloomberg TV+",
+    "epg_id": "enginexumo:99951533",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Comedy Dynamics",
+    "epg_id": "enginexumo:99951463",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "CBS News Boston",
+    "epg_id": "enginexumo:99991656",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "NBC 6 South Florida News",
+    "epg_id": "enginexumo:99951167",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Bowling TV",
+    "epg_id": "enginexumo:99951510",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "TYT",
+    "epg_id": "enginexumo:99991147",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "KIRO Seattle",
+    "epg_id": "enginexumo:9995112",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FILMEX",
+    "epg_id": "enginexumo:99951120",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Fluffy TV",
+    "epg_id": "enginexumo:99951287",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Rig TV",
+    "epg_id": "enginexumo:99951338",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Complex TV",
+    "epg_id": "enginexumo:99991303",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "It's Showtime at the Apollo",
+    "epg_id": "enginexumo:99991349",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "PokerGO",
+    "epg_id": "enginexumo:99991633",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FOX LOCAL Seattle",
+    "epg_id": "enginexumo:99951417",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "PBR RidePass",
+    "epg_id": "enginexumo:99951388",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Hi-Yah!",
+    "epg_id": "enginexumo:99991302",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Million Dollar Listing Vault",
+    "epg_id": "enginexumo:99951237",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Matched Married Meet by Lifetime",
+    "epg_id": "enginexumo:99951487",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Xtreme Outdoor by History",
+    "epg_id": "enginexumo:99951554",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Xumo Free Action & Drama TV",
+    "epg_id": "enginexumo:99991784",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Stash TV",
+    "epg_id": "enginexumo:99991300",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Stingray Classic Rock",
+    "epg_id": "enginexumo:99991119",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Dance Moms by Lifetime",
+    "epg_id": "enginexumo:99951488",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Extreme Jobs",
+    "epg_id": "enginexumo:99951432",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "HSN",
+    "epg_id": "enginexumo:99991271",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Xumo Free Crime TV",
+    "epg_id": "enginexumo:99991384",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "The Graham Norton Show",
+    "epg_id": "enginexumo:99951450",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "BBC Drama",
+    "epg_id": "enginexumo:99951605",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Xumo Free Reality TV",
+    "epg_id": "enginexumo:99991364",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Estrella News",
+    "epg_id": "enginexumo:99991776",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Nash Bridges",
+    "epg_id": "enginexumo:99951330",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Reuters 60",
+    "epg_id": "enginexumo:99951197",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "GOLFPASS",
+    "epg_id": "enginexumo:99951462",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "American Ninja Warrior",
+    "epg_id": "enginexumo:99951318",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "TennisChannel 2",
+    "epg_id": "enginexumo:99951389",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "DOCUMENTARY+",
+    "epg_id": "enginexumo:99991638",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "QVC",
+    "epg_id": "enginexumo:99991344",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "SNL Vault",
+    "epg_id": "enginexumo:99951236",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Bizaar",
+    "epg_id": "enginexumo:99951435",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "MGM Presents",
+    "epg_id": "enginexumo:99951573",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "World of Love Island",
+    "epg_id": "enginexumo:99951508",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Designated Survivor",
+    "epg_id": "enginexumo:99951346",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Big 12 Studios",
+    "epg_id": "enginexumo:99951359",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Spectrum News+",
+    "epg_id": "enginexumo:99951337",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "SWAC TV",
+    "epg_id": "enginexumo:99951594",
     "country": "",
     "list": "native-xumo"
   },
@@ -67830,116 +67602,128 @@
     "list": "native-xumo"
   },
   {
-    "name": "Sky News",
-    "epg_id": "enginexumo:99951223",
+    "name": "Fubo Sports Network",
+    "epg_id": "enginexumo:99951548",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "PGA TOUR",
-    "epg_id": "enginexumo:99991281",
+    "name": "E! Keeping Up",
+    "epg_id": "enginexumo:99951465",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "GLORY Kickboxing",
-    "epg_id": "enginexumo:99991278",
+    "name": "NBC 4 New York News",
+    "epg_id": "enginexumo:99951163",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Noticias Telemundo Ahora",
-    "epg_id": "enginexumo:99951321",
+    "name": "Ice Road Truckers by History",
+    "epg_id": "enginexumo:99951484",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "FOX LOCAL Austin",
-    "epg_id": "enginexumo:99951430",
+    "name": "Garden with Monty Don",
+    "epg_id": "enginexumo:99951212",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "All Babies Channel",
-    "epg_id": "enginexumo:99991253",
+    "name": "Fairground AI TV",
+    "epg_id": "enginexumo:99951590",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Telemundo Noticias California",
-    "epg_id": "enginexumo:99951225",
+    "name": "The Repair Shop",
+    "epg_id": "enginexumo:99951604",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Space Live Powered by Sen",
-    "epg_id": "enginexumo:99951545",
+    "name": "La Fea Más Bella",
+    "epg_id": "enginexumo:99951568",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Triton Poker",
-    "epg_id": "enginexumo:99951531",
+    "name": "FOX LOCAL Milwaukee",
+    "epg_id": "enginexumo:99951429",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "CraftsyTV",
-    "epg_id": "enginexumo:99951210",
+    "name": "Trinity Broadcast Network",
+    "epg_id": "enginexumo:99991708",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Bark TV",
-    "epg_id": "enginexumo:99951409",
+    "name": "Untold Stories of the ER",
+    "epg_id": "enginexumo:99951341",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "EstrellaTV",
-    "epg_id": "enginexumo:99991746",
+    "name": "@Home DIY",
+    "epg_id": "enginexumo:99951482",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "AccuWeather NOW",
-    "epg_id": "enginexumo:99991649",
+    "name": "Heartland",
+    "epg_id": "enginexumo:99951494",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Caso Cerrado",
-    "epg_id": "enginexumo:99991749",
+    "name": "FOX Sports",
+    "epg_id": "enginexumo:99991196",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "iHeartCountry Classics",
-    "epg_id": "enginexumo:99951464",
+    "name": "Ryz Sports Network",
+    "epg_id": "enginexumo:99951373",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "NEW Korean MOVIES & SERIES",
-    "epg_id": "enginexumo:99991386",
+    "name": "Strongman Champions League",
+    "epg_id": "enginexumo:99951180",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "TODAY All Day",
-    "epg_id": "enginexumo:99991245",
+    "name": "WITZ Comedy",
+    "epg_id": "enginexumo:99951403",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "SI TV",
-    "epg_id": "enginexumo:99951601",
+    "name": "Dateline en Español",
+    "epg_id": "enginexumo:99951547",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Boston 25",
-    "epg_id": "enginexumo:9995108",
+    "name": "WildEarth",
+    "epg_id": "enginexumo:99991628",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Places & Spaces",
+    "epg_id": "enginexumo:99951350",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Fox Weather",
+    "epg_id": "enginexumo:99991694",
     "country": "",
     "list": "native-xumo"
   },
@@ -67950,14 +67734,116 @@
     "list": "native-xumo"
   },
   {
-    "name": "Noticias Univision 24/7",
-    "epg_id": "enginexumo:99951562",
+    "name": "WFTV Orlando",
+    "epg_id": "enginexumo:9995107",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "NBC 10 Boston News",
-    "epg_id": "enginexumo:99951168",
+    "name": "ITN’s CreatureVerse",
+    "epg_id": "enginexumo:99951593",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "El Señor de los Cielos",
+    "epg_id": "enginexumo:99991748",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Lawless by Lionsgate",
+    "epg_id": "enginexumo:99951410",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FOX LOCAL Phoenix",
+    "epg_id": "enginexumo:99951419",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FOX LOCAL Houston",
+    "epg_id": "enginexumo:99951423",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "iHeartCountry Classics",
+    "epg_id": "enginexumo:99951464",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FOX LOCAL Minnesota",
+    "epg_id": "enginexumo:99951431",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "NBC Sports NOW",
+    "epg_id": "enginexumo:99951253",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Space Live Powered by Sen",
+    "epg_id": "enginexumo:99951545",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Creator TV",
+    "epg_id": "enginexumo:99951437",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Maverick Black Cinema",
+    "epg_id": "enginexumo:99991336",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "CraftsyTV",
+    "epg_id": "enginexumo:99951210",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Baby Shark TV",
+    "epg_id": "enginexumo:99951209",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Action News Jax",
+    "epg_id": "enginexumo:9995110",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "A&E Alaska State Troopers",
+    "epg_id": "enginexumo:99951555",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Scripps Sports Network",
+    "epg_id": "enginexumo:99951538",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "News 12 New York",
+    "epg_id": "enginexumo:99951222",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Sky News",
+    "epg_id": "enginexumo:99951223",
     "country": "",
     "list": "native-xumo"
   },
@@ -67968,20 +67854,86 @@
     "list": "native-xumo"
   },
   {
-    "name": "CBC News",
-    "epg_id": "enginexumo:99991276",
+    "name": "Spectrum Noticias",
+    "epg_id": "enginexumo:99951414",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "FOX LOCAL Atlanta",
-    "epg_id": "enginexumo:99951426",
+    "name": "Come Dine With Me",
+    "epg_id": "enginexumo:99951451",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Highway Thru Hell",
-    "epg_id": "enginexumo:99951509",
+    "name": "EarthXtra",
+    "epg_id": "enginexumo:99951378",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "NEW Korean MOVIES & SERIES",
+    "epg_id": "enginexumo:99991386",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "PGA TOUR",
+    "epg_id": "enginexumo:99991281",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "NESN NATION",
+    "epg_id": "enginexumo:99951569",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "AccuWeather NOW",
+    "epg_id": "enginexumo:99991649",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FOX LOCAL Austin",
+    "epg_id": "enginexumo:99951430",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Dog Whisperer",
+    "epg_id": "enginexumo:99951294",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Jajaja",
+    "epg_id": "enginexumo:99951565",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "All Babies Channel",
+    "epg_id": "enginexumo:99991253",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Canela.TV Clasicos",
+    "epg_id": "enginexumo:99951367",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Bark TV",
+    "epg_id": "enginexumo:99951409",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "SI TV",
+    "epg_id": "enginexumo:99951601",
     "country": "",
     "list": "native-xumo"
   },
@@ -67992,32 +67944,32 @@
     "list": "native-xumo"
   },
   {
-    "name": "Telemundo Noticias Florida",
-    "epg_id": "enginexumo:99951227",
+    "name": "Boston 25",
+    "epg_id": "enginexumo:9995108",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "NBC 10 Philadelphia News",
-    "epg_id": "enginexumo:99951166",
+    "name": "TODAY All Day",
+    "epg_id": "enginexumo:99991245",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Real Madrid TV",
-    "epg_id": "enginexumo:99951381",
+    "name": "GLORY Kickboxing",
+    "epg_id": "enginexumo:99991278",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Zona TUDN",
-    "epg_id": "enginexumo:99951563",
+    "name": "EstrellaTV",
+    "epg_id": "enginexumo:99991746",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Telemundo Noticias Noreste",
-    "epg_id": "enginexumo:99951228",
+    "name": "Highway Thru Hell",
+    "epg_id": "enginexumo:99951509",
     "country": "",
     "list": "native-xumo"
   },
@@ -68028,38 +67980,74 @@
     "list": "native-xumo"
   },
   {
-    "name": "NBC 5 Chicago News",
-    "epg_id": "enginexumo:99951165",
+    "name": "Noticias Telemundo Ahora",
+    "epg_id": "enginexumo:99951321",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "LUCHA PLUS",
-    "epg_id": "enginexumo:99951449",
+    "name": "Caso Cerrado",
+    "epg_id": "enginexumo:99991749",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "NatureVision",
-    "epg_id": "enginexumo:99991197",
+    "name": "Triton Poker",
+    "epg_id": "enginexumo:99951531",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "NBC 4 Los Angeles News",
-    "epg_id": "enginexumo:99951164",
+    "name": "NBC 10 Boston News",
+    "epg_id": "enginexumo:99951168",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "WSB Atlanta",
-    "epg_id": "enginexumo:99991690",
+    "name": "CBC News",
+    "epg_id": "enginexumo:99991276",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Real Madrid TV",
+    "epg_id": "enginexumo:99951381",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FOX LOCAL Atlanta",
+    "epg_id": "enginexumo:99951426",
     "country": "",
     "list": "native-xumo"
   },
   {
     "name": "Cowboy+ Sports",
     "epg_id": "enginexumo:99951557",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "NBC 10 Philadelphia News",
+    "epg_id": "enginexumo:99951166",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Telemundo Noticias Noreste",
+    "epg_id": "enginexumo:99951228",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Noticias Univision 24/7",
+    "epg_id": "enginexumo:99951562",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "NBC 4 Los Angeles News",
+    "epg_id": "enginexumo:99951164",
     "country": "",
     "list": "native-xumo"
   },
@@ -68082,14 +68070,14 @@
     "list": "native-xumo"
   },
   {
-    "name": "FOX LOCAL Philadelphia",
-    "epg_id": "enginexumo:99951424",
+    "name": "NBC 5 Chicago News",
+    "epg_id": "enginexumo:99951165",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "FOX LOCAL Orlando",
-    "epg_id": "enginexumo:99951425",
+    "name": "Telemundo Noticias Florida",
+    "epg_id": "enginexumo:99951227",
     "country": "",
     "list": "native-xumo"
   },
@@ -68100,32 +68088,14 @@
     "list": "native-xumo"
   },
   {
-    "name": "FOX LOCAL San Francisco",
-    "epg_id": "enginexumo:99951422",
+    "name": "Telemundo Noticias California",
+    "epg_id": "enginexumo:99951225",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "NBC Bay Area News",
-    "epg_id": "enginexumo:99951162",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Telemundo Noticias Suroeste",
-    "epg_id": "enginexumo:99951556",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Demand Africa",
-    "epg_id": "enginexumo:99991381",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "WHIO Dayton",
-    "epg_id": "enginexumo:9995109",
+    "name": "WSB Atlanta",
+    "epg_id": "enginexumo:99991690",
     "country": "",
     "list": "native-xumo"
   },
@@ -68136,20 +68106,14 @@
     "list": "native-xumo"
   },
   {
-    "name": "FOX LOCAL Detroit",
-    "epg_id": "enginexumo:99951421",
+    "name": "Zona TUDN",
+    "epg_id": "enginexumo:99951563",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "NBC 7 San Diego News",
-    "epg_id": "enginexumo:99951185",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "FOX LOCAL New York",
-    "epg_id": "enginexumo:99951427",
+    "name": "NatureVision",
+    "epg_id": "enginexumo:99991197",
     "country": "",
     "list": "native-xumo"
   },
@@ -68160,14 +68124,20 @@
     "list": "native-xumo"
   },
   {
-    "name": "Business Insider",
-    "epg_id": "enginexumo:99951570",
+    "name": "LUCHA PLUS",
+    "epg_id": "enginexumo:99951449",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "PickleballTV",
-    "epg_id": "enginexumo:99951390",
+    "name": "FOX LOCAL Philadelphia",
+    "epg_id": "enginexumo:99951424",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "WHIO Dayton",
+    "epg_id": "enginexumo:9995109",
     "country": "",
     "list": "native-xumo"
   },
@@ -68178,8 +68148,68 @@
     "list": "native-xumo"
   },
   {
+    "name": "Telemundo Noticias Suroeste",
+    "epg_id": "enginexumo:99951556",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FOX LOCAL Orlando",
+    "epg_id": "enginexumo:99951425",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Business Insider",
+    "epg_id": "enginexumo:99951570",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "NBC 7 San Diego News",
+    "epg_id": "enginexumo:99951185",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "NBC Bay Area News",
+    "epg_id": "enginexumo:99951162",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Demand Africa",
+    "epg_id": "enginexumo:99991381",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FOX LOCAL New York",
+    "epg_id": "enginexumo:99951427",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FOX LOCAL San Francisco",
+    "epg_id": "enginexumo:99951422",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FOX LOCAL Detroit",
+    "epg_id": "enginexumo:99951421",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
     "name": "NBC Connecticut News",
     "epg_id": "enginexumo:99951183",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "NBC 5 Dallas-Fort Worth News",
+    "epg_id": "enginexumo:99951182",
     "country": "",
     "list": "native-xumo"
   },
@@ -68190,8 +68220,8 @@
     "list": "native-xumo"
   },
   {
-    "name": "NBC 5 Dallas-Fort Worth News",
-    "epg_id": "enginexumo:99951182",
+    "name": "PickleballTV",
+    "epg_id": "enginexumo:99951390",
     "country": "",
     "list": "native-xumo"
   },
