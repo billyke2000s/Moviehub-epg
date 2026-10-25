@@ -8694,24 +8694,6 @@
     "list": "free-tv"
   },
   {
-    "name": "BBC Radio 5 Sports Extra",
-    "epg_id": "BBCRadio5SportsExtra.uk",
-    "country": "uk",
-    "list": "free-tv"
-  },
-  {
-    "name": "BBC Asian Network",
-    "epg_id": "BBCRadioAsianNetwork.uk",
-    "country": "uk",
-    "list": "free-tv"
-  },
-  {
-    "name": "BBC World Service",
-    "epg_id": "BBCRadioWorldService.uk",
-    "country": "uk",
-    "list": "free-tv"
-  },
-  {
     "name": "Pershyi",
     "epg_id": "Pershyi.ua",
     "country": "ua",
@@ -72158,12 +72140,6 @@
   {
     "name": "REELZ+",
     "epg_id": "engineroku:c53ab201e827f7f064273e126e31f7d8",
-    "country": "",
-    "list": "native-roku"
-  },
-  {
-    "name": "Kanal D Drama",
-    "epg_id": "engineroku:705f8487fc4f97d7c070faf44ed1c9db",
     "country": "",
     "list": "native-roku"
   },
