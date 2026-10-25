@@ -1,0 +1,75 @@
+name: Generate and publish MovieHub EPG
+on:
+  schedule:
+    - cron: '37 4 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['epg/**', 'tests/**', 'sources.json', 'requirements.txt', '.github/workflows/epg.yml']
+  pull_request:
+    paths: ['epg/**', 'tests/**', 'sources.json', 'requirements.txt', '.github/workflows/epg.yml']
+permissions:
+  contents: write
+concurrency:
+  group: moviehub-epg-${{ github.event_name == 'pull_request' && github.ref || 'publish' }}
+  cancel-in-progress: false
+jobs:
+  guide:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m pip install -r requirements.txt
+      - name: Test normalization, merging, validation and cache recovery
+        run: python -m unittest discover -s tests -v
+      - uses: actions/cache@v4
+        if: github.event_name != 'pull_request'
+        with:
+          path: .cache
+          key: epg-source-cache-${{ github.run_id }}
+          restore-keys: epg-source-cache-
+      - name: Fetch and merge the public guides
+        if: github.event_name != 'pull_request'
+        run: python -m epg.build
+      - name: Publish validated guide atomically in one commit
+        if: success() && github.event_name != 'pull_request'
+        env:
+          SOURCE_SHA: ${{ github.sha }}
+        run: |
+          set -euo pipefail
+          git fetch origin main
+          test "$(git rev-parse origin/main)" = "$SOURCE_SHA" || { echo 'Source changed during generation; retaining the published guide.'; exit 1; }
+          cp out/epg.xml.gz out/coverage.json out/coverage.md out/unmatched.json out/status.json .
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add epg.xml.gz coverage.json coverage.md unmatched.json status.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh combined EPG and measured coverage'
+            git push origin HEAD:main
+          fi
+      - name: Report freshness and failures
+        if: always() && github.event_name != 'pull_request'
+        run: |
+          if test -f out/coverage.md; then cat out/coverage.md >> "$GITHUB_STEP_SUMMARY"; fi
+          if test -f out/status.json; then
+            printf '\n### Generation status\n\n```json\n' >> "$GITHUB_STEP_SUMMARY"
+            cat out/status.json >> "$GITHUB_STEP_SUMMARY"
+            printf '\n```\n' >> "$GITHUB_STEP_SUMMARY"
+          fi
+          if test -f coverage.json; then
+            python -c 'import json; d=json.load(open("coverage.json")); print("Last published guide:",d["generated_at"])' >> "$GITHUB_STEP_SUMMARY"
+          fi
+      - name: Upload generation diagnostics
+        if: always() && github.event_name != 'pull_request'
+        uses: actions/upload-artifact@v6
+        with:
+          name: epg-generation-report
+          path: |
+            out/coverage.json
+            out/coverage.md
+            out/unmatched.json
+            out/status.json
+          if-no-files-found: ignore

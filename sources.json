@@ -1,0 +1,21 @@
+{
+  "sources": [
+    {"id":"freeview-uk","url":"https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml","country":"uk","priority":10,"aliases":true,"existing":true,"project":"https://github.com/dp247/Freeview-EPG","rights":"GPL-3.0 project; public XMLTV intended for personal use; upstream data rights retained"},
+    {"id":"sky-uk","url":"https://raw.githubusercontent.com/Permanently/sky-epg-xmltv/main/guides/london_hd.xml","country":"uk","priority":20,"aliases":true,"existing":true,"project":"https://github.com/Permanently/sky-epg-xmltv","rights":"Unlicense software; unsupported public guide; upstream schedule rights retained"},
+    {"id":"epgshare-uk","url":"https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz","country":"uk","priority":30,"existing":true,"project":"https://github.com/iptv-org/epg/tree/master/sites/epgshare01.online","rights":"Public XMLTV, no blanket data licence verified; retain attribution and honour upstream restrictions"},
+    {"id":"epgshare-ie","url":"https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz","country":"ie","priority":30,"existing":true,"project":"https://github.com/iptv-org/epg/tree/master/sites/epgshare01.online","rights":"Public XMLTV, no blanket data licence verified"},
+    {"id":"epgshare-us","url":"https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz","country":"us","priority":30,"existing":true,"project":"https://github.com/iptv-org/epg/tree/master/sites/epgshare01.online","rights":"Public XMLTV, no blanket data licence verified"},
+    {"id":"plex-gb","url":"https://i.mjh.nz/Plex/gb.xml.gz","country":"uk","provider":"plex","priority":5,"existing":true,"project":"https://github.com/matthuisman/i.mjh.nz","rights":"Public provider XMLTV mirror; no repository-wide data licence verified"},
+    {"id":"plex-us","url":"https://i.mjh.nz/Plex/us.xml.gz","country":"us","provider":"plex","priority":5,"existing":true,"project":"https://github.com/matthuisman/i.mjh.nz","rights":"Public provider XMLTV mirror; no repository-wide data licence verified"},
+    {"id":"samsung-gb","url":"https://i.mjh.nz/SamsungTVPlus/gb.xml.gz","country":"uk","provider":"samsung","priority":5,"existing":true,"project":"https://github.com/matthuisman/i.mjh.nz","rights":"Public provider XMLTV mirror; no repository-wide data licence verified"},
+    {"id":"pluto-gb","url":"https://i.mjh.nz/PlutoTV/gb.xml.gz","country":"uk","provider":"pluto","priority":5,"replaces":"MovieHub native Pluto per-20-channel guide API requests","project":"https://github.com/matthuisman/i.mjh.nz","rights":"Public mirror of provider guide; no repository-wide data licence verified"},
+    {"id":"pluto-us","url":"https://i.mjh.nz/PlutoTV/us.xml.gz","country":"us","provider":"pluto","priority":5,"replaces":"MovieHub native Pluto regional guide requests","project":"https://github.com/matthuisman/i.mjh.nz","rights":"Public mirror of provider guide; no repository-wide data licence verified"},
+    {"id":"sports-supplement","url":"https://raw.githubusercontent.com/farleyflex/epg-guide/main/epg.xml","country":"mixed","priority":40,"aliases":true,"project":"https://github.com/farleyflex/epg-guide","rights":"Public XMLTV explicitly offered for client use; no blanket data licence verified; supplementary UK/CA/US/AU coverage"}
+  ],
+  "inventory": [
+    {"id":"free-tv","url":"https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8"},
+    {"id":"iptv-org","url":"https://iptv-org.github.io/iptv/index.m3u"}
+  ],
+  "window": {"behind_days":1,"ahead_days":7},
+  "validation": {"min_current_channels":100,"min_programmes":1000,"minimum_coverage_ratio":0.7}
+}

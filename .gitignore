@@ -1,0 +1,6 @@
+.cache/
+out/
+*.db
+__pycache__/
+*.pyc
+.venv/
