@@ -109,6 +109,33 @@ class MergeTest(unittest.TestCase):
                 report = build(cfg, cache, root / "retry", now=NOW)
             self.assertGreater(report["programmes"], 0)
 
+    def test_evicted_actions_cache_recovers_unexpired_published_listings_without_overriding_fresh(self):
+        with tempfile.TemporaryDirectory() as root:
+            root = Path(root)
+            published = root / "epg.xml.gz"
+            published.write_bytes(gzip.compress(guide(identifier="xmltv:uk:bbcone", title="Old listing", stop=NOW+12*3600)))
+            saved = published.read_bytes()
+            cfg = {"sources": [{"id": "one", "country": "uk", "priority": 1}], "inventory": [],
+                   "window": {"behind_days": 1, "ahead_days": 7},
+                   "validation": {"min_current_channels": 1, "min_programmes": 1, "minimum_coverage_ratio": 0.7}}
+            with patch("epg.build.download", return_value=(None, {"status": "failed", "error": "HTTP 503"})):
+                report = build(cfg, root/"cache", root/"out", now=NOW, previous_guide=published)
+            self.assertGreater(report["source_contributions"]["previous-published"]["programmes"], 0)
+            self.assertIn(b"Old listing", gzip.decompress((root/"out/epg.xml.gz").read_bytes()))
+            self.assertEqual(saved, published.read_bytes())
+            fresh = root/"fresh.gz"
+            fresh.write_bytes(gzip.compress(guide(title="Fresh listing", stop=NOW+12*3600)))
+            with patch("epg.build.download", return_value=(fresh, {"status": "cached_failure"})):
+                report = build(cfg, root/"cache", root/"fresh-out", now=NOW, previous_guide=published)
+            data = gzip.decompress((root/"fresh-out/epg.xml.gz").read_bytes())
+            self.assertIn(b"Fresh listing", data)
+            self.assertNotIn(b"Old listing", data)
+            self.assertEqual(saved, published.read_bytes())
+            with patch("epg.build.download", return_value=(None, {"status": "failed"})):
+                with self.assertRaises(ValueError):
+                    build(cfg, root/"cache", root/"expired-out", now=NOW+13*3600, previous_guide=published)
+            self.assertEqual(saved, published.read_bytes())
+
     def test_expired_cache_does_not_invent_programmes_or_replace_published_output(self):
         with tempfile.TemporaryDirectory() as root:
             root = Path(root)

@@ -62,3 +62,5 @@ Review `out/coverage.md`, source contributions, freshness and unmatched identiti
 source priorities or coverage thresholds. Do not add private playlists to the public inventory.
 
 Validation also checks assessed current coverage by country. Losing more than 30% of an established country's current matches (at least 20 previously) cannot be hidden by a healthy global total; publication retains the last validated guide and the run reports the failure.
+
+If GitHub evicts the per-source Actions cache, a failed source can still retain unexpired listings from the committed last published guide. This final fallback uses the original canonical identifiers and programme timestamps at the lowest priority, never overwrites healthy fresh entries and never extends expired programmes. The report identifies its contribution as `previous-published`.

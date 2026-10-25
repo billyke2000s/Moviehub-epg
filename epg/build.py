@@ -106,7 +106,7 @@ def write_xml(db, channels, out, now, source_reports):
     return counts, coverage
 
 
-def build(config, cache, out, previous=None, now=None):
+def build(config, cache, out, previous=None, now=None, previous_guide=None):
     started = time.monotonic()
     now = int(now or time.time())
     cache, out = Path(cache), Path(out)
@@ -168,6 +168,29 @@ def build(config, cache, out, previous=None, now=None):
         if not accepted:
             report["status"] = "failed"
         reports.append(report)
+    # Actions caches can be evicted. The committed last guide is the durable final cache;
+    # its canonical ids and original programme times remain unchanged, at lowest priority.
+    if previous_guide and Path(previous_guide).is_file() and any(
+        r["status"] in {"failed", "cached_failure", "cached_invalid_update"} for r in reports
+    ):
+        db.execute("SAVEPOINT published_cache")
+        buffered = []
+        def consume_previous(channel, a, b, title, description, category, flags):
+            buffered.append((channel, 10000, a, b, title, description, category, flags, "previous-published"))
+            if len(buffered) >= 5000:
+                db.executemany("INSERT INTO programmes VALUES(?,?,?,?,?,?,?,?,?)", buffered)
+                buffered.clear()
+        try:
+            names, stats = read(previous_guide, {"native_ids": True, "country": "mixed"}, now, start, stop, consume_previous)
+            db.executemany("INSERT INTO programmes VALUES(?,?,?,?,?,?,?,?,?)", buffered)
+            db.execute("RELEASE published_cache")
+            channels.update({k: v for k, v in names.items() if k not in channels})
+            reports.append({"id": "previous-published", "priority": 10000, "status": "published_cache",
+                            "published_at": (previous or {}).get("generated_at"), **stats})
+        except Exception as exc:
+            db.execute("ROLLBACK TO published_cache")
+            db.execute("RELEASE published_cache")
+            reports.append({"id": "previous-published", "status": "failed", "error": type(exc).__name__})
     db.execute("CREATE INDEX by_channel ON programmes(channel,priority,start)")
     db.commit()
     counts, guide_coverage = write_xml(db, channels, out, now, reports)
@@ -231,7 +254,7 @@ def main():
     args = parser.parse_args()
     previous = json.loads(Path("coverage.json").read_text()) if Path("coverage.json").exists() else None
     try:
-        result = build(json.loads(Path(args.config).read_text()), args.cache, args.out, previous)
+        result = build(json.loads(Path(args.config).read_text()), args.cache, args.out, previous, previous_guide=Path("epg.xml.gz"))
         print(json.dumps({k: result[k] for k in ["generated_at", "channels", "programmes", "assessed_channels", "matched_channels", "assessed_current_channels", "unmatched_channels", "generation_seconds"]}, indent=2))
     except Exception as exc:
         Path(args.out).mkdir(parents=True, exist_ok=True)
