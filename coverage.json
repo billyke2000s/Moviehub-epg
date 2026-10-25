@@ -1,18 +1,26 @@
 {
-  "generated_at": "2026-10-25T05:30:48+00:00",
-  "generated_at_unix": 1792906248,
-  "generation_seconds": 21.87,
-  "window_start": "20261024053048 +0000",
-  "window_stop": "20261101053048 +0000",
-  "channels": 5968,
-  "current_channels": 5934,
-  "future_channels": 5965,
-  "programmes": 398575,
+  "generated_at": "2026-10-25T05:46:23+00:00",
+  "generated_at_unix": 1792907183,
+  "generation_seconds": 85.04,
+  "window_start": "20261024054623 +0000",
+  "window_stop": "20261101054623 +0000",
+  "channels": 10065,
+  "current_channels": 10005,
+  "future_channels": 10059,
+  "programmes": 851583,
   "latest_programme_end": 1793523600,
   "source_contributions": {
+    "inline-lg": {
+      "programmes": 1705,
+      "channels": 187
+    },
+    "inline-localnow": {
+      "programmes": 920,
+      "channels": 184
+    },
     "plex-us": {
-      "programmes": 107329,
-      "channels": 2033
+      "programmes": 105960,
+      "channels": 2003
     },
     "plex-gb": {
       "programmes": 23063,
@@ -23,39 +31,255 @@
       "channels": 729
     },
     "pluto-us": {
-      "programmes": 24202,
-      "channels": 1197
+      "programmes": 23917,
+      "channels": 1175
     },
     "pluto-gb": {
       "programmes": 12991,
       "channels": 531
     },
+    "epgshare-au1": {
+      "programmes": 56190,
+      "channels": 304
+    },
+    "epgshare-br1": {
+      "programmes": 14773,
+      "channels": 156
+    },
     "sports-supplement": {
-      "programmes": 7410,
+      "programmes": 6308,
       "channels": 71
+    },
+    "epgshare-de1": {
+      "programmes": 22125,
+      "channels": 252
+    },
+    "epgshare-es1": {
+      "programmes": 30393,
+      "channels": 328
+    },
+    "epgshare-fr1": {
+      "programmes": 59513,
+      "channels": 492
     },
     "epgshare-ie": {
       "programmes": 14455,
       "channels": 126
+    },
+    "epgshare-in1": {
+      "programmes": 101898,
+      "channels": 703
+    },
+    "epgshare-it1": {
+      "programmes": 19622,
+      "channels": 156
     },
     "sky-uk": {
       "programmes": 120232,
       "channels": 570
     },
     "epgshare-uk": {
-      "programmes": 12952,
+      "programmes": 12917,
       "channels": 376
     },
     "freeview-uk": {
       "programmes": 69038,
       "channels": 394
+    },
+    "epgshare-us2": {
+      "programmes": 148660,
+      "channels": 1404
     }
+  },
+  "representative_programmes": {
+    "xmltv:uk:bbcone": [
+      {
+        "start": "20261025003500 +0000",
+        "stop": "20261025060000 +0000",
+        "title": "BBC News",
+        "source": "freeview-uk"
+      },
+      {
+        "start": "20261025060000 +0000",
+        "stop": "20261025074500 +0000",
+        "title": "BBC News",
+        "source": "freeview-uk"
+      },
+      {
+        "start": "20261025074500 +0000",
+        "stop": "20261025090000 +0000",
+        "title": "Match of the Day",
+        "source": "freeview-uk"
+      },
+      {
+        "start": "20261025090000 +0000",
+        "stop": "20261025100000 +0000",
+        "title": "Sunday with Laura Kuenssberg",
+        "source": "freeview-uk"
+      }
+    ],
+    "xmltv:uk:gold": [
+      {
+        "start": "20261025040000 +0000",
+        "stop": "20261025060000 +0000",
+        "title": "Teleshopping",
+        "source": "sky-uk"
+      },
+      {
+        "start": "20261025060000 +0000",
+        "stop": "20261025071000 +0000",
+        "title": "Teleshopping",
+        "source": "sky-uk"
+      },
+      {
+        "start": "20261025071000 +0000",
+        "stop": "20261025085500 +0000",
+        "title": "Only Fools and Horses Miami Twice (Part 2)",
+        "source": "sky-uk"
+      },
+      {
+        "start": "20261025085500 +0000",
+        "stop": "20261025104500 +0000",
+        "title": "Only Fools and Horses Jolly Boys Outing",
+        "source": "sky-uk"
+      }
+    ],
+    "xmltv:uk:itv1": [
+      {
+        "start": "20261025050500 +0000",
+        "stop": "20261025060000 +0000",
+        "title": "Fletchers' Family Farm",
+        "source": "freeview-uk"
+      },
+      {
+        "start": "20261025060000 +0000",
+        "stop": "20261025063000 +0000",
+        "title": "James Martin's Islands to Highlands",
+        "source": "freeview-uk"
+      },
+      {
+        "start": "20261025063000 +0000",
+        "stop": "20261025085500 +0000",
+        "title": "James Martin's Saturday Morning",
+        "source": "freeview-uk"
+      },
+      {
+        "start": "20261025085500 +0000",
+        "stop": "20261025092500 +0000",
+        "title": "Cooking with the Stars",
+        "source": "freeview-uk"
+      }
+    ],
+    "xmltv:uk:skyatlantic": [
+      {
+        "start": "20261025050000 +0000",
+        "stop": "20261025060000 +0000",
+        "title": "The Guest Wing",
+        "source": "sky-uk"
+      },
+      {
+        "start": "20261025060000 +0000",
+        "stop": "20261025070000 +0000",
+        "title": "Fish Town",
+        "source": "sky-uk"
+      },
+      {
+        "start": "20261025070000 +0000",
+        "stop": "20261025081000 +0000",
+        "title": "Homicide: Life On The Street",
+        "source": "sky-uk"
+      },
+      {
+        "start": "20261025081000 +0000",
+        "stop": "20261025092000 +0000",
+        "title": "Homicide: Life On The Street",
+        "source": "sky-uk"
+      }
+    ],
+    "xmltv:uk:skysportsmainevent": [
+      {
+        "start": "20261025030000 +0000",
+        "stop": "20261025060000 +0000",
+        "title": "Live DP World Tour Golf",
+        "source": "sports-supplement"
+      },
+      {
+        "start": "20261025060000 +0000",
+        "stop": "20261025073000 +0000",
+        "title": "Live DP World Tour Golf",
+        "source": "sports-supplement"
+      },
+      {
+        "start": "20261025073000 +0000",
+        "stop": "20261025123000 +0000",
+        "title": "Live One-Day International Cricket",
+        "source": "sports-supplement"
+      },
+      {
+        "start": "20261025123000 +0000",
+        "stop": "20261025162500 +0000",
+        "title": "Live Super Sunday",
+        "source": "sports-supplement"
+      }
+    ],
+    "xmltv:uk:skywitness": [
+      {
+        "start": "20261025050000 +0000",
+        "stop": "20261025060000 +0000",
+        "title": "A1: Highway Patrol",
+        "source": "sky-uk"
+      },
+      {
+        "start": "20261025060000 +0000",
+        "stop": "20261025064000 +0000",
+        "title": "Caught Red Handed",
+        "source": "sky-uk"
+      },
+      {
+        "start": "20261025064000 +0000",
+        "stop": "20261025072000 +0000",
+        "title": "Caught Red Handed",
+        "source": "sky-uk"
+      },
+      {
+        "start": "20261025072000 +0000",
+        "stop": "20261025080000 +0000",
+        "title": "Caught Red Handed",
+        "source": "sky-uk"
+      }
+    ],
+    "xmltv:uk:tntsports1": [
+      {
+        "start": "20261025050000 +0000",
+        "stop": "20261025060000 +0000",
+        "title": "New Zealand v India - 2nd T20",
+        "source": "sky-uk"
+      },
+      {
+        "start": "20261025060000 +0000",
+        "stop": "20261025080000 +0000",
+        "title": "Live AFLW: Carlton v GWS Giants",
+        "source": "sky-uk"
+      },
+      {
+        "start": "20261025080000 +0000",
+        "stop": "20261025083000 +0000",
+        "title": "The Breakdown: Harry Kane",
+        "source": "sky-uk"
+      },
+      {
+        "start": "20261025083000 +0000",
+        "stop": "20261025103000 +0000",
+        "title": "Live: Alpine Skiing World Cup",
+        "source": "sky-uk"
+      }
+    ]
   },
   "sources": [
     {
       "id": "freeview-uk",
       "priority": 10,
-      "status": "downloaded",
+      "status": "not_modified",
       "url": "https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml",
       "etag": "\"006b0ca79d181e7f90562db7a02d2930c7e811db9ed26c7d1026f1705aaa430f\"",
       "modified": null,
@@ -64,7 +288,7 @@
       "input_channels": 284,
       "window_programmes": 47787,
       "current_programmes": 279,
-      "future_programmes": 46065,
+      "future_programmes": 46046,
       "invalid_programmes": 0,
       "first": 1792819800,
       "last": 1793523600
@@ -72,7 +296,7 @@
     {
       "id": "sky-uk",
       "priority": 20,
-      "status": "downloaded",
+      "status": "not_modified",
       "url": "https://raw.githubusercontent.com/Permanently/sky-epg-xmltv/main/guides/london_hd.xml",
       "etag": "\"32e9d22faa79edb159c0686cfd525ca1c01bd0e35a1873c915c00ada0da7d5d1\"",
       "modified": null,
@@ -81,7 +305,7 @@
       "input_channels": 371,
       "window_programmes": 75605,
       "current_programmes": 359,
-      "future_programmes": 72450,
+      "future_programmes": 72420,
       "invalid_programmes": 0,
       "first": 1792843200,
       "last": 1793523600
@@ -89,16 +313,16 @@
     {
       "id": "epgshare-uk",
       "priority": 30,
-      "status": "downloaded",
+      "status": "not_modified",
       "url": "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz",
       "etag": "\"6add87e3-2d34ad\"",
       "modified": "Sun, 25 Oct 2026 04:38:59 GMT",
       "fetched_at": 1792906248,
       "sha256": "7084bdff1e86c9f1736e16fb57a3d575876ee36debff14e8864653f47e822237",
       "input_channels": 486,
-      "window_programmes": 40388,
+      "window_programmes": 40350,
       "current_programmes": 381,
-      "future_programmes": 30110,
+      "future_programmes": 30080,
       "invalid_programmes": 0,
       "first": 1792800000,
       "last": 1793172600
@@ -106,7 +330,7 @@
     {
       "id": "epgshare-ie",
       "priority": 30,
-      "status": "downloaded",
+      "status": "not_modified",
       "url": "https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz",
       "etag": "\"6add87da-25c71d\"",
       "modified": "Sun, 25 Oct 2026 04:38:50 GMT",
@@ -115,7 +339,7 @@
       "input_channels": 175,
       "window_programmes": 17887,
       "current_programmes": 161,
-      "future_programmes": 17131,
+      "future_programmes": 17123,
       "invalid_programmes": 0,
       "first": 1792886400,
       "last": 1793253600
@@ -129,7 +353,7 @@
     {
       "id": "plex-gb",
       "priority": 5,
-      "status": "downloaded",
+      "status": "not_modified",
       "url": "https://i.mjh.nz/Plex/gb.xml.gz",
       "etag": "\"9833827ded1438909c137076d1dad9b69a1a0a2a218f486e26b7b9e44897b0d9\"",
       "modified": null,
@@ -138,7 +362,7 @@
       "input_channels": 368,
       "window_programmes": 7809,
       "current_programmes": 95,
-      "future_programmes": 7162,
+      "future_programmes": 7132,
       "invalid_programmes": 0,
       "first": 1792861244,
       "last": 1793153521
@@ -146,7 +370,7 @@
     {
       "id": "plex-us",
       "priority": 5,
-      "status": "downloaded",
+      "status": "not_modified",
       "url": "https://i.mjh.nz/Plex/us.xml.gz",
       "etag": "\"292367178098b10ce90f81f5377c655930ff15fe5ecf500698ded7f85c667281\"",
       "modified": null,
@@ -155,7 +379,7 @@
       "input_channels": 696,
       "window_programmes": 36647,
       "current_programmes": 686,
-      "future_programmes": 32335,
+      "future_programmes": 32145,
       "invalid_programmes": 1,
       "first": 1792857600,
       "last": 1793153090
@@ -163,7 +387,7 @@
     {
       "id": "samsung-gb",
       "priority": 5,
-      "status": "downloaded",
+      "status": "not_modified",
       "url": "https://i.mjh.nz/SamsungTVPlus/gb.xml.gz",
       "etag": "\"23e70352ad9f565810cc660d6f7f7be48553405cafe02f45b0943234f412499c\"",
       "modified": null,
@@ -172,7 +396,7 @@
       "input_channels": 273,
       "window_programmes": 2561,
       "current_programmes": 272,
-      "future_programmes": 2428,
+      "future_programmes": 2332,
       "invalid_programmes": 0,
       "first": 1792886400,
       "last": 1792970100
@@ -180,7 +404,7 @@
     {
       "id": "pluto-gb",
       "priority": 5,
-      "status": "downloaded",
+      "status": "not_modified",
       "url": "https://i.mjh.nz/PlutoTV/gb.xml.gz",
       "etag": "\"47cf138f20f149cade3e5da9c2f72cc15dc0709ccec68dc0abd8846515607d6f\"",
       "modified": null,
@@ -189,7 +413,7 @@
       "input_channels": 187,
       "window_programmes": 4560,
       "current_programmes": 187,
-      "future_programmes": 4172,
+      "future_programmes": 4104,
       "invalid_programmes": 0,
       "first": 1792887540,
       "last": 1792985400
@@ -197,7 +421,7 @@
     {
       "id": "pluto-us",
       "priority": 5,
-      "status": "downloaded",
+      "status": "not_modified",
       "url": "https://i.mjh.nz/PlutoTV/us.xml.gz",
       "etag": "\"7202efaf1be5f618dc0c3e0516c8f7241554016e27604b28f1dea5df26da408b\"",
       "modified": null,
@@ -206,7 +430,7 @@
       "input_channels": 430,
       "window_programmes": 8766,
       "current_programmes": 429,
-      "future_programmes": 8053,
+      "future_programmes": 7970,
       "invalid_programmes": 0,
       "first": 1792886400,
       "last": 1792990800
@@ -214,19 +438,237 @@
     {
       "id": "sports-supplement",
       "priority": 40,
-      "status": "downloaded",
+      "status": "not_modified",
       "url": "https://raw.githubusercontent.com/farleyflex/epg-guide/main/epg.xml",
       "etag": "\"013cded2da843caaf3c1bb9714b810fd7ba14289338c2bf109bb5571686c6d36\"",
       "modified": null,
       "fetched_at": 1792906249,
       "sha256": "79d3d99def8fa89ffaf13375a5cf01ef222353994f994eb166d21932795bfc44",
       "input_channels": 75,
-      "window_programmes": 8308,
+      "window_programmes": 8302,
       "current_programmes": 69,
-      "future_programmes": 7064,
+      "future_programmes": 7061,
       "invalid_programmes": 13,
       "first": 1792796400,
       "last": 1793289600
+    },
+    {
+      "id": "epgshare-us2",
+      "priority": 35,
+      "status": "downloaded",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz",
+      "etag": "\"6add87e4-654d55\"",
+      "modified": "Sun, 25 Oct 2026 04:39:00 GMT",
+      "fetched_at": 1792907183,
+      "sha256": "16244906c497a27851bac9d51867485fe73477e92483cd024d6f540397b60110",
+      "input_channels": 769,
+      "window_programmes": 78971,
+      "current_programmes": 754,
+      "future_programmes": 59379,
+      "invalid_programmes": 20,
+      "first": 1792800000,
+      "last": 1793192400
+    },
+    {
+      "id": "epgshare-in1",
+      "priority": 35,
+      "status": "downloaded",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "etag": "\"6add87db-3b253c\"",
+      "modified": "Sun, 25 Oct 2026 04:38:51 GMT",
+      "fetched_at": 1792907183,
+      "sha256": "b39b8169826141e4502d2342357836dfdea79f46ad09edded7acbdce26e34073",
+      "input_channels": 1166,
+      "window_programmes": 103212,
+      "current_programmes": 713,
+      "future_programmes": 91626,
+      "invalid_programmes": 0,
+      "first": 1792866600,
+      "last": 1793212199
+    },
+    {
+      "id": "epgshare-de1",
+      "priority": 35,
+      "status": "downloaded",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz",
+      "etag": "\"6add87d7-36c222\"",
+      "modified": "Sun, 25 Oct 2026 04:38:47 GMT",
+      "fetched_at": 1792907183,
+      "sha256": "e5d8899edc73a5178946cdf93dcca529d91c9ea334e9266123b3f333872ef148",
+      "input_channels": 266,
+      "window_programmes": 22121,
+      "current_programmes": 242,
+      "future_programmes": 20579,
+      "invalid_programmes": 14,
+      "first": 1792804500,
+      "last": 1793260800
+    },
+    {
+      "id": "epgshare-it1",
+      "priority": 35,
+      "status": "downloaded",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
+      "etag": "\"6add87db-184885\"",
+      "modified": "Sun, 25 Oct 2026 04:38:51 GMT",
+      "fetched_at": 1792907184,
+      "sha256": "a1c548bd6eb2ed8324c0821fde43a5234089c9bc8e4a1990041df28cf9d723e9",
+      "input_channels": 195,
+      "window_programmes": 19706,
+      "current_programmes": 155,
+      "future_programmes": 14718,
+      "invalid_programmes": 54,
+      "first": 1792792800,
+      "last": 1793228700
+    },
+    {
+      "id": "epgshare-br1",
+      "priority": 35,
+      "status": "downloaded",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz",
+      "etag": "\"6add87d4-ec203\"",
+      "modified": "Sun, 25 Oct 2026 04:38:44 GMT",
+      "fetched_at": 1792907183,
+      "sha256": "f8fab7955157a95d42d28bb0123fdbe1e2e0c5adeb0fd62871f390a0a107bb4d",
+      "input_channels": 266,
+      "window_programmes": 22235,
+      "current_programmes": 225,
+      "future_programmes": 14623,
+      "invalid_programmes": 1,
+      "first": 1792810800,
+      "last": 1793177400
+    },
+    {
+      "id": "epgshare-es1",
+      "priority": 35,
+      "status": "downloaded",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
+      "etag": "\"6add87d8-310f94\"",
+      "modified": "Sun, 25 Oct 2026 04:38:48 GMT",
+      "fetched_at": 1792907184,
+      "sha256": "c5148dd05a21ad9e61a0abf0ee414736a7b1216888379d94e125f6ec0e003d40",
+      "input_channels": 373,
+      "window_programmes": 31397,
+      "current_programmes": 331,
+      "future_programmes": 24128,
+      "invalid_programmes": 644,
+      "first": 1792792980,
+      "last": 1793314800
+    },
+    {
+      "id": "epgshare-ca1",
+      "priority": 35,
+      "status": "failed",
+      "error": "HTTP 404"
+    },
+    {
+      "id": "epgshare-au1",
+      "priority": 35,
+      "status": "downloaded",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz",
+      "etag": "\"6add87d3-369dc9\"",
+      "modified": "Sun, 25 Oct 2026 04:38:43 GMT",
+      "fetched_at": 1792907184,
+      "sha256": "0e6181c4bcaeb8a90db9dbe04c30ea7aa0408622c6b9dfdc5eba12402939fe83",
+      "input_channels": 345,
+      "window_programmes": 52368,
+      "current_programmes": 281,
+      "future_programmes": 43205,
+      "invalid_programmes": 577,
+      "first": 1792771200,
+      "last": 1793449320
+    },
+    {
+      "id": "epgshare-fr1",
+      "priority": 35,
+      "status": "downloaded",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz",
+      "etag": "\"6add87d9-56dd81\"",
+      "modified": "Sun, 25 Oct 2026 04:38:49 GMT",
+      "fetched_at": 1792907184,
+      "sha256": "4f5ddb9d24cd1dbb71fc4073894386fce261b5560143983170897a63aba573fb",
+      "input_channels": 574,
+      "window_programmes": 67070,
+      "current_programmes": 553,
+      "future_programmes": 54889,
+      "invalid_programmes": 93,
+      "first": 1792800000,
+      "last": 1793311560
+    },
+    {
+      "id": "inline-stirr",
+      "priority": 5,
+      "status": "failed",
+      "error": "public inline catalogue unavailable"
+    },
+    {
+      "id": "inline-tcl",
+      "priority": 5,
+      "status": "failed",
+      "error": "public inline catalogue unavailable"
+    },
+    {
+      "id": "inline-xumo",
+      "priority": 5,
+      "status": "failed",
+      "error": "public inline catalogue unavailable"
+    },
+    {
+      "id": "inline-lg",
+      "priority": 5,
+      "status": "downloaded",
+      "fetched_at": 1792907184,
+      "kind": "public_inline_catalogue",
+      "input_channels": 187,
+      "window_programmes": 1705,
+      "current_programmes": 187,
+      "future_programmes": 1523,
+      "invalid_programmes": 0,
+      "first": 1792890000,
+      "last": 1792944000
+    },
+    {
+      "id": "inline-whale",
+      "priority": 5,
+      "status": "failed",
+      "error": "public inline catalogue unavailable"
+    },
+    {
+      "id": "inline-vizio",
+      "priority": 5,
+      "status": "failed",
+      "error": "public inline catalogue unavailable"
+    },
+    {
+      "id": "inline-roku",
+      "priority": 5,
+      "status": "failed",
+      "error": "public inline catalogue unavailable"
+    },
+    {
+      "id": "inline-tubi",
+      "priority": 5,
+      "status": "failed",
+      "error": "public inline catalogue unavailable"
+    },
+    {
+      "id": "inline-localnow",
+      "priority": 5,
+      "status": "downloaded",
+      "fetched_at": 1792907184,
+      "kind": "public_inline_catalogue",
+      "input_channels": 184,
+      "window_programmes": 920,
+      "current_programmes": 184,
+      "future_programmes": 911,
+      "invalid_programmes": 0,
+      "first": 1792893600,
+      "last": 1792976400
+    },
+    {
+      "id": "inline-freelivesports",
+      "priority": 5,
+      "status": "failed",
+      "error": "public inline catalogue unavailable"
     }
   ],
   "inventory_sources": [
@@ -239,13 +681,1165 @@
       "id": "iptv-org",
       "status": "fresh",
       "rows": 11333
+    },
+    {
+      "id": "inline-inventory-lg",
+      "status": "public_provider_snapshot",
+      "rows": 187
+    },
+    {
+      "id": "inline-inventory-tcl",
+      "status": "public_provider_snapshot",
+      "rows": 405
+    },
+    {
+      "id": "inline-inventory-stirr",
+      "status": "public_provider_snapshot",
+      "rows": 156
+    },
+    {
+      "id": "inline-inventory-whale",
+      "status": "public_provider_snapshot",
+      "rows": 136
+    },
+    {
+      "id": "inline-inventory-localnow",
+      "status": "public_provider_snapshot",
+      "rows": 184
+    },
+    {
+      "id": "inline-inventory-xumo",
+      "status": "public_provider_snapshot",
+      "rows": 436
+    },
+    {
+      "id": "inline-inventory-vizio",
+      "status": "public_provider_snapshot",
+      "rows": 471
+    },
+    {
+      "id": "inline-inventory-roku",
+      "status": "public_provider_snapshot",
+      "rows": 837
     }
   ],
-  "assessment_scope": "Public default Free-TV and iptv-org lists; private accounts and the viewer's installed database are not observable here",
-  "assessed_channels": 11392,
-  "matched_channels": 503,
-  "assessed_current_channels": 497,
-  "assessed_future_channels": 503,
-  "unmatched_channels": 10889,
-  "sha256": "7fee4eb8943dde464d578a6e5310ac0e9f87ac9145e910a62890348259b2bc1c"
+  "assessment_scope": "Public default Free-TV and iptv-org logical identities plus available provider-native catalogue identities. Includes provider copies; private accounts and the viewer's installed database are not observable here",
+  "country_coverage": {
+    "al": {
+      "assessed": 27,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "ad": {
+      "assessed": 1,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "ar": {
+      "assessed": 194,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "am": {
+      "assessed": 13,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "au": {
+      "assessed": 58,
+      "matched": 9,
+      "current": 9,
+      "future": 9
+    },
+    "at": {
+      "assessed": 34,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "ca": {
+      "assessed": 144,
+      "matched": 4,
+      "current": 4,
+      "future": 4
+    },
+    "az": {
+      "assessed": 22,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "unknown/provider-native": {
+      "assessed": 3379,
+      "matched": 371,
+      "current": 371,
+      "future": 371
+    },
+    "by": {
+      "assessed": 23,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "ru": {
+      "assessed": 473,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "be": {
+      "assessed": 44,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "ba": {
+      "assessed": 23,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "br": {
+      "assessed": 279,
+      "matched": 3,
+      "current": 3,
+      "future": 3
+    },
+    "bg": {
+      "assessed": 67,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "tv": {
+      "assessed": 3,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "td": {
+      "assessed": 2,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "cl": {
+      "assessed": 239,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "cn": {
+      "assessed": 157,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "cr": {
+      "assessed": 69,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "hr": {
+      "assessed": 33,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "cy": {
+      "assessed": 20,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "cz": {
+      "assessed": 100,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "sk": {
+      "assessed": 62,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "dk": {
+      "assessed": 16,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "do": {
+      "assessed": 248,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "eg": {
+      "assessed": 21,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "ee": {
+      "assessed": 21,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "fi": {
+      "assessed": 33,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "fo": {
+      "assessed": 2,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "fr": {
+      "assessed": 188,
+      "matched": 67,
+      "current": 66,
+      "future": 67
+    },
+    "cg": {
+      "assessed": 6,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "ge": {
+      "assessed": 21,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "de": {
+      "assessed": 397,
+      "matched": 47,
+      "current": 46,
+      "future": 47
+    },
+    "gr": {
+      "assessed": 95,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "gl": {
+      "assessed": 2,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "hk": {
+      "assessed": 23,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "hu": {
+      "assessed": 154,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "is": {
+      "assessed": 6,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "in": {
+      "assessed": 760,
+      "matched": 285,
+      "current": 285,
+      "future": 285
+    },
+    "ir": {
+      "assessed": 118,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "iq": {
+      "assessed": 62,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "ie": {
+      "assessed": 28,
+      "matched": 7,
+      "current": 7,
+      "future": 7
+    },
+    "il": {
+      "assessed": 35,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "it": {
+      "assessed": 331,
+      "matched": 66,
+      "current": 66,
+      "future": 66
+    },
+    "va": {
+      "assessed": 1,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "jp": {
+      "assessed": 18,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "sg": {
+      "assessed": 23,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "kz": {
+      "assessed": 45,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "ke": {
+      "assessed": 42,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "kr": {
+      "assessed": 87,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "xk": {
+      "assessed": 11,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "lv": {
+      "assessed": 12,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "lb": {
+      "assessed": 33,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "lt": {
+      "assessed": 22,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "lu": {
+      "assessed": 13,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "mo": {
+      "assessed": 7,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "mt": {
+      "assessed": 7,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "es": {
+      "assessed": 278,
+      "matched": 62,
+      "current": 62,
+      "future": 62
+    },
+    "mx": {
+      "assessed": 182,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "md": {
+      "assessed": 19,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "mc": {
+      "assessed": 3,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "mn": {
+      "assessed": 40,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "me": {
+      "assessed": 7,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "nl": {
+      "assessed": 186,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "ng": {
+      "assessed": 56,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "kp": {
+      "assessed": 5,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "mk": {
+      "assessed": 39,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "no": {
+      "assessed": 10,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "py": {
+      "assessed": 66,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "pe": {
+      "assessed": 173,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "pl": {
+      "assessed": 164,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "pt": {
+      "assessed": 60,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "qa": {
+      "assessed": 33,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "ro": {
+      "assessed": 164,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "ua": {
+      "assessed": 196,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "sm": {
+      "assessed": 2,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "sa": {
+      "assessed": 56,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "rs": {
+      "assessed": 50,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "si": {
+      "assessed": 19,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "so": {
+      "assessed": 14,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "uk": {
+      "assessed": 220,
+      "matched": 108,
+      "current": 103,
+      "future": 108
+    },
+    "se": {
+      "assessed": 203,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "ch": {
+      "assessed": 34,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "tw": {
+      "assessed": 38,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "tt": {
+      "assessed": 9,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "tr": {
+      "assessed": 205,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "ae": {
+      "assessed": 60,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "us": {
+      "assessed": 1651,
+      "matched": 499,
+      "current": 498,
+      "future": 499
+    },
+    "ve": {
+      "assessed": 71,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "mr": {
+      "assessed": 1,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "id": {
+      "assessed": 133,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "gh": {
+      "assessed": 12,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "za": {
+      "assessed": 23,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "ma": {
+      "assessed": 9,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "ug": {
+      "assessed": 21,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "th": {
+      "assessed": 68,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "mm": {
+      "assessed": 18,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "ci": {
+      "assessed": 18,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "pk": {
+      "assessed": 92,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "my": {
+      "assessed": 22,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "sx": {
+      "assessed": 6,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "kg": {
+      "assessed": 12,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "sn": {
+      "assessed": 14,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "pa": {
+      "assessed": 24,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "ph": {
+      "assessed": 12,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "bo": {
+      "assessed": 65,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "tg": {
+      "assessed": 11,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "et": {
+      "assessed": 3,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "bj": {
+      "assessed": 9,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "gn": {
+      "assessed": 5,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "cm": {
+      "assessed": 17,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "sv": {
+      "assessed": 39,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "lk": {
+      "assessed": 17,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "ps": {
+      "assessed": 19,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "dz": {
+      "assessed": 7,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "sd": {
+      "assessed": 3,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "ly": {
+      "assessed": 4,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "ye": {
+      "assessed": 4,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "sy": {
+      "assessed": 10,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "co": {
+      "assessed": 125,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "jo": {
+      "assessed": 19,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "hn": {
+      "assessed": 79,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "om": {
+      "assessed": 5,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "tm": {
+      "assessed": 8,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "af": {
+      "assessed": 14,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "ec": {
+      "assessed": 81,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "pr": {
+      "assessed": 26,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "gt": {
+      "assessed": 66,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "vn": {
+      "assessed": 80,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "bd": {
+      "assessed": 26,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "cd": {
+      "assessed": 17,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "kh": {
+      "assessed": 24,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "uz": {
+      "assessed": 34,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "aw": {
+      "assessed": 11,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "tj": {
+      "assessed": 14,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "bh": {
+      "assessed": 5,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "bq": {
+      "assessed": 6,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "cw": {
+      "assessed": 4,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "la": {
+      "assessed": 9,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "rw": {
+      "assessed": 7,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "bf": {
+      "assessed": 6,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "uy": {
+      "assessed": 9,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "ni": {
+      "assessed": 19,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "cu": {
+      "assessed": 4,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "np": {
+      "assessed": 9,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "jm": {
+      "assessed": 7,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "lc": {
+      "assessed": 2,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "bb": {
+      "assessed": 1,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "vg": {
+      "assessed": 2,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "kw": {
+      "assessed": 11,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "mv": {
+      "assessed": 10,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "nz": {
+      "assessed": 11,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "ml": {
+      "assessed": 3,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "tz": {
+      "assessed": 7,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "ne": {
+      "assessed": 4,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "gy": {
+      "assessed": 4,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "tn": {
+      "assessed": 4,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "er": {
+      "assessed": 1,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "gp": {
+      "assessed": 5,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "bz": {
+      "assessed": 2,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "mq": {
+      "assessed": 6,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "bs": {
+      "assessed": 4,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "ht": {
+      "assessed": 13,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "ao": {
+      "assessed": 3,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "sl": {
+      "assessed": 1,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "mz": {
+      "assessed": 6,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "na": {
+      "assessed": 2,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "pg": {
+      "assessed": 1,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "kn": {
+      "assessed": 3,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "nc": {
+      "assessed": 1,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "ag": {
+      "assessed": 1,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "gm": {
+      "assessed": 1,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "eh": {
+      "assessed": 1,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "bn": {
+      "assessed": 2,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "bi": {
+      "assessed": 2,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "sr": {
+      "assessed": 2,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "gq": {
+      "assessed": 2,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "gu": {
+      "assessed": 1,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "vc": {
+      "assessed": 1,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "gf": {
+      "assessed": 1,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "pf": {
+      "assessed": 1,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "ws": {
+      "assessed": 1,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "cv": {
+      "assessed": 1,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    },
+    "zw": {
+      "assessed": 1,
+      "matched": 0,
+      "current": 0,
+      "future": 0
+    }
+  },
+  "assessed_channels": 14204,
+  "matched_channels": 1528,
+  "assessed_current_channels": 1520,
+  "assessed_future_channels": 1528,
+  "unmatched_channels": 12676,
+  "sha256": "d15db8fdfc13573af45e8684ab60a59bf5756df8839ae9f7aadd12c997f55d43"
 }
