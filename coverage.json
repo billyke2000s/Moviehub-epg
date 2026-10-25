@@ -1,0 +1,251 @@
+{
+  "generated_at": "2026-10-25T05:30:48+00:00",
+  "generated_at_unix": 1792906248,
+  "generation_seconds": 21.87,
+  "window_start": "20261024053048 +0000",
+  "window_stop": "20261101053048 +0000",
+  "channels": 5968,
+  "current_channels": 5934,
+  "future_channels": 5965,
+  "programmes": 398575,
+  "latest_programme_end": 1793523600,
+  "source_contributions": {
+    "plex-us": {
+      "programmes": 107329,
+      "channels": 2033
+    },
+    "plex-gb": {
+      "programmes": 23063,
+      "channels": 281
+    },
+    "samsung-gb": {
+      "programmes": 6903,
+      "channels": 729
+    },
+    "pluto-us": {
+      "programmes": 24202,
+      "channels": 1197
+    },
+    "pluto-gb": {
+      "programmes": 12991,
+      "channels": 531
+    },
+    "sports-supplement": {
+      "programmes": 7410,
+      "channels": 71
+    },
+    "epgshare-ie": {
+      "programmes": 14455,
+      "channels": 126
+    },
+    "sky-uk": {
+      "programmes": 120232,
+      "channels": 570
+    },
+    "epgshare-uk": {
+      "programmes": 12952,
+      "channels": 376
+    },
+    "freeview-uk": {
+      "programmes": 69038,
+      "channels": 394
+    }
+  },
+  "sources": [
+    {
+      "id": "freeview-uk",
+      "priority": 10,
+      "status": "downloaded",
+      "url": "https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml",
+      "etag": "\"006b0ca79d181e7f90562db7a02d2930c7e811db9ed26c7d1026f1705aaa430f\"",
+      "modified": null,
+      "fetched_at": 1792906248,
+      "sha256": "bde4fbf50b1fd5801ff55826758322982033e7ed49179c84c319d98e63de966b",
+      "input_channels": 284,
+      "window_programmes": 47787,
+      "current_programmes": 279,
+      "future_programmes": 46065,
+      "invalid_programmes": 0,
+      "first": 1792819800,
+      "last": 1793523600
+    },
+    {
+      "id": "sky-uk",
+      "priority": 20,
+      "status": "downloaded",
+      "url": "https://raw.githubusercontent.com/Permanently/sky-epg-xmltv/main/guides/london_hd.xml",
+      "etag": "\"32e9d22faa79edb159c0686cfd525ca1c01bd0e35a1873c915c00ada0da7d5d1\"",
+      "modified": null,
+      "fetched_at": 1792906249,
+      "sha256": "bf5ab1353f2fb730ea0f10f4ee5089b8caaf26c4a83a564e93d206db50f4f0cb",
+      "input_channels": 371,
+      "window_programmes": 75605,
+      "current_programmes": 359,
+      "future_programmes": 72450,
+      "invalid_programmes": 0,
+      "first": 1792843200,
+      "last": 1793523600
+    },
+    {
+      "id": "epgshare-uk",
+      "priority": 30,
+      "status": "downloaded",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz",
+      "etag": "\"6add87e3-2d34ad\"",
+      "modified": "Sun, 25 Oct 2026 04:38:59 GMT",
+      "fetched_at": 1792906248,
+      "sha256": "7084bdff1e86c9f1736e16fb57a3d575876ee36debff14e8864653f47e822237",
+      "input_channels": 486,
+      "window_programmes": 40388,
+      "current_programmes": 381,
+      "future_programmes": 30110,
+      "invalid_programmes": 0,
+      "first": 1792800000,
+      "last": 1793172600
+    },
+    {
+      "id": "epgshare-ie",
+      "priority": 30,
+      "status": "downloaded",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz",
+      "etag": "\"6add87da-25c71d\"",
+      "modified": "Sun, 25 Oct 2026 04:38:50 GMT",
+      "fetched_at": 1792906248,
+      "sha256": "03b9b5c2e99dd9f52ff5695418bf18a7a027a87266bf3ebd9d530e7cd2b643d5",
+      "input_channels": 175,
+      "window_programmes": 17887,
+      "current_programmes": 161,
+      "future_programmes": 17131,
+      "invalid_programmes": 0,
+      "first": 1792886400,
+      "last": 1793253600
+    },
+    {
+      "id": "epgshare-us",
+      "priority": 30,
+      "status": "failed",
+      "error": "HTTP 404"
+    },
+    {
+      "id": "plex-gb",
+      "priority": 5,
+      "status": "downloaded",
+      "url": "https://i.mjh.nz/Plex/gb.xml.gz",
+      "etag": "\"9833827ded1438909c137076d1dad9b69a1a0a2a218f486e26b7b9e44897b0d9\"",
+      "modified": null,
+      "fetched_at": 1792906249,
+      "sha256": "ef579a19e1a0564fb6a33c69e4471c5bb553c5ba2064cf6b797e7db602f5717b",
+      "input_channels": 368,
+      "window_programmes": 7809,
+      "current_programmes": 95,
+      "future_programmes": 7162,
+      "invalid_programmes": 0,
+      "first": 1792861244,
+      "last": 1793153521
+    },
+    {
+      "id": "plex-us",
+      "priority": 5,
+      "status": "downloaded",
+      "url": "https://i.mjh.nz/Plex/us.xml.gz",
+      "etag": "\"292367178098b10ce90f81f5377c655930ff15fe5ecf500698ded7f85c667281\"",
+      "modified": null,
+      "fetched_at": 1792906249,
+      "sha256": "41e53e59d349cf90796fae5057ff6d887d133f62d4bf97d5652a3c9f8c68ed11",
+      "input_channels": 696,
+      "window_programmes": 36647,
+      "current_programmes": 686,
+      "future_programmes": 32335,
+      "invalid_programmes": 1,
+      "first": 1792857600,
+      "last": 1793153090
+    },
+    {
+      "id": "samsung-gb",
+      "priority": 5,
+      "status": "downloaded",
+      "url": "https://i.mjh.nz/SamsungTVPlus/gb.xml.gz",
+      "etag": "\"23e70352ad9f565810cc660d6f7f7be48553405cafe02f45b0943234f412499c\"",
+      "modified": null,
+      "fetched_at": 1792906249,
+      "sha256": "b85479dc39f986279fc490d964d5212c49b624b0342255116cf7d322fec9293c",
+      "input_channels": 273,
+      "window_programmes": 2561,
+      "current_programmes": 272,
+      "future_programmes": 2428,
+      "invalid_programmes": 0,
+      "first": 1792886400,
+      "last": 1792970100
+    },
+    {
+      "id": "pluto-gb",
+      "priority": 5,
+      "status": "downloaded",
+      "url": "https://i.mjh.nz/PlutoTV/gb.xml.gz",
+      "etag": "\"47cf138f20f149cade3e5da9c2f72cc15dc0709ccec68dc0abd8846515607d6f\"",
+      "modified": null,
+      "fetched_at": 1792906249,
+      "sha256": "bff3f476e0f28b243c841fa5cbaf50518eec311509febe86b0023c8237037997",
+      "input_channels": 187,
+      "window_programmes": 4560,
+      "current_programmes": 187,
+      "future_programmes": 4172,
+      "invalid_programmes": 0,
+      "first": 1792887540,
+      "last": 1792985400
+    },
+    {
+      "id": "pluto-us",
+      "priority": 5,
+      "status": "downloaded",
+      "url": "https://i.mjh.nz/PlutoTV/us.xml.gz",
+      "etag": "\"7202efaf1be5f618dc0c3e0516c8f7241554016e27604b28f1dea5df26da408b\"",
+      "modified": null,
+      "fetched_at": 1792906249,
+      "sha256": "c41a775b3e4dd67327d7c9d7bc6e84ff5a76b2e3877432e501aab2b20c728e1e",
+      "input_channels": 430,
+      "window_programmes": 8766,
+      "current_programmes": 429,
+      "future_programmes": 8053,
+      "invalid_programmes": 0,
+      "first": 1792886400,
+      "last": 1792990800
+    },
+    {
+      "id": "sports-supplement",
+      "priority": 40,
+      "status": "downloaded",
+      "url": "https://raw.githubusercontent.com/farleyflex/epg-guide/main/epg.xml",
+      "etag": "\"013cded2da843caaf3c1bb9714b810fd7ba14289338c2bf109bb5571686c6d36\"",
+      "modified": null,
+      "fetched_at": 1792906249,
+      "sha256": "79d3d99def8fa89ffaf13375a5cf01ef222353994f994eb166d21932795bfc44",
+      "input_channels": 75,
+      "window_programmes": 8308,
+      "current_programmes": 69,
+      "future_programmes": 7064,
+      "invalid_programmes": 13,
+      "first": 1792796400,
+      "last": 1793289600
+    }
+  ],
+  "inventory_sources": [
+    {
+      "id": "free-tv",
+      "status": "fresh",
+      "rows": 2052
+    },
+    {
+      "id": "iptv-org",
+      "status": "fresh",
+      "rows": 11333
+    }
+  ],
+  "assessment_scope": "Public default Free-TV and iptv-org lists; private accounts and the viewer's installed database are not observable here",
+  "assessed_channels": 11392,
+  "matched_channels": 503,
+  "assessed_current_channels": 497,
+  "assessed_future_channels": 503,
+  "unmatched_channels": 10889,
+  "sha256": "7fee4eb8943dde464d578a6e5310ac0e9f87ac9145e910a62890348259b2bc1c"
+}
