@@ -43,6 +43,8 @@ def validate(report, previous, rules):
         raise ValueError("current channel coverage fell by more than the allowed threshold")
     if report["latest_programme_end"] < report["generated_at_unix"] + 6 * 3600:
         raise ValueError("guide lacks usable future listings")
+    if report.get("compressed_bytes", 0) > rules.get("max_compressed_bytes", 64 * 1024 * 1024):
+        raise ValueError("compressed guide exceeds the TV download bound")
 
 
 def write_xml(db, channels, out, now, source_reports):
@@ -190,6 +192,7 @@ def build(config, cache, out, previous=None, now=None):
         "assessed_channels": len(inventory), "matched_channels": matched, "assessed_current_channels": current,
         "assessed_future_channels": future, "unmatched_channels": len(unmatched),
         "sha256": hashlib.sha256((out / "epg.xml.gz").read_bytes()).hexdigest(),
+        "compressed_bytes": (out / "epg.xml.gz").stat().st_size,
     }
     validate(report, previous, config["validation"])
     (out / "coverage.json").write_text(json.dumps(report, indent=2, ensure_ascii=False) + "\n")

@@ -61,6 +61,12 @@ async function main() {
         let requests = 0, bytes = 0;
         async function exchange(request) {
             if (Date.now() > deadline) throw new Error("Catalogue time limit");
+            if (request.url.startsWith("https://provider-timer.invalid/")) {
+                const ms = Number(request.url.slice("https://provider-timer.invalid/".length));
+                if (!Number.isFinite(ms) || ms < 0 || ms > 3000) throw new Error("Catalogue timer limit");
+                await new Promise(resolve => setTimeout(resolve, ms));
+                return { status: 200, url: request.url, headers: {}, text: "" };
+            }
             let address = request.url, method = request.method || "GET", body = request.body || "";
             const first = new URL(address).host;
             for (let redirects = 0; redirects < 5; redirects++) {
@@ -93,9 +99,9 @@ async function main() {
         try {
             let rows;
             if (id === "freelivesports") {
-                const metadata = step("metadata", "").value;
+                const metadata = step("metadata", "");
                 const response = await exchange({ url: metadata.url, headers: metadata.headers });
-                rows = step("catalogue", response.text).value;
+                rows = step("catalogue", response.text);
             } else {
                 const input = { now: Date.now(), seed: randomBytes(32).toString("base64"), row: {}, responses: [] };
                 for (let round = 0; round < 64 && Date.now() < deadline; round++) {
