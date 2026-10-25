@@ -49,3 +49,9 @@ remaining assessed gaps without hiding unsupported countries.
 The initial eleven-source run assessed 11,392 public default-list identities: 503 matched and 92 with current programmes. US1 returned HTTP 404. The largest gaps were US (1,267), India (760), Germany (397), Italy (331), Brazil (279) and Spain (278). Added distinct public country feeds already listed in the original Free-TV header, plus the verified US2 replacement, rather than duplicates for the same country. Their live contributions/failures are measured in the published report; an available URL is not counted as coverage without programmes. Russia’s guessed RU1 URL was not in that existing source inventory and was not added speculatively.
 
 Public inline catalogues for Stirr, TCL, Xumo, LG, Whale, Vizio, Roku, Tubi, Local Now and FreeLiveSports are processed with the exact existing MovieHub runtime at the pinned audit revision. Catalogue-only requests retain existing host capabilities and budgets; no player URLs, cookies, bearer tokens or request journals enter the guide or public reports. Providers refusing the runner’s region are reported without spoofing a region. Channels without usable inline programmes are retained in the assessed inventory as gaps.
+
+## Additional exact Roku coverage
+
+The public `https://i.mjh.nz/Roku/all.xml.gz` mirror uses the same station identifiers as the existing Roku catalogue (`station.meta.id`). It supplies exact `engineroku:<id>` mappings where the catalogue has no inline schedule. Its region is intentionally `mixed`, so names without an explicit country do not create guessed country aliases. The guide contributes independently of a refused or unavailable public Roku catalogue; catalogue assessment still reports that limitation.
+
+Failed native processors remove their staging XML before the run. Accepted per-source caches remain separate, retain their original fetch time and expire according to original programme timestamps.

@@ -37,7 +37,15 @@ def download(spec, directory):
         snapshot = directory / "native" / (spec["provider"] + ".xml.gz")
         if snapshot.exists():
             return snapshot, {"status": "downloaded", "fetched_at": int(time.time()), "kind": "public_inline_catalogue"}
-        return (path if path.exists() else None), dict(meta, status="cached_failure" if path.exists() else "failed", error="public inline catalogue unavailable")
+        reason = "public inline catalogue unavailable"
+        diagnostics = directory / "native" / "report.json"
+        if diagnostics.exists():
+            try:
+                report = next((r for r in json.loads(diagnostics.read_text()) if r.get("id") == spec["provider"]), {})
+                reason = report.get("reason", reason)
+            except (OSError, ValueError):
+                pass
+        return (path if path.exists() else None), dict(meta, status="cached_failure" if path.exists() else "failed", error=reason)
     headers = {"User-Agent": "MovieHub-EPG/1.0 (+https://github.com/billyke2000s/Moviehub-epg)"}
     if meta.get("url") == spec["url"] and path.exists():
         if meta.get("etag"):

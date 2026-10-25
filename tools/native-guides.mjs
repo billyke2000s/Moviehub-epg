@@ -1,6 +1,6 @@
 // Reuse MovieHub's audited interpreter to read public catalogue programmes on GitHub, never on the TV.
 // No stream resolution, playback, media URLs, cookies or bearer tokens are published.
-import { readFileSync, writeFileSync, mkdirSync, mkdtempSync } from "node:fs";
+import { readFileSync, writeFileSync, mkdirSync, mkdtempSync, rmSync } from "node:fs";
 import { spawnSync } from "node:child_process";
 import { randomBytes } from "node:crypto";
 import { gzipSync } from "node:zlib";
@@ -48,6 +48,9 @@ async function main() {
     const work = mkdtempSync(join(tmpdir(), "moviehub-epg-provider-"));
     const reports = [];
     for (const id of PROVIDERS) {
+        // Snapshots are fresh only after this run succeeds. The accepted per-source cache
+        // is a separate file, with original timestamps retained by the Python merger.
+        rmSync(`${root}/${id}.xml.gz`, { force: true });
         const deadline = Date.now() + 90000;
         const dir = `${work}/${id}`;
         mkdirSync(dir, { recursive: true });
@@ -132,7 +135,6 @@ async function main() {
     }
     writeFileSync(root + "/report.json", JSON.stringify(reports, null, 2));
     // Request/response replay journals can contain anonymous session tokens: never cache/publish them.
-    const { rmSync } = await import("node:fs");
     rmSync(work, { recursive: true, force: true });
     console.log(JSON.stringify(reports));
 }

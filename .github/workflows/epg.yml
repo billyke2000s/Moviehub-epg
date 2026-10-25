@@ -5,9 +5,9 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ['epg/**', 'tests/**', 'sources.json', 'requirements.txt', '.github/workflows/epg.yml']
+    paths: ['epg/**', 'tests/**', 'tools/**', 'sources.json', 'requirements.txt', '.github/workflows/epg.yml']
   pull_request:
-    paths: ['epg/**', 'tests/**', 'sources.json', 'requirements.txt', '.github/workflows/epg.yml']
+    paths: ['epg/**', 'tests/**', 'tools/**', 'sources.json', 'requirements.txt', '.github/workflows/epg.yml']
 permissions:
   contents: write
 concurrency:

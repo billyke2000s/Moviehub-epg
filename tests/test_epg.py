@@ -34,6 +34,7 @@ class IdentityTest(unittest.TestCase):
         self.assertEqual("engineplex:abc", native_key("plex", "gb", "server-abc"))
         self.assertEqual("enginesamsung:GBBC1ZQ", native_key("samsung", "uk", "GBBC1ZQ"))
         self.assertEqual("pluto:abc.uk", native_key("pluto", "gb", "abc"))
+        self.assertEqual("engineroku:station", native_key("roku", "mixed", "station"))
 
     def test_dst_is_an_absolute_instant(self):
         self.assertEqual(timestamp("20261025013000 +0100") + 3600, timestamp("20261025013000 +0000"))

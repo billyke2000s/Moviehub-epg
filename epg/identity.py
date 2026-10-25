@@ -60,6 +60,8 @@ def native_key(provider, region, identifier):
         return "engineplex:" + identifier.rsplit("-", 1)[-1]
     if provider == "samsung":
         return "enginesamsung:" + identifier
+    if provider == "roku":
+        return "engineroku:" + identifier
     if provider == "pluto":
         return "pluto:" + identifier + "." + country(region)
     return ""

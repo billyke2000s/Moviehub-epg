@@ -277,6 +277,15 @@
       "priority": 5,
       "project": "https://github.com/billyke2000s/moviehub",
       "rights": "Existing public anonymous provider catalogue, read with MovieHub\u2019s existing audited interpreter on GitHub. No playback URLs/session tokens published."
+    },
+    {
+      "id": "roku-public-guide",
+      "url": "https://i.mjh.nz/Roku/all.xml.gz",
+      "country": "mixed",
+      "provider": "roku",
+      "priority": 10,
+      "project": "https://github.com/matthuisman/i.mjh.nz",
+      "rights": "Public XMLTV mirror; exact Roku station identifiers only. No account access or media URLs. Public availability does not establish a blanket broadcaster-data redistribution licence."
     }
   ],
   "inventory": [
