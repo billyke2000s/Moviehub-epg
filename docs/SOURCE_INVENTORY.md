@@ -55,3 +55,5 @@ Public inline catalogues for Stirr, TCL, Xumo, LG, Whale, Vizio, Roku, Tubi, Loc
 The public `https://i.mjh.nz/Roku/all.xml.gz` mirror uses the same station identifiers as the existing Roku catalogue (`station.meta.id`). It supplies exact `engineroku:<id>` mappings where the catalogue has no inline schedule. Its region is intentionally `mixed`, so names without an explicit country do not create guessed country aliases. The guide contributes independently of a refused or unavailable public Roku catalogue; catalogue assessment still reports that limitation.
 
 Failed native processors remove their staging XML before the run. Accepted per-source caches remain separate, retain their original fetch time and expire according to original programme timestamps.
+
+BBC Radio 5 Sports Extra, Asian Network and World Service retain both existing feed names and the playlist's explicit BBC Radio identifiers. These aliases are restricted to the same named radio service; they do not relax the Gold Radio/Gold television separation. Explicit `@` qualifiers retain regional/service identity while quality notes such as `@HD` are discarded.

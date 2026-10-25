@@ -60,3 +60,5 @@ python -m epg.build
 Validated output is staged in `out/`; local runs never overwrite the published files automatically.
 Review `out/coverage.md`, source contributions, freshness and unmatched identities before changing
 source priorities or coverage thresholds. Do not add private playlists to the public inventory.
+
+Validation also checks assessed current coverage by country. Losing more than 30% of an established country's current matches (at least 20 previously) cannot be hidden by a healthy global total; publication retains the last validated guide and the run reports the failure.

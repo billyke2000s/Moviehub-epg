@@ -56,6 +56,13 @@ def guide_keys(identifier, names, region, aliases=False):
     keys = {key(identifier)}
     # Freeview's GoldRadio.uk has display-name "Gold": a radio alias cannot steal Gold TV.
     keys.update(key(n) for n in names if "radio" not in key(identifier) or "radio" in key(n))
+    radio_aliases = {
+        "bbcradio5sportsxtra": "bbcradio5sportsextra",
+        "bbcrasiannetwork": "bbcradioasiannetwork",
+        "bbcasiannetwork": "bbcradioasiannetwork",
+        "bbcworldservice": "bbcradioworldservice",
+    }
+    keys.update(radio_aliases[k] for k in list(keys) if k in radio_aliases)
     if aliases:
         keys.update(national(k) for k in list(keys))
     return sorted("xmltv:" + region + ":" + k for k in keys if k)

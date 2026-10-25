@@ -35,6 +35,12 @@ class IdentityTest(unittest.TestCase):
         self.assertIn("xmltv:uk:bbcone", guide_keys("BBCOne.uk@HD", ["BBC One"], "uk", True))
         self.assertEqual(["xmltv:uk:bbcearthczechia"], guide_keys("BBCEarth.uk@Czechia", ["BBC Earth"], "uk", True))
 
+    def test_existing_bbc_radio_ids_have_exact_safe_aliases(self):
+        self.assertIn("xmltv:uk:bbcradio5sportsextra", guide_keys("BBCR5SX.uk", ["BBC Radio 5 Sports Xtra"], "uk"))
+        self.assertIn("xmltv:uk:bbcradioasiannetwork", guide_keys("BBCRAsianNetwork.uk", ["BBC Asian Network"], "uk"))
+        self.assertIn("xmltv:uk:bbcworldservice", guide_keys("BBCWorldService.uk", ["BBC World Service"], "uk"))
+        self.assertIn("xmltv:uk:bbcradioworldservice", guide_keys("BBCWorldService.uk", ["BBC World Service"], "uk"))
+
     def test_provider_ids(self):
         self.assertEqual("engineplex:abc", native_key("plex", "gb", "server-abc"))
         self.assertEqual("enginesamsung:GBBC1ZQ", native_key("samsung", "uk", "GBBC1ZQ"))
@@ -55,6 +61,15 @@ class IdentityTest(unittest.TestCase):
 
 
 class MergeTest(unittest.TestCase):
+    def test_country_coverage_drop_is_not_hidden_by_a_healthy_global_total(self):
+        report = {"current_channels": 10000, "programmes": 900000, "latest_programme_end": NOW + 86400,
+                  "generated_at_unix": NOW, "country_coverage": {"uk": {"current": 10}}}
+        rules = {"min_current_channels": 100, "min_programmes": 1000, "minimum_coverage_ratio": 0.7}
+        with self.assertRaisesRegex(ValueError, "uk"):
+            validate(report, {"current_channels": 10000, "country_coverage": {"uk": {"current": 100}}}, rules)
+        report["country_coverage"]["uk"]["current"] = 90
+        validate(report, {"current_channels": 10000, "country_coverage": {"uk": {"current": 100}}}, rules)
+
     def test_priority_deduplication_and_gap_fill(self):
         def row(rank, start, stop, title):
             return (rank, start, stop, title, "", "", "", "fixture")

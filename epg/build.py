@@ -41,6 +41,12 @@ def validate(report, previous, rules):
     old = (previous or {}).get("current_channels", 0)
     if old and report["current_channels"] < old * rules["minimum_coverage_ratio"]:
         raise ValueError("current channel coverage fell by more than the allowed threshold")
+    # A healthy global total must not conceal the loss of an established country's guide.
+    for region, old_coverage in (previous or {}).get("country_coverage", {}).items():
+        old_current = old_coverage.get("current", 0)
+        new_current = report.get("country_coverage", {}).get(region, {}).get("current", 0)
+        if old_current >= 20 and new_current < old_current * rules["minimum_coverage_ratio"]:
+            raise ValueError("current assessed coverage fell unexpectedly for " + region)
     if report["latest_programme_end"] < report["generated_at_unix"] + 6 * 3600:
         raise ValueError("guide lacks usable future listings")
     if report.get("compressed_bytes", 0) > rules.get("max_compressed_bytes", 64 * 1024 * 1024):
