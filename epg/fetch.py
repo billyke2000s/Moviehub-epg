@@ -33,6 +33,11 @@ def download(spec, directory):
     path = directory / (spec["id"] + ".xml.gz")
     meta_path = directory / (spec["id"] + ".json")
     meta = json.loads(meta_path.read_text()) if meta_path.exists() else {}
+    if spec.get("kind") == "inline":
+        snapshot = directory / "native" / (spec["provider"] + ".xml.gz")
+        if snapshot.exists():
+            return snapshot, {"status": "downloaded", "fetched_at": int(time.time()), "kind": "public_inline_catalogue"}
+        return (path if path.exists() else None), dict(meta, status="cached_failure" if path.exists() else "failed", error="public inline catalogue unavailable")
     headers = {"User-Agent": "MovieHub-EPG/1.0 (+https://github.com/billyke2000s/Moviehub-epg)"}
     if meta.get("url") == spec["url"] and path.exists():
         if meta.get("etag"):

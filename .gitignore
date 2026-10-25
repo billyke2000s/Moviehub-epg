@@ -4,3 +4,6 @@ out/
 __pycache__/
 *.pyc
 .venv/
+out-*/
+moviehub-source/
+build/

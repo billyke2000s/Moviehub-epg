@@ -23,14 +23,41 @@ jobs:
         with:
           python-version: '3.11'
       - run: python -m pip install -r requirements.txt
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
       - name: Test normalization, merging, validation and cache recovery
         run: python -m unittest discover -s tests -v
+      - run: node --test tests/*.test.mjs
       - uses: actions/cache@v4
         if: github.event_name != 'pull_request'
         with:
           path: .cache
           key: epg-source-cache-${{ github.run_id }}
           restore-keys: epg-source-cache-
+      - uses: actions/checkout@v5
+        if: github.event_name != 'pull_request'
+        with:
+          repository: billyke2000s/moviehub
+          ref: b29971ab9f244189de00265d614772eed6f896e4
+          path: moviehub-source
+          persist-credentials: false
+      - uses: actions/setup-java@v5
+        if: github.event_name != 'pull_request'
+        with:
+          distribution: temurin
+          java-version: '17'
+      - name: Read existing providers' public inline programmes on GitHub
+        if: github.event_name != 'pull_request'
+        env:
+          RHINO_JAR: ${{ runner.temp }}/rhino.jar
+        run: |
+          rm -rf .cache/native
+          curl --fail --location --output "$RHINO_JAR" https://repo.maven.apache.org/maven2/org/mozilla/rhino/1.9.1/rhino-1.9.1.jar
+          echo "12dbb224cea124a5d32968722e8eb161c967bf15f3c9a795d1b05592b1147975  $RHINO_JAR" | sha256sum --check
+          mkdir -p build/provider-tests
+          javac -cp "$RHINO_JAR" -d build/provider-tests moviehub-source/android-tv-launcher/app/src/main/java/local/tv/home/{ProviderScript,ProviderCodec,ProviderSignature,ProviderUrls,ProviderSegments}.java moviehub-source/android-tv-launcher/tests/ProviderProbeCli.java
+          node tools/native-guides.mjs
       - name: Fetch and merge the public guides
         if: github.event_name != 'pull_request'
         run: python -m epg.build
@@ -72,4 +99,5 @@ jobs:
             out/coverage.md
             out/unmatched.json
             out/status.json
+            .cache/native/report.json
           if-no-files-found: ignore

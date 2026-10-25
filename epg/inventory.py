@@ -54,6 +54,10 @@ def load(config, cache):
             reports.append({"id": spec["id"], "status": "cached" if found else "failed", "error": type(exc).__name__, "rows": len(found)})
         rows.extend(found)
     # One assessed logical identity per country/id/name, not one per repeated stream URL.
+    for path in cache.glob("inline-inventory-*.json"):
+        native = json.loads(path.read_text())
+        rows.extend(native)
+        reports.append({"id": path.stem, "status": "public_provider_snapshot", "rows": len(native)})
     unique = {}
     for row in rows:
         identity = (row["country"], key(row["epg_id"]) or key(row["name"]))

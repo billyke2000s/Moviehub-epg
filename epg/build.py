@@ -50,6 +50,7 @@ def write_xml(db, channels, out, now, source_reports):
     counts = {"channels": 0, "current_channels": 0, "future_channels": 0, "programmes": 0,
               "latest_programme_end": 0, "source_contributions": {}}
     coverage = {}
+    representatives = {}
     with output.open("wb") as raw, gzip.GzipFile(filename="", fileobj=raw, mode="wb", mtime=0) as zipped:
         zipped.write(b'<?xml version="1.0" encoding="UTF-8"?>\n<tv generator-info-name="MovieHub EPG" generator-info-url="https://github.com/billyke2000s/Moviehub-epg">\n')
         # XMLTV requires all channel declarations before programmes.
@@ -66,6 +67,8 @@ def write_xml(db, channels, out, now, source_reports):
             current = any(r[1] <= now < r[2] for r in chosen)
             future = any(r[1] > now for r in chosen)
             coverage[identifier] = {"current": current, "future": future, "programmes": len(chosen)}
+            if identifier in {"xmltv:uk:bbcone", "xmltv:uk:itv1", "xmltv:uk:skywitness", "xmltv:uk:skyatlantic", "xmltv:uk:gold", "xmltv:uk:skysportsmainevent", "xmltv:uk:tntsports1"}:
+                representatives[identifier] = [{"start": stamp(r[1]), "stop": stamp(r[2]), "title": r[3], "source": r[7]} for r in chosen if r[2] > now][:4]
             counts["channels"] += 1
             counts["current_channels"] += current
             counts["future_channels"] += future
@@ -91,6 +94,7 @@ def write_xml(db, channels, out, now, source_reports):
         zipped.write(b"</tv>\n")
     for data in counts["source_contributions"].values():
         data["channels"] = len(data["channels"])
+    counts["representative_programmes"] = representatives
     return counts, coverage
 
 
@@ -151,6 +155,8 @@ def build(config, cache, out, previous=None, now=None):
                 db.execute("ROLLBACK TO source")
                 db.execute("RELEASE source")
                 report.update(status="invalid", error=type(exc).__name__)
+                if str(exc) == "empty or expired guide":
+                    report.update(error="empty or expired guide", stale_or_empty=True)
         if not accepted:
             report["status"] = "failed"
         reports.append(report)
@@ -161,19 +167,26 @@ def build(config, cache, out, previous=None, now=None):
     database.unlink(missing_ok=True)
     inventory, inventory_reports = load_inventory(config.get("inventory", []), cache)
     matched = current = future = 0
+    by_country = {}
     unmatched = []
     for row in inventory:
         found = [guide_coverage[k] for k in row["keys"] if k in guide_coverage]
         matched += bool(found)
         current += any(c["current"] for c in found)
         future += any(c["future"] for c in found)
+        region = by_country.setdefault(row["country"] or "unknown/provider-native", {"assessed": 0, "matched": 0, "current": 0, "future": 0})
+        region["assessed"] += 1
+        region["matched"] += bool(found)
+        region["current"] += any(c["current"] for c in found)
+        region["future"] += any(c["future"] for c in found)
         if not found:
             unmatched.append({k: row[k] for k in ["name", "epg_id", "country", "list"]})
     report = {
         "generated_at": datetime.fromtimestamp(now, timezone.utc).isoformat(), "generated_at_unix": now,
         "generation_seconds": round(time.monotonic() - started, 2), "window_start": stamp(start), "window_stop": stamp(stop),
         **counts, "sources": reports, "inventory_sources": inventory_reports,
-        "assessment_scope": "Public default Free-TV and iptv-org lists; private accounts and the viewer's installed database are not observable here",
+        "assessment_scope": "Public default Free-TV and iptv-org logical identities plus available provider-native catalogue identities. Includes provider copies; private accounts and the viewer's installed database are not observable here",
+        "country_coverage": by_country,
         "assessed_channels": len(inventory), "matched_channels": matched, "assessed_current_channels": current,
         "assessed_future_channels": future, "unmatched_channels": len(unmatched),
         "sha256": hashlib.sha256((out / "epg.xml.gz").read_bytes()).hexdigest(),

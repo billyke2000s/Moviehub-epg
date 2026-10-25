@@ -38,8 +38,8 @@ def read(path, spec, now, from_time, to_time, consume):
             if item.tag == "channel":
                 identifier = item.get("id", "")
                 names = [n.text.strip() for n in item.findall("display-name") if n.text and n.text.strip()]
-                keys = guide_keys(identifier, names, spec["country"], spec.get("aliases", False))
-                if spec.get("provider"):
+                keys = [identifier] if spec.get("native_ids") else guide_keys(identifier, names, spec["country"], spec.get("aliases", False))
+                if spec.get("provider") and not spec.get("native_ids"):
                     keys.append(native_key(spec["provider"], spec["country"], identifier))
                 keys = sorted(set(k for k in keys if k))
                 mappings[identifier] = keys

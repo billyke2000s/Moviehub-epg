@@ -40,8 +40,7 @@ existing published freshness remains visible. No private feeds, credentials or s
 
 The exact public URLs, priorities and attribution are in [sources.json](sources.json). The eight XMLTV
 URLs MovieHub already fetched are retained as the starting point. Public Pluto XMLTV replaces its
-per-channel device guide calls. A small UK/CA/US/AU sports supplement fills meaningful gaps rather than
-adding dozens of overlapping feeds. See [the migration inventory](docs/SOURCE_INVENTORY.md).
+per-channel device guide calls. A UK/CA/US/AU sports supplement and distinct country feeds address measured gaps; the original US1 URL is retained in the assessment, with US2 added because US1 returns 404. Existing public inline provider catalogues are also read on GitHub through MovieHub’s pinned audited interpreter, preserving exact native guide identities without publishing stream URLs or sessions. See [the migration inventory](docs/SOURCE_INVENTORY.md).
 
 Source code licences do not automatically grant all rights in broadcaster schedule descriptions.
 Upstream data remains attributed to its respective providers; this repository makes no new licence
