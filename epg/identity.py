@@ -47,6 +47,12 @@ def guide_keys(identifier, names, region, aliases=False):
     region = country(own.group(1) if region == "mixed" and own else region)
     if not re.fullmatch(r"[a-z]{2}", region):
         return []
+    if "@" in identifier:
+        base, variant = identifier.split("@", 1)
+        variant = key(variant)
+        if variant:
+            # Quality notes disappear in key(); regional/service qualifiers do not.
+            return ["xmltv:" + region + ":" + key(base) + variant]
     keys = {key(identifier)}
     # Freeview's GoldRadio.uk has display-name "Gold": a radio alias cannot steal Gold TV.
     keys.update(key(n) for n in names if "radio" not in key(identifier) or "radio" in key(n))

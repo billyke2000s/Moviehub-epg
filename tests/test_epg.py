@@ -30,6 +30,11 @@ class IdentityTest(unittest.TestCase):
         self.assertIn("xmltv:uk:gold", guide_keys("UAndGold.uk", ["U&Gold"], "uk", True))
         self.assertIn("xmltv:us:example", guide_keys("Example.us", ["Example"], "mixed"))
 
+    def test_explicit_regional_suffix_cannot_claim_national_or_other_regions(self):
+        self.assertEqual(["xmltv:uk:bbconescotland"], guide_keys("BBCOne.uk@Scotland", ["BBC One"], "uk", True))
+        self.assertIn("xmltv:uk:bbcone", guide_keys("BBCOne.uk@HD", ["BBC One"], "uk", True))
+        self.assertEqual(["xmltv:uk:bbcearthczechia"], guide_keys("BBCEarth.uk@Czechia", ["BBC Earth"], "uk", True))
+
     def test_provider_ids(self):
         self.assertEqual("engineplex:abc", native_key("plex", "gb", "server-abc"))
         self.assertEqual("enginesamsung:GBBC1ZQ", native_key("samsung", "uk", "GBBC1ZQ"))
