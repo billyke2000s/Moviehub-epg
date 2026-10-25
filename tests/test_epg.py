@@ -5,7 +5,7 @@ import tempfile
 import unittest
 from unittest.mock import patch
 
-from epg.build import build, select_programmes, validate
+from epg.build import build, select_programmes, validate, write_xml
 from epg.identity import guide_keys, native_key
 from epg.inventory import parse
 from epg.xmltv import read, stamp, timestamp
@@ -46,12 +46,17 @@ class IdentityTest(unittest.TestCase):
         self.assertEqual("enginesamsung:GBBC1ZQ", native_key("samsung", "uk", "GBBC1ZQ"))
         self.assertEqual("pluto:abc.uk", native_key("pluto", "gb", "abc"))
         self.assertEqual("engineroku:station", native_key("roku", "mixed", "station"))
+        self.assertEqual("enginexumo:99951216", native_key("xumo", "us", "99951216"))
 
     def test_dst_is_an_absolute_instant(self):
         self.assertEqual(timestamp("20261025013000 +0100") + 3600, timestamp("20261025013000 +0000"))
         self.assertEqual(timestamp("20261025023000 +0100"), timestamp("20261025013000 +0000"))
         with self.assertRaises(ValueError):
             timestamp("20260230120000 +0000")
+
+    def test_national_uk_qualifier_is_not_a_regional_alias(self):
+        self.assertIn("xmltv:uk:channel4uk", guide_keys("Channel4.uk", ["Channel 4"], "uk"))
+        self.assertNotIn("xmltv:ie:channel4uk", guide_keys("Channel4.ie", ["Channel 4"], "ie"))
 
     def test_inventory_never_keeps_stream_urls(self):
         rows = parse('#EXTM3U\n#EXTINF:-1 tvg-id="BBCOne.uk",BBC One\nhttps://private.example/user/password\n', "fixture")
@@ -77,6 +82,38 @@ class MergeTest(unittest.TestCase):
                                     row(2, 15, 25, "Overlap"), row(2, 20, 30, "Next")])
         self.assertEqual(["First", "Next"], [r[3] for r in result])
         self.assertEqual([(10, 20), (20, 30)], [(r[1], r[2]) for r in result])
+
+    def test_curated_supplement_only_emits_reviewed_keys_and_programmes(self):
+        with tempfile.TemporaryDirectory() as root:
+            path = Path(root)/"feed.gz"
+            path.write_bytes(gzip.compress(guide(identifier="technical.123", name="Latest TV", stop=NOW+12*3600)))
+            spec = {"country": "uk", "only_keys": ["xmltv:uk:latesttv"]}
+            rows = []
+            channels, stats = read(path, spec, NOW, NOW-86400, NOW+7*86400, lambda *r: rows.append(r))
+            self.assertEqual(["xmltv:uk:latesttv"], list(channels))
+            self.assertEqual("xmltv:uk:latesttv", rows[0][0])
+            spec["only_keys"] = ["xmltv:us:latesttv"]
+            rows = []
+            channels, stats = read(path, spec, NOW, NOW-86400, NOW+7*86400, lambda *r: rows.append(r))
+            self.assertEqual({}, channels)
+            self.assertEqual([], rows)
+
+    def test_all_country_groups_emit_programmes_in_one_ordered_scan(self):
+        import sqlite3
+        with tempfile.TemporaryDirectory() as root:
+            db = sqlite3.connect(":memory:")
+            db.execute("CREATE TABLE programmes(channel TEXT,priority,start,stop,title,descr,category,flags,source)")
+            names = {}
+            for country, title in [("de", "Über den Wolken"), ("in", "समाचार"), ("nl", "Nieuws"), ("pl", "Rusz się")]:
+                channel = "xmltv:" + country + ":fixture"
+                names[channel] = title
+                db.execute("INSERT INTO programmes VALUES(?,?,?,?,?,?,?,?,?)", (channel, 10, NOW-60, NOW+12*3600, title, "", "", "", country))
+            counts, coverage = write_xml(db, names, Path(root), NOW, [])
+            self.assertEqual(4, counts["programmes"])
+            self.assertEqual(4, counts["current_channels"])
+            self.assertEqual({"de", "in", "nl", "pl"}, set(counts["source_contributions"]))
+            self.assertTrue(all(v["programmes"] == 1 for v in coverage.values()))
+            db.close()
 
     def test_malformed_xml_and_entities_are_rejected(self):
         with tempfile.TemporaryDirectory() as root:

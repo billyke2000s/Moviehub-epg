@@ -6,6 +6,7 @@ from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone
 import gzip
 import hashlib
+from itertools import groupby
 import json
 import os
 from pathlib import Path
@@ -67,11 +68,11 @@ def write_xml(db, channels, out, now, source_reports):
             channel = ET.Element("channel", id=identifier)
             ET.SubElement(channel, "display-name").text = channels.get(identifier, identifier)
             zipped.write(ET.tostring(channel, encoding="utf-8") + b"\n")
-        for identifier in ids:
-            chosen = select_programmes(db.execute(
-                "SELECT priority,start,stop,title,descr,category,flags,source FROM programmes WHERE channel=? ORDER BY priority,start,stop,source",
-                (identifier,),
-            ))
+        # Stream one ordered query instead of rebinding one statement per identifier.
+        # Every parsed channel group must reach programme selection, including non-ASCII feeds.
+        ordered = db.execute("SELECT channel,priority,start,stop,title,descr,category,flags,source FROM programmes ORDER BY channel,priority,start,stop,source")
+        for identifier, rows in groupby(ordered, key=lambda row: row[0]):
+            chosen = select_programmes(row[1:] for row in rows)
             current = any(r[1] <= now < r[2] for r in chosen)
             future = any(r[1] > now for r in chosen)
             coverage[identifier] = {"current": current, "future": future, "programmes": len(chosen)}

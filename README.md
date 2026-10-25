@@ -64,3 +64,5 @@ source priorities or coverage thresholds. Do not add private playlists to the pu
 Validation also checks assessed current coverage by country. Losing more than 30% of an established country's current matches (at least 20 previously) cannot be hidden by a healthy global total; publication retains the last validated guide and the run reports the failure.
 
 If GitHub evicts the per-source Actions cache, a failed source can still retain unexpired listings from the committed last published guide. This final fallback uses the original canonical identifiers and programme timestamps at the lowest priority, never overwrites healthy fresh entries and never extends expired programmes. The report identifies its contribution as `previous-published`.
+
+Additional unmatched-channel coverage is assessed in [ADDITIONAL_COVERAGE_2026-10-25.md](docs/ADDITIONAL_COVERAGE_2026-10-25.md). Tested additions include exact Xumo-native listings, working CA2, Dutch/Polish/Turkish feeds and small curated UK/US supplements. The TV continues to fetch only the same finished combined guide; no APK update is required for these server changes.

@@ -56,6 +56,8 @@ def guide_keys(identifier, names, region, aliases=False):
     keys = {key(identifier)}
     # Freeview's GoldRadio.uk has display-name "Gold": a radio alias cannot steal Gold TV.
     keys.update(key(n) for n in names if "radio" not in key(identifier) or "radio" in key(n))
+    if region == "uk" and "channel4" in keys:
+        keys.add("channel4uk")  # iptv-org explicitly labels the national feed @UK.
     radio_aliases = {
         "bbcradio5sportsxtra": "bbcradio5sportsextra",
         "bbcrasiannetwork": "bbcradioasiannetwork",
@@ -73,6 +75,8 @@ def native_key(provider, region, identifier):
         return "engineplex:" + identifier.rsplit("-", 1)[-1]
     if provider == "samsung":
         return "enginesamsung:" + identifier
+    if provider == "xumo":
+        return "enginexumo:" + identifier
     if provider == "roku":
         return "engineroku:" + identifier
     if provider == "pluto":

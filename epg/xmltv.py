@@ -42,6 +42,10 @@ def read(path, spec, now, from_time, to_time, consume):
                 if spec.get("provider") and not spec.get("native_ids"):
                     keys.append(native_key(spec["provider"], spec["country"], identifier))
                 keys = sorted(set(k for k in keys if k))
+                if "only_keys" in spec:
+                    # Curated supplements cannot publish ambiguous numeric/technical aliases or
+                    # attach listings to an unreviewed country/region simply by their guide name.
+                    keys = [k for k in keys if k in spec["only_keys"]]
                 mappings[identifier] = keys
                 for key in keys:
                     channels[key] = names[0] if names else identifier

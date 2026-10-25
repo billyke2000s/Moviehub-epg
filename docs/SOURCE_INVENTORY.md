@@ -57,3 +57,7 @@ The public `https://i.mjh.nz/Roku/all.xml.gz` mirror uses the same station ident
 Failed native processors remove their staging XML before the run. Accepted per-source caches remain separate, retain their original fetch time and expire according to original programme timestamps.
 
 BBC Radio 5 Sports Extra, Asian Network and World Service retain both existing feed names and the playlist's explicit BBC Radio identifiers. These aliases are restricted to the same named radio service; they do not relax the Gold Radio/Gold television separation. Explicit `@` qualifiers retain regional/service identity while quality notes such as `@HD` are discarded.
+
+## Additional sources for unmatched channels
+
+See [the 25 October assessment](ADDITIONAL_COVERAGE_2026-10-25.md) for the tested Xumo, Canadian, Dutch, Polish, Turkish and curated UK/US supplements, with rejected stale/redundant candidates. Xumo matches the existing MovieHub numeric provider ids. Supplemental identity allowlists prevent unrelated technical, numeric or regional aliases being emitted.
