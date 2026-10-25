@@ -27,3 +27,11 @@ All remain lower priority than established native/Freeview/Sky sources where ide
 `only_keys` limits selected supplements to reviewed canonical identities. The national `Channel4.uk@UK` playlist variant receives an explicit UK-only alias, without relaxing `@Scotland`, other regional qualifiers or time-shift separation. Regression tests cover source filtering and native Xumo ids. Existing malformed/stale-source recovery, original timestamp expiry, last-guide retention and compressed-size validation remain in force.
 
 The TV still loads one finished guide at the same URL. These are server-side changes; experimental exp-11 does not need another APK build.
+
+## Published result
+
+GitHub run [40200535317](https://github.com/billyke2000s/Moviehub-epg/actions/runs/40200535317) successfully generated and published the expanded guide on 25 October 2026 at 14:05 UTC. The assessment contains 14,493 public/default/provider identities: **3,010 matched**, **3,008 current**, **3,007 future**, and **11,483 unmatched**. UK: 220 assessed, 109 matched, 108 current and 109 future. The prior report measured 2,401 current overall and 103 current UK; the assessed inventory changed by five identities between snapshots. These are public catalogue measurements, not the user's private or installed TV inventory.
+
+Output: 14,448 canonical/alias identifiers, 1,239,778 programme entries, 52,303,753 compressed bytes, within the existing client download limit. All seven new sources contributed selected programme entries: Xumo 56,326; CA2 107,935; NL1 22,891; PL1 70,624; TR1 13,343; curated UK 365; curated US 2,557. Identifiers and entries include aliases and do not count distinct broadcast services.
+
+The writer now streams one ordered SQLite query through channel groups. A multi-country regression test checks that each group emits programmes, including non-ASCII programme titles. The GitHub workflow passed all 16 Python and two Node tests.
