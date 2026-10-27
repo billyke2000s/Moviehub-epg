@@ -18870,9 +18870,15 @@
     "list": "iptv-org"
   },
   {
-    "name": "Cartoon Classics",
+    "name": "Cartoon Classics (Poland)",
     "epg_id": "CartoonClassics.pl@FAST",
     "country": "pl",
+    "list": "iptv-org"
+  },
+  {
+    "name": "Cartoon Classics (Russia)",
+    "epg_id": "CartoonClassics.ru@SD",
+    "country": "ru",
     "list": "iptv-org"
   },
   {
@@ -19140,7 +19146,7 @@
     "list": "iptv-org"
   },
   {
-    "name": "CCTV-5+",
+    "name": "CCTV-5+ (1080p)",
     "epg_id": "CCTV5Plus.cn@SD",
     "country": "cn",
     "list": "iptv-org"
@@ -47616,12 +47622,6 @@
     "list": "iptv-org"
   },
   {
-    "name": "SCTV4K (2160p)",
-    "epg_id": "SCTV4K.vn@UHD",
-    "country": "vn",
-    "list": "iptv-org"
-  },
-  {
     "name": "SCTV6 (720p)",
     "epg_id": "SCTV6.vn@SD",
     "country": "vn",
@@ -65112,8 +65112,26 @@
     "list": "native-freelivesports"
   },
   {
+    "name": "Hard Knocks",
+    "epg_id": "enginefls:6675b8b426d7aa9a5450a849",
+    "country": "",
+    "list": "native-freelivesports"
+  },
+  {
     "name": "HorizonSports",
     "epg_id": "enginefls:67917a6de0eff6898a8584ff",
+    "country": "",
+    "list": "native-freelivesports"
+  },
+  {
+    "name": "Cricket Gold",
+    "epg_id": "enginefls:67d9e85646fbdd154c733552",
+    "country": "",
+    "list": "native-freelivesports"
+  },
+  {
+    "name": "GCTV",
+    "epg_id": "enginefls:6675ba37b9ab4742a8a8cc85",
     "country": "",
     "list": "native-freelivesports"
   },
@@ -65130,56 +65148,8 @@
     "list": "native-xumo"
   },
   {
-    "name": "FOX LOCAL Tampa Bay",
-    "epg_id": "enginexumo:99951416",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "CBS News Los Angeles",
-    "epg_id": "enginexumo:99991642",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "WFTV Orlando",
-    "epg_id": "enginexumo:9995107",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
     "name": "Stingray Remember the 80s",
     "epg_id": "enginexumo:99991742",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "FOX LOCAL Dallas-Fort Worth",
-    "epg_id": "enginexumo:99951418",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Stingray Soul Storm",
-    "epg_id": "enginexumo:99991121",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Stingray Greatest Hits",
-    "epg_id": "enginexumo:99991120",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "WSOC Charlotte",
-    "epg_id": "enginexumo:99991691",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "WPXI Pittsburgh",
-    "epg_id": "enginexumo:99991689",
     "country": "",
     "list": "native-xumo"
   },
@@ -65190,38 +65160,20 @@
     "list": "native-xumo"
   },
   {
-    "name": "CBS News New York",
-    "epg_id": "enginexumo:99991641",
+    "name": "WSOC Charlotte",
+    "epg_id": "enginexumo:99991691",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Stingray Classic Rock",
-    "epg_id": "enginexumo:99991119",
+    "name": "FOX LOCAL Tampa Bay",
+    "epg_id": "enginexumo:99951416",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "NBC 4 Washington News",
-    "epg_id": "enginexumo:99951181",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "KIRO Seattle",
-    "epg_id": "enginexumo:9995112",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Stingray Hit List",
-    "epg_id": "enginexumo:99991117",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "FOX LOCAL Phoenix",
-    "epg_id": "enginexumo:99951419",
+    "name": "Stingray Soul Storm",
+    "epg_id": "enginexumo:99991121",
     "country": "",
     "list": "native-xumo"
   },
@@ -65232,44 +65184,56 @@
     "list": "native-xumo"
   },
   {
-    "name": "FOX LOCAL Los Angeles",
-    "epg_id": "enginexumo:99951420",
+    "name": "CBS News Los Angeles",
+    "epg_id": "enginexumo:99991642",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "News 12 New York",
-    "epg_id": "enginexumo:99951222",
+    "name": "KIRO Seattle",
+    "epg_id": "enginexumo:9995112",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "NBC 4 Los Angeles News",
-    "epg_id": "enginexumo:99951164",
+    "name": "WFTV Orlando",
+    "epg_id": "enginexumo:9995107",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Action News Jax",
-    "epg_id": "enginexumo:9995110",
+    "name": "FOX LOCAL Dallas-Fort Worth",
+    "epg_id": "enginexumo:99951418",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "CBS News Boston",
-    "epg_id": "enginexumo:99991656",
+    "name": "Stingray Greatest Hits",
+    "epg_id": "enginexumo:99991120",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "NBC 4 New York News",
-    "epg_id": "enginexumo:99951163",
+    "name": "Stingray Classic Rock",
+    "epg_id": "enginexumo:99991119",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "FOX LOCAL Seattle",
-    "epg_id": "enginexumo:99951417",
+    "name": "CBS News New York",
+    "epg_id": "enginexumo:99991641",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "WPXI Pittsburgh",
+    "epg_id": "enginexumo:99991689",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "NBC 4 Washington News",
+    "epg_id": "enginexumo:99951181",
     "country": "",
     "list": "native-xumo"
   },
@@ -65286,26 +65250,20 @@
     "list": "native-xumo"
   },
   {
-    "name": "NBC 10 Boston News",
-    "epg_id": "enginexumo:99951168",
+    "name": "Action News Jax",
+    "epg_id": "enginexumo:9995110",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "FOX LOCAL Atlanta",
-    "epg_id": "enginexumo:99951426",
+    "name": "FOX LOCAL Los Angeles",
+    "epg_id": "enginexumo:99951420",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "FOX LOCAL Houston",
-    "epg_id": "enginexumo:99951423",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "WSB Atlanta",
-    "epg_id": "enginexumo:99991690",
+    "name": "Stingray Hit List",
+    "epg_id": "enginexumo:99991117",
     "country": "",
     "list": "native-xumo"
   },
@@ -65316,32 +65274,38 @@
     "list": "native-xumo"
   },
   {
-    "name": "NBC Connecticut News",
-    "epg_id": "enginexumo:99951183",
+    "name": "News 12 New York",
+    "epg_id": "enginexumo:99951222",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Boston 25",
-    "epg_id": "enginexumo:9995108",
+    "name": "FOX LOCAL Atlanta",
+    "epg_id": "enginexumo:99951426",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "FOX LOCAL Washington DC",
-    "epg_id": "enginexumo:99951428",
+    "name": "FOX LOCAL Phoenix",
+    "epg_id": "enginexumo:99951419",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "FOX LOCAL Minnesota",
-    "epg_id": "enginexumo:99951431",
+    "name": "NBC 4 Los Angeles News",
+    "epg_id": "enginexumo:99951164",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Telemundo Noticias Suroeste",
-    "epg_id": "enginexumo:99951556",
+    "name": "FOX LOCAL Seattle",
+    "epg_id": "enginexumo:99951417",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FOX LOCAL Houston",
+    "epg_id": "enginexumo:99951423",
     "country": "",
     "list": "native-xumo"
   },
@@ -65352,20 +65316,50 @@
     "list": "native-xumo"
   },
   {
-    "name": "Stingray Hot Country",
-    "epg_id": "enginexumo:99991118",
+    "name": "NBC 10 Boston News",
+    "epg_id": "enginexumo:99951168",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "NBC 7 San Diego News",
-    "epg_id": "enginexumo:99951185",
+    "name": "NBC 4 New York News",
+    "epg_id": "enginexumo:99951163",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Telemundo Noticias Noreste",
-    "epg_id": "enginexumo:99951228",
+    "name": "Boston 25",
+    "epg_id": "enginexumo:9995108",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "CBS News Boston",
+    "epg_id": "enginexumo:99991656",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "WSB Atlanta",
+    "epg_id": "enginexumo:99991690",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FOX LOCAL Minnesota",
+    "epg_id": "enginexumo:99951431",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FOX LOCAL Washington DC",
+    "epg_id": "enginexumo:99951428",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Telemundo Noticias Suroeste",
+    "epg_id": "enginexumo:99951556",
     "country": "",
     "list": "native-xumo"
   },
@@ -65376,32 +65370,14 @@
     "list": "native-xumo"
   },
   {
-    "name": "FOX LOCAL Orlando",
-    "epg_id": "enginexumo:99951425",
+    "name": "NBC Connecticut News",
+    "epg_id": "enginexumo:99951183",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Telemundo Noticias Florida",
-    "epg_id": "enginexumo:99951227",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "NBC 5 Dallas-Fort Worth News",
-    "epg_id": "enginexumo:99951182",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "FOX LOCAL New York",
-    "epg_id": "enginexumo:99951427",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "NBC 5 Chicago News",
-    "epg_id": "enginexumo:99951165",
+    "name": "NBC 7 San Diego News",
+    "epg_id": "enginexumo:99951185",
     "country": "",
     "list": "native-xumo"
   },
@@ -65418,14 +65394,44 @@
     "list": "native-xumo"
   },
   {
-    "name": "FOX LOCAL Detroit",
-    "epg_id": "enginexumo:99951421",
+    "name": "Telemundo Noticias Florida",
+    "epg_id": "enginexumo:99951227",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "WHIO Dayton",
-    "epg_id": "enginexumo:9995109",
+    "name": "Stingray Hot Country",
+    "epg_id": "enginexumo:99991118",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "NBC 5 Chicago News",
+    "epg_id": "enginexumo:99951165",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Telemundo Noticias Noreste",
+    "epg_id": "enginexumo:99951228",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FOX LOCAL New York",
+    "epg_id": "enginexumo:99951427",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FOX LOCAL Orlando",
+    "epg_id": "enginexumo:99951425",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "NBC 5 Dallas-Fort Worth News",
+    "epg_id": "enginexumo:99951182",
     "country": "",
     "list": "native-xumo"
   },
@@ -65436,8 +65442,14 @@
     "list": "native-xumo"
   },
   {
-    "name": "NBC Bay Area News",
-    "epg_id": "enginexumo:99951162",
+    "name": "WHIO Dayton",
+    "epg_id": "enginexumo:9995109",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FOX LOCAL Detroit",
+    "epg_id": "enginexumo:99951421",
     "country": "",
     "list": "native-xumo"
   },
@@ -65448,20 +65460,20 @@
     "list": "native-xumo"
   },
   {
-    "name": "FilmRise Horror",
+    "name": "NBC Bay Area News",
+    "epg_id": "enginexumo:99951162",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Haunt TV",
     "epg_id": "enginevizio:FEATURED3",
     "country": "",
     "list": "native-vizio"
   },
   {
-    "name": "UnXplained Zone",
+    "name": "The Walking Dead Universe",
     "epg_id": "enginevizio:FEATURED4",
-    "country": "",
-    "list": "native-vizio"
-  },
-  {
-    "name": "Bounce XL",
-    "epg_id": "enginevizio:FEATURED5",
     "country": "",
     "list": "native-vizio"
   },
@@ -68574,12 +68586,6 @@
     "list": "native-roku"
   },
   {
-    "name": "Kanal D Drama",
-    "epg_id": "engineroku:705f8487fc4f97d7c070faf44ed1c9db",
-    "country": "",
-    "list": "native-roku"
-  },
-  {
     "name": "Paramount+",
     "epg_id": "engineroku:aa70e3ac18dc0d88af683a4faae12edb",
     "country": "",
@@ -68676,12 +68682,6 @@
     "list": "native-roku"
   },
   {
-    "name": "Shout Factory TV",
-    "epg_id": "engineroku:636670a3065510c8c7163fe2625ad3cd",
-    "country": "",
-    "list": "native-roku"
-  },
-  {
     "name": "MHz Choice",
     "epg_id": "engineroku:9d689a436eca59c802e24d03240a5933",
     "country": "",
@@ -68694,14 +68694,14 @@
     "list": "native-roku"
   },
   {
-    "name": "Up Faith and Family",
-    "epg_id": "engineroku:d3b6af98bb7f92c585a1436e0ed83063",
+    "name": "Shout Factory TV",
+    "epg_id": "engineroku:636670a3065510c8c7163fe2625ad3cd",
     "country": "",
     "list": "native-roku"
   },
   {
-    "name": "Passionflix",
-    "epg_id": "engineroku:b4b35f2bdca72495d997b344b0ab13e7",
+    "name": "Up Faith and Family",
+    "epg_id": "engineroku:d3b6af98bb7f92c585a1436e0ed83063",
     "country": "",
     "list": "native-roku"
   },
@@ -68712,8 +68712,8 @@
     "list": "native-roku"
   },
   {
-    "name": "viaplay",
-    "epg_id": "engineroku:97ab4aed0c7b82dbc6e9390d2a2a9dce",
+    "name": "Passionflix",
+    "epg_id": "engineroku:b4b35f2bdca72495d997b344b0ab13e7",
     "country": "",
     "list": "native-roku"
   },
@@ -68724,8 +68724,20 @@
     "list": "native-roku"
   },
   {
+    "name": "viaplay",
+    "epg_id": "engineroku:97ab4aed0c7b82dbc6e9390d2a2a9dce",
+    "country": "",
+    "list": "native-roku"
+  },
+  {
     "name": "britbox",
     "epg_id": "engineroku:c1fc057a8fa543b614ee110cea71b774",
+    "country": "",
+    "list": "native-roku"
+  },
+  {
+    "name": "Fox Nation",
+    "epg_id": "engineroku:d089cc11c73f6888532baacdcc59df45",
     "country": "",
     "list": "native-roku"
   },
@@ -68744,6 +68756,12 @@
   {
     "name": "AllBlk",
     "epg_id": "engineroku:50d6a3c77e934f80d53fe58d4eb95cfb",
+    "country": "",
+    "list": "native-roku"
+  },
+  {
+    "name": "MGM+",
+    "epg_id": "engineroku:9221a7fd654140a79191623c3654d0cc",
     "country": "",
     "list": "native-roku"
   },
@@ -68778,20 +68796,14 @@
     "list": "native-roku"
   },
   {
-    "name": "MGM+",
-    "epg_id": "engineroku:9221a7fd654140a79191623c3654d0cc",
+    "name": "MyOutdoorTV",
+    "epg_id": "engineroku:474460b1a44c6694899068c1d28ba29f",
     "country": "",
     "list": "native-roku"
   },
   {
-    "name": "hidive",
-    "epg_id": "engineroku:c8ec017dbbfee1eef1874e7aa11b2ccc",
-    "country": "",
-    "list": "native-roku"
-  },
-  {
-    "name": "Fox Nation",
-    "epg_id": "engineroku:d089cc11c73f6888532baacdcc59df45",
+    "name": "AMC+",
+    "epg_id": "engineroku:e0cefc6b663bc194b3542cfcac935494",
     "country": "",
     "list": "native-roku"
   },
@@ -68802,8 +68814,8 @@
     "list": "native-roku"
   },
   {
-    "name": "AMC+",
-    "epg_id": "engineroku:e0cefc6b663bc194b3542cfcac935494",
+    "name": "hidive",
+    "epg_id": "engineroku:c8ec017dbbfee1eef1874e7aa11b2ccc",
     "country": "",
     "list": "native-roku"
   },
