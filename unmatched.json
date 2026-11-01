@@ -10662,6 +10662,12 @@
     "list": "iptv-org"
   },
   {
+    "name": "5Dias TV",
+    "epg_id": "5DiasTV.py@SD",
+    "country": "py",
+    "list": "iptv-org"
+  },
+  {
     "name": "5 minut tishiny (1080p)",
     "epg_id": "5minuttishiny.ru@SD",
     "country": "ru",
@@ -11472,7 +11478,7 @@
     "list": "iptv-org"
   },
   {
-    "name": "ABC-TV Paraguay (1080p)",
+    "name": "ABC-TV Paraguay",
     "epg_id": "ABCTVParaguay.py@SD",
     "country": "py",
     "list": "iptv-org"
@@ -13074,7 +13080,7 @@
     "list": "iptv-org"
   },
   {
-    "name": "America Paraguay (720p)",
+    "name": "America Paraguay",
     "epg_id": "AmericaParaguay.py@SD",
     "country": "py",
     "list": "iptv-org"
@@ -13454,6 +13460,12 @@
   {
     "name": "Antena 3 Constanta (576p)",
     "epg_id": "Antena3Constanta.ro@SD",
+    "country": "ro",
+    "list": "iptv-org"
+  },
+  {
+    "name": "Antena 3 Suceava (576i)",
+    "epg_id": "Antena3Suceava.ro@SD",
     "country": "ro",
     "list": "iptv-org"
   },
@@ -22680,6 +22692,12 @@
     "list": "iptv-org"
   },
   {
+    "name": "Disco Mix (576i) [Geo-blocked]",
+    "epg_id": "DiscoMix.ro@SD",
+    "country": "ro",
+    "list": "iptv-org"
+  },
+  {
     "name": "Discover Pakistan (1080p)",
     "epg_id": "DiscoverPakistan.pk@SD",
     "country": "pk",
@@ -22728,6 +22746,12 @@
     "list": "iptv-org"
   },
   {
+    "name": "Discovery Channel (United Kingdom)",
+    "epg_id": "DiscoveryChannel.uk@UK",
+    "country": "uk",
+    "list": "iptv-org"
+  },
+  {
     "name": "Discovery Channel (United States) (1080p) [Geo-blocked]",
     "epg_id": "DiscoveryChannel.us@East",
     "country": "us",
@@ -22740,6 +22764,18 @@
     "list": "iptv-org"
   },
   {
+    "name": "Discovery History",
+    "epg_id": "DiscoveryHistory.uk@SD",
+    "country": "uk",
+    "list": "iptv-org"
+  },
+  {
+    "name": "Discovery Home & Health Latin America South",
+    "epg_id": "DiscoveryHomeHealthLatinAmerica.mx@South",
+    "country": "mx",
+    "list": "iptv-org"
+  },
+  {
     "name": "Discovery Kids (720p)",
     "epg_id": "DiscoveryKids.in@SD",
     "country": "in",
@@ -22749,6 +22785,12 @@
     "name": "Discovery Kids Latin America (1080p)",
     "epg_id": "DiscoveryKidsLatinAmerica.us@Panregional",
     "country": "us",
+    "list": "iptv-org"
+  },
+  {
+    "name": "Discovery Science Europe UK",
+    "epg_id": "DiscoveryScienceEurope.uk@UK",
+    "country": "uk",
     "list": "iptv-org"
   },
   {
@@ -22773,6 +22815,12 @@
     "name": "Discovery Turbo (Italy) (1080p)",
     "epg_id": "DiscoveryTurbo.it@SD",
     "country": "it",
+    "list": "iptv-org"
+  },
+  {
+    "name": "Discovery Turbo (United Kingdom)",
+    "epg_id": "DiscoveryTurbo.uk@SD",
+    "country": "uk",
     "list": "iptv-org"
   },
   {
@@ -23640,12 +23688,6 @@
     "list": "iptv-org"
   },
   {
-    "name": "E International Asia (576p)",
-    "epg_id": "EInternational.id@Asia",
-    "country": "id",
-    "list": "iptv-org"
-  },
-  {
     "name": "E! East (1080p)",
     "epg_id": "E.us@East",
     "country": "us",
@@ -24117,6 +24159,12 @@
     "name": "El Sonorense (1080p) [Not 24/7]",
     "epg_id": "ElSonorense.mx@SD",
     "country": "mx",
+    "list": "iptv-org"
+  },
+  {
+    "name": "El Trece Internacional Latin America",
+    "epg_id": "ElTreceInternacionalLatinAmerica.ar@SD",
+    "country": "ar",
     "list": "iptv-org"
   },
   {
@@ -27276,18 +27324,6 @@
     "list": "iptv-org"
   },
   {
-    "name": "Groovia Kanal (576p)",
-    "epg_id": "GrooviaKanal.id@HD",
-    "country": "id",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Groovia Kids (576p)",
-    "epg_id": "GrooviaKids.id@HD",
-    "country": "id",
-    "list": "iptv-org"
-  },
-  {
     "name": "Groovy TV (360p)",
     "epg_id": "GroovyTV.gr@SD",
     "country": "gr",
@@ -27822,8 +27858,14 @@
     "list": "iptv-org"
   },
   {
-    "name": "HBO Asia SD (720p) [Geo-blocked]",
-    "epg_id": "HBOAsia.sg@SD",
+    "name": "HBO Asia HD (1080p)",
+    "epg_id": "HBOAsia.sg@HD",
+    "country": "sg",
+    "list": "iptv-org"
+  },
+  {
+    "name": "HBO Family Asia HD (1080p)",
+    "epg_id": "HBOFamilyAsia.sg@HD",
     "country": "sg",
     "list": "iptv-org"
   },
@@ -27840,6 +27882,12 @@
     "list": "iptv-org"
   },
   {
+    "name": "HBO Hits Asia HD (1080p)",
+    "epg_id": "HBOHitsAsia.sg@HD",
+    "country": "sg",
+    "list": "iptv-org"
+  },
+  {
     "name": "HBO Latin America (1080p)",
     "epg_id": "HBOLatinAmerica.us@SD",
     "country": "us",
@@ -27849,6 +27897,12 @@
     "name": "HBO Mundi Latin America",
     "epg_id": "HBOMundiLatinAmerica.us@SD",
     "country": "us",
+    "list": "iptv-org"
+  },
+  {
+    "name": "HBO Signature Asia HD (1080p)",
+    "epg_id": "HBOSignatureAsia.sg@HD",
+    "country": "sg",
     "list": "iptv-org"
   },
   {
@@ -28917,12 +28971,6 @@
     "name": "Hung Yen TV (480p)",
     "epg_id": "HungYenTV.vn@SD",
     "country": "vn",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Hungama TV (576p)",
-    "epg_id": "HungamaTV.in@SD",
-    "country": "in",
     "list": "iptv-org"
   },
   {
@@ -30015,12 +30063,6 @@
     "name": "Jalisco TV (720p)",
     "epg_id": "JaliscoTV.mx@SD",
     "country": "mx",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Jalsha Movies HD (1080p)",
-    "epg_id": "JalshaMovies.in@HD",
-    "country": "in",
     "list": "iptv-org"
   },
   {
@@ -34902,6 +34944,12 @@
     "list": "iptv-org"
   },
   {
+    "name": "Mi Musica Hits (720p)",
+    "epg_id": "MiMusicaHits.us@SD",
+    "country": "us",
+    "list": "iptv-org"
+  },
+  {
     "name": "Mi Musica Reggaeton (1080p)",
     "epg_id": "MiMusicaReggaeton.us@SD",
     "country": "us",
@@ -37644,6 +37692,12 @@
     "list": "iptv-org"
   },
   {
+    "name": "Nick/Comedy Central +1",
+    "epg_id": "NickComedyCentralPlus1.de@SD",
+    "country": "de",
+    "list": "iptv-org"
+  },
+  {
     "name": "Nickelodeon (Brazil) (480p)",
     "epg_id": "Nickelodeon.br@SD",
     "country": "br",
@@ -39126,6 +39180,12 @@
     "list": "iptv-org"
   },
   {
+    "name": "ON BiBi (1080p)",
+    "epg_id": "ONBiBi.vn@SD",
+    "country": "vn",
+    "list": "iptv-org"
+  },
+  {
     "name": "ON Cine",
     "epg_id": "ONCine.vn@SD",
     "country": "vn",
@@ -39464,6 +39524,12 @@
   {
     "name": "ORF Kids (720p)",
     "epg_id": "ORFKids.at@SD",
+    "country": "at",
+    "list": "iptv-org"
+  },
+  {
+    "name": "ORF Sport+",
+    "epg_id": "ORFSportPlus.at@SD",
     "country": "at",
     "list": "iptv-org"
   },
@@ -44664,6 +44730,12 @@
     "list": "iptv-org"
   },
   {
+    "name": "Rapsodia TV",
+    "epg_id": "RapsodiaTV.ro@SD",
+    "country": "ro",
+    "list": "iptv-org"
+  },
+  {
     "name": "Rararadio (720p)",
     "epg_id": "Rararadio.nl@SD",
     "country": "nl",
@@ -48486,6 +48558,54 @@
     "list": "iptv-org"
   },
   {
+    "name": "Sky Sport 1",
+    "epg_id": "SkySport1.nz@SD",
+    "country": "nz",
+    "list": "iptv-org"
+  },
+  {
+    "name": "Sky Sport 2",
+    "epg_id": "SkySport2.nz@SD",
+    "country": "nz",
+    "list": "iptv-org"
+  },
+  {
+    "name": "Sky Sport 3",
+    "epg_id": "SkySport3.nz@SD",
+    "country": "nz",
+    "list": "iptv-org"
+  },
+  {
+    "name": "Sky Sport 4",
+    "epg_id": "SkySport4.nz@SD",
+    "country": "nz",
+    "list": "iptv-org"
+  },
+  {
+    "name": "Sky Sport 7",
+    "epg_id": "SkySport7.nz@SD",
+    "country": "nz",
+    "list": "iptv-org"
+  },
+  {
+    "name": "Sky Sport 8",
+    "epg_id": "SkySport8.nz@SD",
+    "country": "nz",
+    "list": "iptv-org"
+  },
+  {
+    "name": "Sky Sport 9",
+    "epg_id": "SkySport9.nz@SD",
+    "country": "nz",
+    "list": "iptv-org"
+  },
+  {
+    "name": "Sky Sport Select",
+    "epg_id": "SkySportSelect.nz@SD",
+    "country": "nz",
+    "list": "iptv-org"
+  },
+  {
     "name": "Sky Sports 1 (1080p)",
     "epg_id": "SkySports1.mx@SD",
     "country": "mx",
@@ -48956,12 +49076,6 @@
   {
     "name": "Sony Wah (1080p) [Geo-blocked]",
     "epg_id": "SonyWah.in@SD",
-    "country": "in",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Sony Yay! (576p)",
-    "epg_id": "SonyYay.in@SD",
     "country": "in",
     "list": "iptv-org"
   },
@@ -50331,12 +50445,6 @@
     "name": "Super Digital TV (1080p) [Not 24/7]",
     "epg_id": "SuperDigitalTV.do@SD",
     "country": "do",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Super Hungama (576p)",
-    "epg_id": "SuperHungama.in@SD",
-    "country": "in",
     "list": "iptv-org"
   },
   {
@@ -53376,6 +53484,24 @@
     "list": "iptv-org"
   },
   {
+    "name": "TNT Sports (Argentina)",
+    "epg_id": "TNTSports.ar@HD",
+    "country": "ar",
+    "list": "iptv-org"
+  },
+  {
+    "name": "TNT Sports (Chile) (480p)",
+    "epg_id": "TNTSports.cl@SD",
+    "country": "cl",
+    "list": "iptv-org"
+  },
+  {
+    "name": "TNT Sports Premium ArgentinaHD (1080p)",
+    "epg_id": "TNTSportsPremium.cl@ArgentinaHD",
+    "country": "cl",
+    "list": "iptv-org"
+  },
+  {
     "name": "TNTV (1080p)",
     "epg_id": "TNTV.pf@SD",
     "country": "pf",
@@ -54009,6 +54135,12 @@
     "name": "Tropical Moon Urban TV [Not 24/7]",
     "epg_id": "TropicalMoonUrbanTV.pa@SD",
     "country": "pa",
+    "list": "iptv-org"
+  },
+  {
+    "name": "Tropicalia 93.9 FM",
+    "epg_id": "Tropicalia939FM.py@SD",
+    "country": "py",
     "list": "iptv-org"
   },
   {
@@ -57972,6 +58104,12 @@
     "list": "iptv-org"
   },
   {
+    "name": "Value 24 TV",
+    "epg_id": "Value24TV.it@SD",
+    "country": "it",
+    "list": "iptv-org"
+  },
+  {
     "name": "VAM TV (720p)",
     "epg_id": "VAMTV.cw@SD",
     "country": "cw",
@@ -61572,50 +61710,8 @@
     "list": "native-whale"
   },
   {
-    "name": "Stingray Remember the 80s",
-    "epg_id": "enginexumo:99991742",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "WFTV Orlando",
-    "epg_id": "enginexumo:9995107",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Stingray Soul Storm",
-    "epg_id": "enginexumo:99991121",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "SPEEDVISION",
-    "epg_id": "enginexumo:99951268",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "FOX LOCAL Dallas-Fort Worth",
-    "epg_id": "enginexumo:99951418",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Stingray Greatest Hits",
-    "epg_id": "enginexumo:99991120",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "WSOC Charlotte",
-    "epg_id": "enginexumo:99991691",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "NBC 6 South Florida News",
-    "epg_id": "enginexumo:99951167",
+    "name": "FOX LOCAL Orlando",
+    "epg_id": "enginexumo:99951425",
     "country": "",
     "list": "native-xumo"
   },
@@ -61626,14 +61722,20 @@
     "list": "native-xumo"
   },
   {
-    "name": "FOX LOCAL Tampa Bay",
-    "epg_id": "enginexumo:99951416",
+    "name": "WSOC Charlotte",
+    "epg_id": "enginexumo:99991691",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Stingray Classic Rock",
-    "epg_id": "enginexumo:99991119",
+    "name": "SPEEDVISION",
+    "epg_id": "enginexumo:99951268",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Stingray Remember the 80s",
+    "epg_id": "enginexumo:99991742",
     "country": "",
     "list": "native-xumo"
   },
@@ -61644,14 +61746,20 @@
     "list": "native-xumo"
   },
   {
-    "name": "FOX LOCAL Phoenix",
-    "epg_id": "enginexumo:99951419",
+    "name": "WFTV Orlando",
+    "epg_id": "enginexumo:9995107",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "WPXI Pittsburgh",
-    "epg_id": "enginexumo:99991689",
+    "name": "FOX LOCAL Tampa Bay",
+    "epg_id": "enginexumo:99951416",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Stingray Greatest Holiday Hits",
+    "epg_id": "enginexumo:99991120",
     "country": "",
     "list": "native-xumo"
   },
@@ -61662,62 +61770,14 @@
     "list": "native-xumo"
   },
   {
-    "name": "Action News Jax",
-    "epg_id": "enginexumo:9995110",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
     "name": "KIRO Seattle",
     "epg_id": "enginexumo:9995112",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "CBS News Boston",
-    "epg_id": "enginexumo:99991656",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "FOX LOCAL Atlanta",
-    "epg_id": "enginexumo:99951426",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "NBC 10 Boston News",
-    "epg_id": "enginexumo:99951168",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "NBC 4 New York News",
-    "epg_id": "enginexumo:99951163",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "FOX LOCAL Houston",
-    "epg_id": "enginexumo:99951423",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "FOX LOCAL Los Angeles",
-    "epg_id": "enginexumo:99951420",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "WSB Atlanta",
-    "epg_id": "enginexumo:99991690",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Telemundo Noticias Suroeste",
-    "epg_id": "enginexumo:99951556",
+    "name": "Stingray Soul Storm",
+    "epg_id": "enginexumo:99991121",
     "country": "",
     "list": "native-xumo"
   },
@@ -61728,44 +61788,38 @@
     "list": "native-xumo"
   },
   {
-    "name": "CBS News New York",
-    "epg_id": "enginexumo:99991641",
+    "name": "Stingray Classic Rock",
+    "epg_id": "enginexumo:99991119",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "FOX LOCAL Milwaukee",
-    "epg_id": "enginexumo:99951429",
+    "name": "FOX LOCAL Dallas-Fort Worth",
+    "epg_id": "enginexumo:99951418",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "FOX LOCAL Minnesota",
-    "epg_id": "enginexumo:99951431",
+    "name": "WPXI Pittsburgh",
+    "epg_id": "enginexumo:99991689",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Telemundo Noticias Florida",
-    "epg_id": "enginexumo:99951227",
+    "name": "Action News Jax",
+    "epg_id": "enginexumo:9995110",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "CBS News Chicago",
-    "epg_id": "enginexumo:99991643",
+    "name": "FOX LOCAL Los Angeles",
+    "epg_id": "enginexumo:99951420",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Boston 25",
-    "epg_id": "enginexumo:9995108",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "NBC 4 Los Angeles News",
-    "epg_id": "enginexumo:99951164",
+    "name": "NBC 6 South Florida News",
+    "epg_id": "enginexumo:99951167",
     "country": "",
     "list": "native-xumo"
   },
@@ -61776,26 +61830,20 @@
     "list": "native-xumo"
   },
   {
-    "name": "NBC Connecticut News",
-    "epg_id": "enginexumo:99951183",
+    "name": "FOX LOCAL Atlanta",
+    "epg_id": "enginexumo:99951426",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "FOX LOCAL Washington DC",
-    "epg_id": "enginexumo:99951428",
+    "name": "FOX LOCAL Houston",
+    "epg_id": "enginexumo:99951423",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "FOX LOCAL Orlando",
-    "epg_id": "enginexumo:99951425",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "FOX LOCAL Seattle",
-    "epg_id": "enginexumo:99951417",
+    "name": "CBS News Chicago",
+    "epg_id": "enginexumo:99991643",
     "country": "",
     "list": "native-xumo"
   },
@@ -61806,26 +61854,116 @@
     "list": "native-xumo"
   },
   {
+    "name": "FOX LOCAL Seattle",
+    "epg_id": "enginexumo:99951417",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FOX LOCAL Phoenix",
+    "epg_id": "enginexumo:99951419",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "CBS News New York",
+    "epg_id": "enginexumo:99991641",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "NBC 10 Boston News",
+    "epg_id": "enginexumo:99951168",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FOX LOCAL Washington DC",
+    "epg_id": "enginexumo:99951428",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "NBC 4 Los Angeles News",
+    "epg_id": "enginexumo:99951164",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FOX LOCAL Minnesota",
+    "epg_id": "enginexumo:99951431",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Telemundo Noticias Noreste",
+    "epg_id": "enginexumo:99951228",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Telemundo Noticias Suroeste",
+    "epg_id": "enginexumo:99951556",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "CBS News Boston",
+    "epg_id": "enginexumo:99991656",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "NBC 7 San Diego News",
+    "epg_id": "enginexumo:99951185",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Telemundo Noticias Florida",
+    "epg_id": "enginexumo:99951227",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "WSB Atlanta",
+    "epg_id": "enginexumo:99991690",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FOX LOCAL Milwaukee",
+    "epg_id": "enginexumo:99951429",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
     "name": "FOX LOCAL Austin",
     "epg_id": "enginexumo:99951430",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Telemundo Noticias Texas",
-    "epg_id": "enginexumo:99951226",
+    "name": "NBC 4 New York News",
+    "epg_id": "enginexumo:99951163",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "FOX LOCAL Detroit",
-    "epg_id": "enginexumo:99951421",
+    "name": "NBC Connecticut News",
+    "epg_id": "enginexumo:99951183",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "Stingray Hot Country",
-    "epg_id": "enginexumo:99991118",
+    "name": "NBC 5 Chicago News",
+    "epg_id": "enginexumo:99951165",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Boston 25",
+    "epg_id": "enginexumo:9995108",
     "country": "",
     "list": "native-xumo"
   },
@@ -61836,8 +61974,38 @@
     "list": "native-xumo"
   },
   {
-    "name": "NBC 7 San Diego News",
-    "epg_id": "enginexumo:99951185",
+    "name": "FOX LOCAL Detroit",
+    "epg_id": "enginexumo:99951421",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "NBC 5 Dallas-Fort Worth News",
+    "epg_id": "enginexumo:99951182",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Telemundo Noticias Texas",
+    "epg_id": "enginexumo:99951226",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "NBC Bay Area News",
+    "epg_id": "enginexumo:99951162",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FOX LOCAL San Francisco",
+    "epg_id": "enginexumo:99951422",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Stingray Hot Country",
+    "epg_id": "enginexumo:99991118",
     "country": "",
     "list": "native-xumo"
   },
@@ -61854,38 +62022,8 @@
     "list": "native-xumo"
   },
   {
-    "name": "FOX LOCAL San Francisco",
-    "epg_id": "enginexumo:99951422",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Telemundo Noticias Noreste",
-    "epg_id": "enginexumo:99951228",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "NBC 5 Chicago News",
-    "epg_id": "enginexumo:99951165",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
     "name": "WHIO Dayton",
     "epg_id": "enginexumo:9995109",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "NBC 5 Dallas-Fort Worth News",
-    "epg_id": "enginexumo:99951182",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "NBC Bay Area News",
-    "epg_id": "enginexumo:99951162",
     "country": "",
     "list": "native-xumo"
   },
@@ -61986,6 +62124,12 @@
     "list": "native-stirr"
   },
   {
+    "name": "Dark Matters TV",
+    "epg_id": "enginestirr:6408",
+    "country": "",
+    "list": "native-stirr"
+  },
+  {
     "name": "Unleashed by DOGTV",
     "epg_id": "enginestirr:7017",
     "country": "",
@@ -62000,6 +62144,24 @@
   {
     "name": "Wild Nature",
     "epg_id": "enginestirr:7061",
+    "country": "",
+    "list": "native-stirr"
+  },
+  {
+    "name": "INWILD",
+    "epg_id": "enginestirr:7043",
+    "country": "",
+    "list": "native-stirr"
+  },
+  {
+    "name": "INTROUBLE",
+    "epg_id": "enginestirr:7041",
+    "country": "",
+    "list": "native-stirr"
+  },
+  {
+    "name": "INWONDER",
+    "epg_id": "enginestirr:7045",
     "country": "",
     "list": "native-stirr"
   },
@@ -62184,6 +62346,12 @@
     "list": "native-stirr"
   },
   {
+    "name": "SPEED SPORT 1",
+    "epg_id": "enginestirr:6424",
+    "country": "",
+    "list": "native-stirr"
+  },
+  {
     "name": "DRIVE+SPEED",
     "epg_id": "enginestirr:7277",
     "country": "",
@@ -62216,6 +62384,12 @@
   {
     "name": "Shooting Sports Life",
     "epg_id": "enginestirr:9101",
+    "country": "",
+    "list": "native-stirr"
+  },
+  {
+    "name": "Channel Fight",
+    "epg_id": "enginestirr:1072",
     "country": "",
     "list": "native-stirr"
   },
@@ -62502,6 +62676,12 @@
     "list": "native-stirr"
   },
   {
+    "name": "INTRAVEL",
+    "epg_id": "enginestirr:7047",
+    "country": "",
+    "list": "native-stirr"
+  },
+  {
     "name": "RVTV",
     "epg_id": "enginestirr:5408",
     "country": "",
@@ -62580,6 +62760,18 @@
     "list": "native-stirr"
   },
   {
+    "name": "CBS KOTV Tulsa, OK",
+    "epg_id": "enginestirr:6465",
+    "country": "",
+    "list": "native-stirr"
+  },
+  {
+    "name": "CBS 9 KWTV Oklahoma City, OK",
+    "epg_id": "enginestirr:6467",
+    "country": "",
+    "list": "native-stirr"
+  },
+  {
     "name": "ABC 5 KSTP Minneapolis-St. Paul, MN",
     "epg_id": "enginestirr:9033",
     "country": "",
@@ -62604,8 +62796,74 @@
     "list": "native-stirr"
   },
   {
+    "name": "ABC WDIO Duluth, MN",
+    "epg_id": "enginestirr:6479",
+    "country": "",
+    "list": "native-stirr"
+  },
+  {
     "name": "ABC 6 KAAL Minnesota & Iowa",
     "epg_id": "enginestirr:6481",
+    "country": "",
+    "list": "native-stirr"
+  },
+  {
+    "name": "ABC 7 WJLA Washington DC",
+    "epg_id": "enginestirr:6483",
+    "country": "",
+    "list": "native-stirr"
+  },
+  {
+    "name": "ABC KOMO Seattle, WA",
+    "epg_id": "enginestirr:6485",
+    "country": "",
+    "list": "native-stirr"
+  },
+  {
+    "name": "ABC KATU Portland, OR",
+    "epg_id": "enginestirr:6487",
+    "country": "",
+    "list": "native-stirr"
+  },
+  {
+    "name": "FOX45 WBFF Baltimore",
+    "epg_id": "enginestirr:6489",
+    "country": "",
+    "list": "native-stirr"
+  },
+  {
+    "name": "CBS 2 KUTV Salt Lake City, UT",
+    "epg_id": "enginestirr:6491",
+    "country": "",
+    "list": "native-stirr"
+  },
+  {
+    "name": "NBC WOAI San Antonio, TX",
+    "epg_id": "enginestirr:6493",
+    "country": "",
+    "list": "native-stirr"
+  },
+  {
+    "name": "ABC 6 WSYX Columbus, OH",
+    "epg_id": "enginestirr:6495",
+    "country": "",
+    "list": "native-stirr"
+  },
+  {
+    "name": "CBS KEYE Austin, TX",
+    "epg_id": "enginestirr:6497",
+    "country": "",
+    "list": "native-stirr"
+  },
+  {
+    "name": "CBS WKRC Cincinnati, OH",
+    "epg_id": "enginestirr:6499",
+    "country": "",
+    "list": "native-stirr"
+  },
+  {
+    "name": "ABC 13 WLOS Asheville, NC",
+    "epg_id": "enginestirr:6501",
     "country": "",
     "list": "native-stirr"
   },
@@ -62616,14 +62874,86 @@
     "list": "native-stirr"
   },
   {
+    "name": "NBC KSNV Las Vegas, NV",
+    "epg_id": "enginestirr:6505",
+    "country": "",
+    "list": "native-stirr"
+  },
+  {
+    "name": "CBS WWMT Grand Rapids, MI",
+    "epg_id": "enginestirr:6507",
+    "country": "",
+    "list": "native-stirr"
+  },
+  {
+    "name": "CBS 21 WHP Harrisburg, PA",
+    "epg_id": "enginestirr:6509",
+    "country": "",
+    "list": "native-stirr"
+  },
+  {
     "name": "Fox 25 KOKH Oklahoma City, OK",
     "epg_id": "enginestirr:6511",
     "country": "",
     "list": "native-stirr"
   },
   {
+    "name": "NBC 10 WJAR Providence, RI",
+    "epg_id": "enginestirr:6513",
+    "country": "",
+    "list": "native-stirr"
+  },
+  {
+    "name": "Fox 26 KMPH Fresno, CA",
+    "epg_id": "enginestirr:6515",
+    "country": "",
+    "list": "native-stirr"
+  },
+  {
+    "name": "ABC 22 WKEF Dayton, OH",
+    "epg_id": "enginestirr:6517",
+    "country": "",
+    "list": "native-stirr"
+  },
+  {
     "name": "Fox 11 WLUK Green Bay, WI",
     "epg_id": "enginestirr:6519",
+    "country": "",
+    "list": "native-stirr"
+  },
+  {
+    "name": "ABC WCIV Charleston, SC",
+    "epg_id": "enginestirr:6521",
+    "country": "",
+    "list": "native-stirr"
+  },
+  {
+    "name": "CBS 4 KDBC El Paso, TX",
+    "epg_id": "enginestirr:6523",
+    "country": "",
+    "list": "native-stirr"
+  },
+  {
+    "name": "CBS 22 WSBT South Bend, IN",
+    "epg_id": "enginestirr:6525",
+    "country": "",
+    "list": "native-stirr"
+  },
+  {
+    "name": "ABC 15 WPDE Myrtle Beach, FL",
+    "epg_id": "enginestirr:6527",
+    "country": "",
+    "list": "native-stirr"
+  },
+  {
+    "name": "NBC WJAC Johnstown, PA",
+    "epg_id": "enginestirr:6529",
+    "country": "",
+    "list": "native-stirr"
+  },
+  {
+    "name": "FOX 9 WTOV Steubenville, OH",
+    "epg_id": "enginestirr:6531",
     "country": "",
     "list": "native-stirr"
   },
@@ -63512,6 +63842,12 @@
   {
     "name": "Ancient Aliens",
     "epg_id": "enginevizio:98wurl_ae_networks_ancientaliens_1",
+    "country": "",
+    "list": "native-vizio"
+  },
+  {
+    "name": "The Hunger Games 5 - Film Collection",
+    "epg_id": "enginevizio:93amg00353c53",
     "country": "",
     "list": "native-vizio"
   },
@@ -65784,6 +66120,12 @@
     "list": "native-roku"
   },
   {
+    "name": "Peacock",
+    "epg_id": "engineroku:2facec0efbda0a2e6f3efe5e5228e559",
+    "country": "",
+    "list": "native-roku"
+  },
+  {
     "name": "HBO Max",
     "epg_id": "engineroku:13e8ab319b2195ba211315288bbd530a",
     "country": "",
@@ -65792,12 +66134,6 @@
   {
     "name": "Max",
     "epg_id": "engineroku:2793651e4aaa1d58a0dd5b8f198537bb",
-    "country": "",
-    "list": "native-roku"
-  },
-  {
-    "name": "Peacock",
-    "epg_id": "engineroku:2facec0efbda0a2e6f3efe5e5228e559",
     "country": "",
     "list": "native-roku"
   },
@@ -65856,14 +66192,14 @@
     "list": "native-roku"
   },
   {
-    "name": "viaplay",
-    "epg_id": "engineroku:97ab4aed0c7b82dbc6e9390d2a2a9dce",
+    "name": "Up Faith and Family",
+    "epg_id": "engineroku:d3b6af98bb7f92c585a1436e0ed83063",
     "country": "",
     "list": "native-roku"
   },
   {
-    "name": "Up Faith and Family",
-    "epg_id": "engineroku:d3b6af98bb7f92c585a1436e0ed83063",
+    "name": "viaplay",
+    "epg_id": "engineroku:97ab4aed0c7b82dbc6e9390d2a2a9dce",
     "country": "",
     "list": "native-roku"
   },
@@ -65874,14 +66210,20 @@
     "list": "native-roku"
   },
   {
-    "name": "Fox Nation",
-    "epg_id": "engineroku:d089cc11c73f6888532baacdcc59df45",
+    "name": "MyOutdoorTV",
+    "epg_id": "engineroku:474460b1a44c6694899068c1d28ba29f",
     "country": "",
     "list": "native-roku"
   },
   {
     "name": "Fox One",
     "epg_id": "engineroku:4eac7da3edb477842403344d02920660",
+    "country": "",
+    "list": "native-roku"
+  },
+  {
+    "name": "Fox Nation",
+    "epg_id": "engineroku:d089cc11c73f6888532baacdcc59df45",
     "country": "",
     "list": "native-roku"
   },
@@ -65928,26 +66270,26 @@
     "list": "native-roku"
   },
   {
-    "name": "Aspiretv",
-    "epg_id": "engineroku:47727baff953de2f3300a96ac54a24b5",
-    "country": "",
-    "list": "native-roku"
-  },
-  {
     "name": "starz",
     "epg_id": "engineroku:10ee66dc879640687b2f4a10c3908601",
     "country": "",
     "list": "native-roku"
   },
   {
-    "name": "MyOutdoorTV",
-    "epg_id": "engineroku:474460b1a44c6694899068c1d28ba29f",
+    "name": "Aspiretv",
+    "epg_id": "engineroku:47727baff953de2f3300a96ac54a24b5",
     "country": "",
     "list": "native-roku"
   },
   {
     "name": "hidive",
     "epg_id": "engineroku:c8ec017dbbfee1eef1874e7aa11b2ccc",
+    "country": "",
+    "list": "native-roku"
+  },
+  {
+    "name": "Demand Africa",
+    "epg_id": "engineroku:88b9ea20138d8ed99f33ff5b55d3cd6f",
     "country": "",
     "list": "native-roku"
   },
@@ -65964,8 +66306,8 @@
     "list": "native-roku"
   },
   {
-    "name": "Demand Africa",
-    "epg_id": "engineroku:88b9ea20138d8ed99f33ff5b55d3cd6f",
+    "name": "AppleTV",
+    "epg_id": "engineroku:4f2f920b95c51ee423748d3c8dcbbce7",
     "country": "",
     "list": "native-roku"
   },
@@ -65976,26 +66318,20 @@
     "list": "native-roku"
   },
   {
-    "name": "AppleTV",
-    "epg_id": "engineroku:4f2f920b95c51ee423748d3c8dcbbce7",
-    "country": "",
-    "list": "native-roku"
-  },
-  {
     "name": "outtv",
     "epg_id": "engineroku:46a2a9042db6d37ac6fe105f9bb5c470",
     "country": "",
     "list": "native-roku"
   },
   {
-    "name": "cinemax",
-    "epg_id": "engineroku:b2f598570c0f5026ef199d043cb7e876",
+    "name": "Curiosity Stream",
+    "epg_id": "engineroku:9379f9714f933a70c9d509e34d38337b",
     "country": "",
     "list": "native-roku"
   },
   {
-    "name": "Curiosity Stream",
-    "epg_id": "engineroku:9379f9714f933a70c9d509e34d38337b",
+    "name": "Gaiam TV",
+    "epg_id": "engineroku:a6837c9716fb8192023aa2ae29b3306d",
     "country": "",
     "list": "native-roku"
   },
@@ -66012,8 +66348,8 @@
     "list": "native-roku"
   },
   {
-    "name": "Gaiam TV",
-    "epg_id": "engineroku:a6837c9716fb8192023aa2ae29b3306d",
+    "name": "Fuse +",
+    "epg_id": "engineroku:b80cbf20448c006d345e753e803b015f",
     "country": "",
     "list": "native-roku"
   },
@@ -66024,14 +66360,14 @@
     "list": "native-roku"
   },
   {
-    "name": "Fuse +",
-    "epg_id": "engineroku:b80cbf20448c006d345e753e803b015f",
+    "name": "Kino",
+    "epg_id": "engineroku:f89677ca9f8c9403b21fc67892a7f157",
     "country": "",
     "list": "native-roku"
   },
   {
-    "name": "Kino",
-    "epg_id": "engineroku:f89677ca9f8c9403b21fc67892a7f157",
+    "name": "cinemax",
+    "epg_id": "engineroku:b2f598570c0f5026ef199d043cb7e876",
     "country": "",
     "list": "native-roku"
   },
@@ -66042,26 +66378,26 @@
     "list": "native-roku"
   },
   {
-    "name": "Sundance Now",
-    "epg_id": "engineroku:a76ade17568f4ef2f234864541317ef6",
-    "country": "",
-    "list": "native-roku"
-  },
-  {
     "name": "Marquee TV",
     "epg_id": "engineroku:93ee6e8b7fa73f38fde911e3250f7074",
     "country": "",
     "list": "native-roku"
   },
   {
-    "name": "Screambox",
-    "epg_id": "engineroku:1a89da67090e3972c0abf6937d2bb201",
+    "name": "Qello Concerts by Stingray",
+    "epg_id": "engineroku:be89f26c8833f000d4eb6df148afe864",
     "country": "",
     "list": "native-roku"
   },
   {
-    "name": "Qello Concerts by Stingray",
-    "epg_id": "engineroku:be89f26c8833f000d4eb6df148afe864",
+    "name": "Sundance Now",
+    "epg_id": "engineroku:a76ade17568f4ef2f234864541317ef6",
+    "country": "",
+    "list": "native-roku"
+  },
+  {
+    "name": "Screambox",
+    "epg_id": "engineroku:1a89da67090e3972c0abf6937d2bb201",
     "country": "",
     "list": "native-roku"
   },
