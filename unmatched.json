@@ -2688,18 +2688,6 @@
     "list": "free-tv"
   },
   {
-    "name": "M1 Hiradó Ⓨ",
-    "epg_id": "",
-    "country": "",
-    "list": "free-tv"
-  },
-  {
-    "name": "M4 Sport Ⓖ",
-    "epg_id": "M4Sport.hu",
-    "country": "hu",
-    "list": "free-tv"
-  },
-  {
     "name": "M1 Ⓖ",
     "epg_id": "M1.hu",
     "country": "hu",
@@ -2712,27 +2700,27 @@
     "list": "free-tv"
   },
   {
-    "name": "M5 Hungary Ⓖ",
-    "epg_id": "M5.hu",
-    "country": "hu",
-    "list": "free-tv"
-  },
-  {
     "name": "Duna TV Ⓖ",
     "epg_id": "DunaTV.hu",
     "country": "hu",
     "list": "free-tv"
   },
   {
-    "name": "Hír TV",
-    "epg_id": "HirTV.hu",
+    "name": "M4 Sport Ⓖ",
+    "epg_id": "M4Sport.hu",
     "country": "hu",
     "list": "free-tv"
   },
   {
-    "name": "ErdélyTV Ⓨ",
-    "epg_id": "",
-    "country": "",
+    "name": "M5 Hungary Ⓖ",
+    "epg_id": "M5.hu",
+    "country": "hu",
+    "list": "free-tv"
+  },
+  {
+    "name": "Duna World / M4+ Sport",
+    "epg_id": "DunaWorld.hu",
+    "country": "hu",
     "list": "free-tv"
   },
   {
@@ -2751,6 +2739,18 @@
     "name": "ATV",
     "epg_id": "ATV.hu",
     "country": "hu",
+    "list": "free-tv"
+  },
+  {
+    "name": "Hír TV",
+    "epg_id": "HirTV.hu",
+    "country": "hu",
+    "list": "free-tv"
+  },
+  {
+    "name": "ErdélyTV Ⓨ",
+    "epg_id": "",
+    "country": "",
     "list": "free-tv"
   },
   {
@@ -2802,6 +2802,30 @@
     "list": "free-tv"
   },
   {
+    "name": "Viasat3.",
+    "epg_id": "Viasat3.hu",
+    "country": "hu",
+    "list": "free-tv"
+  },
+  {
+    "name": "Story4.",
+    "epg_id": "Story4.hu",
+    "country": "hu",
+    "list": "free-tv"
+  },
+  {
+    "name": "Minimax.",
+    "epg_id": "Minimax.hu",
+    "country": "hu",
+    "list": "free-tv"
+  },
+  {
+    "name": "RTL Kettő",
+    "epg_id": "",
+    "country": "",
+    "list": "free-tv"
+  },
+  {
     "name": "FEM3 (TV2 Klub)",
     "epg_id": "FEM3.hu",
     "country": "hu",
@@ -2814,97 +2838,37 @@
     "list": "free-tv"
   },
   {
-    "name": "EWTN TV",
-    "epg_id": "BonumTV.hu",
+    "name": "Viasat Explore",
+    "epg_id": "ViasatExplore.hu",
     "country": "hu",
     "list": "free-tv"
   },
   {
-    "name": "Apostol TV",
-    "epg_id": "ApostolTV.hu",
+    "name": "Viasat History",
+    "epg_id": "ViasatHistory.hu",
     "country": "hu",
     "list": "free-tv"
   },
   {
-    "name": "Oxygen Music",
+    "name": "Viasat Nature",
     "epg_id": "",
     "country": "",
     "list": "free-tv"
   },
   {
-    "name": "Dance TV",
-    "epg_id": "",
-    "country": "",
-    "list": "free-tv"
-  },
-  {
-    "name": "DikhTv Ⓨ",
-    "epg_id": "DikhTV.hu",
+    "name": "EuroSport1",
+    "epg_id": "Eurosport1.hu",
     "country": "hu",
     "list": "free-tv"
   },
   {
-    "name": "Kossuth Rádió",
-    "epg_id": "KossuthRadio.hu",
-    "country": "hu",
-    "list": "free-tv"
-  },
-  {
-    "name": "Petőfi Rádió",
-    "epg_id": "PetofiRadio.hu",
-    "country": "hu",
-    "list": "free-tv"
-  },
-  {
-    "name": "Bartók Rádió",
-    "epg_id": "BartokRadio.hu",
-    "country": "hu",
-    "list": "free-tv"
-  },
-  {
-    "name": "Dankó Rádió",
-    "epg_id": "DankoRadio.hu",
-    "country": "hu",
-    "list": "free-tv"
-  },
-  {
-    "name": "Rádió1",
+    "name": "Max4.",
     "epg_id": "",
     "country": "",
     "list": "free-tv"
   },
   {
-    "name": "Retró Rádió",
-    "epg_id": "",
-    "country": "",
-    "list": "free-tv"
-  },
-  {
-    "name": "90.9 Jazzy FM",
-    "epg_id": "",
-    "country": "",
-    "list": "free-tv"
-  },
-  {
-    "name": "Juventus Rádió",
-    "epg_id": "",
-    "country": "",
-    "list": "free-tv"
-  },
-  {
-    "name": "Hír FM",
-    "epg_id": "",
-    "country": "",
-    "list": "free-tv"
-  },
-  {
-    "name": "Spirit FM",
-    "epg_id": "",
-    "country": "",
-    "list": "free-tv"
-  },
-  {
-    "name": "Sláger FM",
+    "name": "Nat Geo",
     "epg_id": "",
     "country": "",
     "list": "free-tv"
@@ -2943,6 +2907,48 @@
     "name": "TV Paprika Ⓖ",
     "epg_id": "TVPaprika.hu",
     "country": "hu",
+    "list": "free-tv"
+  },
+  {
+    "name": "RTL Három",
+    "epg_id": "RTL3.hu",
+    "country": "hu",
+    "list": "free-tv"
+  },
+  {
+    "name": "Sorozat+",
+    "epg_id": "",
+    "country": "",
+    "list": "free-tv"
+  },
+  {
+    "name": "EWTN TV",
+    "epg_id": "BonumTV.hu",
+    "country": "hu",
+    "list": "free-tv"
+  },
+  {
+    "name": "Apostol TV",
+    "epg_id": "ApostolTV.hu",
+    "country": "hu",
+    "list": "free-tv"
+  },
+  {
+    "name": "Oxygen Music",
+    "epg_id": "",
+    "country": "",
+    "list": "free-tv"
+  },
+  {
+    "name": "Dance TV",
+    "epg_id": "",
+    "country": "",
+    "list": "free-tv"
+  },
+  {
+    "name": "DikhTv Ⓨ",
+    "epg_id": "",
+    "country": "",
     "list": "free-tv"
   },
   {
@@ -3111,6 +3117,72 @@
     "name": "Komáromi Televízió",
     "epg_id": "KomaromiTelevizio.hu",
     "country": "hu",
+    "list": "free-tv"
+  },
+  {
+    "name": "Kossuth Rádió",
+    "epg_id": "KossuthRadio.hu",
+    "country": "hu",
+    "list": "free-tv"
+  },
+  {
+    "name": "Petőfi Rádió",
+    "epg_id": "PetofiRadio.hu",
+    "country": "hu",
+    "list": "free-tv"
+  },
+  {
+    "name": "Bartók Rádió",
+    "epg_id": "BartokRadio.hu",
+    "country": "hu",
+    "list": "free-tv"
+  },
+  {
+    "name": "Dankó Rádió",
+    "epg_id": "DankoRadio.hu",
+    "country": "hu",
+    "list": "free-tv"
+  },
+  {
+    "name": "Rádió1",
+    "epg_id": "",
+    "country": "",
+    "list": "free-tv"
+  },
+  {
+    "name": "Retró Rádió",
+    "epg_id": "",
+    "country": "",
+    "list": "free-tv"
+  },
+  {
+    "name": "90.9 Jazzy FM",
+    "epg_id": "",
+    "country": "",
+    "list": "free-tv"
+  },
+  {
+    "name": "Juventus Rádió",
+    "epg_id": "",
+    "country": "",
+    "list": "free-tv"
+  },
+  {
+    "name": "Hír FM",
+    "epg_id": "",
+    "country": "",
+    "list": "free-tv"
+  },
+  {
+    "name": "Spirit FM",
+    "epg_id": "",
+    "country": "",
+    "list": "free-tv"
+  },
+  {
+    "name": "Sláger FM",
+    "epg_id": "",
+    "country": "",
     "list": "free-tv"
   },
   {
@@ -13524,6 +13596,12 @@
     "list": "iptv-org"
   },
   {
+    "name": "AntenaSport",
+    "epg_id": "AntenaSport.ro@SD",
+    "country": "ro",
+    "list": "iptv-org"
+  },
+  {
     "name": "Antenna 2 TV (720p)",
     "epg_id": "Antenna2TV.it@SD",
     "country": "it",
@@ -16224,12 +16302,6 @@
     "list": "iptv-org"
   },
   {
-    "name": "Bolivision (1080p)",
-    "epg_id": "Bolivision.bo@SD",
-    "country": "bo",
-    "list": "iptv-org"
-  },
-  {
     "name": "Bollygold (1080p)",
     "epg_id": "Bollygold.in@HD",
     "country": "in",
@@ -16244,12 +16316,6 @@
   {
     "name": "Bollywood Classic Romania (576p)",
     "epg_id": "BollywoodClassic.ro@Romania",
-    "country": "ro",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Bollywood Film",
-    "epg_id": "BollywoodFilm.ro@SD",
     "country": "ro",
     "list": "iptv-org"
   },
@@ -18186,12 +18252,6 @@
     "list": "iptv-org"
   },
   {
-    "name": "Canal Off (1080p)",
-    "epg_id": "CanalOff.br@SD",
-    "country": "br",
-    "list": "iptv-org"
-  },
-  {
     "name": "Canal Once Plus",
     "epg_id": "CanalOncePlus.uy@SD",
     "country": "uy",
@@ -18798,8 +18858,8 @@
     "list": "iptv-org"
   },
   {
-    "name": "Cartoon Network CEE Czech Republic",
-    "epg_id": "CartoonNetworkCEE.uk@CzechRepublic",
+    "name": "Cartoon Network CEE",
+    "epg_id": "CartoonNetworkCEE.uk@Hungary",
     "country": "uk",
     "list": "iptv-org"
   },
@@ -18816,8 +18876,8 @@
     "list": "iptv-org"
   },
   {
-    "name": "Cartoonito CEE Czechia",
-    "epg_id": "CartoonitoCEE.uk@Czechia",
+    "name": "Cartoonito CEE",
+    "epg_id": "CartoonitoCEE.uk@SD",
     "country": "uk",
     "list": "iptv-org"
   },
@@ -20076,6 +20136,12 @@
     "list": "iptv-org"
   },
   {
+    "name": "Cinemax 2 Central Europe",
+    "epg_id": "Cinemax2CentralEurope.hu@SD",
+    "country": "hu",
+    "list": "iptv-org"
+  },
+  {
     "name": "Cinemax (Czech Republic)",
     "epg_id": "Cinemax.cz@Czechia",
     "country": "cz",
@@ -20091,6 +20157,12 @@
     "name": "Cinemax Asia (720p) [Geo-blocked]",
     "epg_id": "CinemaxAsia.sg@SD",
     "country": "sg",
+    "list": "iptv-org"
+  },
+  {
+    "name": "Cinemax Central Europe",
+    "epg_id": "CinemaxCentralEurope.hu@SD",
+    "country": "hu",
     "list": "iptv-org"
   },
   {
@@ -20982,7 +21054,7 @@
     "list": "iptv-org"
   },
   {
-    "name": "Comedy TV (Georgia)",
+    "name": "Comedy TV",
     "epg_id": "ComedyTV.ge@SD",
     "country": "ge",
     "list": "iptv-org"
@@ -22668,6 +22740,12 @@
     "list": "iptv-org"
   },
   {
+    "name": "Dikh TV",
+    "epg_id": "DikhTV.hu@SD",
+    "country": "hu",
+    "list": "iptv-org"
+  },
+  {
     "name": "Dikij (576p)",
     "epg_id": "Dikij.ru@SD",
     "country": "ru",
@@ -23552,12 +23630,6 @@
   {
     "name": "Duna",
     "epg_id": "Duna.hu@SD",
-    "country": "hu",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Duna World",
-    "epg_id": "DunaWorld.hu@SD",
     "country": "hu",
     "list": "iptv-org"
   },
@@ -24606,6 +24678,12 @@
     "list": "iptv-org"
   },
   {
+    "name": "ES.TV (720p)",
+    "epg_id": "ESTV.us@SD",
+    "country": "us",
+    "list": "iptv-org"
+  },
+  {
     "name": "Esaie 45 Tele",
     "epg_id": "Esaie45Tele.cg@SD",
     "country": "cg",
@@ -24972,8 +25050,8 @@
     "list": "iptv-org"
   },
   {
-    "name": "Eurosport 1 Hungary",
-    "epg_id": "Eurosport1.fr@Hungary",
+    "name": "Eurosport 1 Germany",
+    "epg_id": "Eurosport1.fr@Germany",
     "country": "fr",
     "list": "iptv-org"
   },
@@ -30618,7 +30696,7 @@
     "list": "iptv-org"
   },
   {
-    "name": "Justice Central TV (720p)",
+    "name": "Justice Central.TV (720p)",
     "epg_id": "JusticeCentralTV.us@SD",
     "country": "us",
     "list": "iptv-org"
@@ -32406,7 +32484,7 @@
     "list": "iptv-org"
   },
   {
-    "name": "Larivision TV",
+    "name": "Larivision TV (720p) [Not 24/7]",
     "epg_id": "LarivisionTV.do@HD",
     "country": "do",
     "list": "iptv-org"
@@ -35124,12 +35202,6 @@
     "list": "iptv-org"
   },
   {
-    "name": "Minimax (Hungary)",
-    "epg_id": "Minimax.hu@SD",
-    "country": "hu",
-    "list": "iptv-org"
-  },
-  {
     "name": "Minimax (Pakistan) (360p)",
     "epg_id": "Minimax.pk@SD",
     "country": "pk",
@@ -35550,20 +35622,8 @@
     "list": "iptv-org"
   },
   {
-    "name": "Mooz Dance",
-    "epg_id": "MoozDance.ro@SD",
-    "country": "ro",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Mooz Hits",
-    "epg_id": "MoozHits.ro@SD",
-    "country": "ro",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Mooz Ro!",
-    "epg_id": "MoozRo.ro@SD",
+    "name": "Mooz Dance HD (1080i) [Geo-blocked]",
+    "epg_id": "MoozDance.ro@HD",
     "country": "ro",
     "list": "iptv-org"
   },
@@ -37454,6 +37514,12 @@
   {
     "name": "News Leader (576p)",
     "epg_id": "NewsLeader.in@SD",
+    "country": "in",
+    "list": "iptv-org"
+  },
+  {
+    "name": "News Malayalam 24x7 (576p)",
+    "epg_id": "NewsMalayalam24x7.in@SD",
     "country": "in",
     "list": "iptv-org"
   },
@@ -44508,6 +44574,12 @@
     "list": "iptv-org"
   },
   {
+    "name": "Radio ZU (720p)",
+    "epg_id": "RadioZU.ro@720p",
+    "country": "ro",
+    "list": "iptv-org"
+  },
+  {
     "name": "Radiocanal (1080p)",
     "epg_id": "Radiocanal.ar@SD",
     "country": "ar",
@@ -45783,6 +45855,12 @@
     "name": "Romana TV Canal 42 (480p)",
     "epg_id": "RomanaTVCanal42.do@SD",
     "country": "do",
+    "list": "iptv-org"
+  },
+  {
+    "name": "Romantic FM (576i)",
+    "epg_id": "RomanticFM.ro@SD",
+    "country": "ro",
     "list": "iptv-org"
   },
   {
@@ -49542,12 +49620,6 @@
     "list": "iptv-org"
   },
   {
-    "name": "Sport Extra",
-    "epg_id": "SportExtra.ro@SD",
-    "country": "ro",
-    "list": "iptv-org"
-  },
-  {
     "name": "Sport TV1",
     "epg_id": "SportTV1.pt@SD",
     "country": "pt",
@@ -50130,12 +50202,6 @@
     "list": "iptv-org"
   },
   {
-    "name": "Story4",
-    "epg_id": "Story4.hu@SD",
-    "country": "hu",
-    "list": "iptv-org"
-  },
-  {
     "name": "Story Television KPVM-LD",
     "epg_id": "StoryTelevision.us@KPVMLD",
     "country": "us",
@@ -50445,6 +50511,12 @@
     "name": "Super Digital TV (1080p) [Not 24/7]",
     "epg_id": "SuperDigitalTV.do@SD",
     "country": "do",
+    "list": "iptv-org"
+  },
+  {
+    "name": "Super Express TV (1080p)",
+    "epg_id": "SuperExpressTV.pl@FAST",
+    "country": "pl",
     "list": "iptv-org"
   },
   {
@@ -58428,12 +58500,6 @@
     "list": "iptv-org"
   },
   {
-    "name": "Viasat 3",
-    "epg_id": "Viasat3.hu@SD",
-    "country": "hu",
-    "list": "iptv-org"
-  },
-  {
     "name": "Viasat Epic Drama Czechia",
     "epg_id": "ViasatEpicDrama.uk@Czechia",
     "country": "uk",
@@ -58545,6 +58611,12 @@
     "name": "Viasat Nature (Czech Republic)",
     "epg_id": "ViasatNature.cz@SD",
     "country": "cz",
+    "list": "iptv-org"
+  },
+  {
+    "name": "Viasat Nature (Hungary)",
+    "epg_id": "ViasatNature.hu@SD",
+    "country": "hu",
     "list": "iptv-org"
   },
   {
@@ -58821,6 +58893,12 @@
     "name": "Vision (Peru) (480p)",
     "epg_id": "Vision.pe@SD",
     "country": "pe",
+    "list": "iptv-org"
+  },
+  {
+    "name": "Vision Beats (720p)",
+    "epg_id": "VisionBeats.in@SD",
+    "country": "in",
     "list": "iptv-org"
   },
   {
@@ -59367,6 +59445,12 @@
     "name": "WACX 55.1 (720p)",
     "epg_id": "WACX551.us@SD",
     "country": "us",
+    "list": "iptv-org"
+  },
+  {
+    "name": "Wah Punjabi (720p)",
+    "epg_id": "WahPunjabi.in@SD",
+    "country": "in",
     "list": "iptv-org"
   },
   {
@@ -61722,30 +61806,6 @@
     "list": "native-xumo"
   },
   {
-    "name": "WSOC Charlotte",
-    "epg_id": "enginexumo:99991691",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "SPEEDVISION",
-    "epg_id": "enginexumo:99951268",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Stingray Remember the 80s",
-    "epg_id": "enginexumo:99991742",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "NBC 4 Washington News",
-    "epg_id": "enginexumo:99951181",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
     "name": "WFTV Orlando",
     "epg_id": "enginexumo:9995107",
     "country": "",
@@ -61758,38 +61818,14 @@
     "list": "native-xumo"
   },
   {
-    "name": "Stingray Greatest Holiday Hits",
-    "epg_id": "enginexumo:99991120",
+    "name": "SPEEDVISION",
+    "epg_id": "enginexumo:99951268",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "FOX LOCAL Chicago",
-    "epg_id": "enginexumo:99951415",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "KIRO Seattle",
-    "epg_id": "enginexumo:9995112",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Stingray Soul Storm",
-    "epg_id": "enginexumo:99991121",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "CBS News Bay Area",
-    "epg_id": "enginexumo:99991655",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Stingray Classic Rock",
-    "epg_id": "enginexumo:99991119",
+    "name": "NBC 4 Washington News",
+    "epg_id": "enginexumo:99951181",
     "country": "",
     "list": "native-xumo"
   },
@@ -61806,26 +61842,20 @@
     "list": "native-xumo"
   },
   {
-    "name": "Action News Jax",
-    "epg_id": "enginexumo:9995110",
+    "name": "Stingray Remember the 80s",
+    "epg_id": "enginexumo:99991742",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "FOX LOCAL Los Angeles",
-    "epg_id": "enginexumo:99951420",
+    "name": "KIRO Seattle",
+    "epg_id": "enginexumo:9995112",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "NBC 6 South Florida News",
-    "epg_id": "enginexumo:99951167",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "News 12 New York",
-    "epg_id": "enginexumo:99951222",
+    "name": "WSOC Charlotte",
+    "epg_id": "enginexumo:99991691",
     "country": "",
     "list": "native-xumo"
   },
@@ -61836,44 +61866,14 @@
     "list": "native-xumo"
   },
   {
-    "name": "FOX LOCAL Houston",
-    "epg_id": "enginexumo:99951423",
+    "name": "FOX LOCAL Chicago",
+    "epg_id": "enginexumo:99951415",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "CBS News Chicago",
-    "epg_id": "enginexumo:99991643",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Telemundo Noticias California",
-    "epg_id": "enginexumo:99951225",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "FOX LOCAL Seattle",
-    "epg_id": "enginexumo:99951417",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "FOX LOCAL Phoenix",
-    "epg_id": "enginexumo:99951419",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "CBS News New York",
-    "epg_id": "enginexumo:99991641",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "NBC 10 Boston News",
-    "epg_id": "enginexumo:99951168",
+    "name": "NBC 6 South Florida News",
+    "epg_id": "enginexumo:99951167",
     "country": "",
     "list": "native-xumo"
   },
@@ -61884,14 +61884,134 @@
     "list": "native-xumo"
   },
   {
+    "name": "Stingray Greatest Holiday Hits",
+    "epg_id": "enginexumo:99991120",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FOX LOCAL Phoenix",
+    "epg_id": "enginexumo:99951419",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Stingray Soul Storm",
+    "epg_id": "enginexumo:99991121",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Action News Jax",
+    "epg_id": "enginexumo:9995110",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Stingray Classic Rock",
+    "epg_id": "enginexumo:99991119",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FOX LOCAL Los Angeles",
+    "epg_id": "enginexumo:99951420",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
     "name": "NBC 4 Los Angeles News",
     "epg_id": "enginexumo:99951164",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "FOX LOCAL Minnesota",
-    "epg_id": "enginexumo:99951431",
+    "name": "CBS News New York",
+    "epg_id": "enginexumo:99991641",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "NBC 4 New York News",
+    "epg_id": "enginexumo:99951163",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "CBS News Boston",
+    "epg_id": "enginexumo:99991656",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FOX LOCAL Seattle",
+    "epg_id": "enginexumo:99951417",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "News 12 New York",
+    "epg_id": "enginexumo:99951222",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "NBC 10 Boston News",
+    "epg_id": "enginexumo:99951168",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Telemundo Noticias Texas",
+    "epg_id": "enginexumo:99951226",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FOX LOCAL Houston",
+    "epg_id": "enginexumo:99951423",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "NBC 7 San Diego News",
+    "epg_id": "enginexumo:99951185",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "WSB Atlanta",
+    "epg_id": "enginexumo:99991690",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FOX LOCAL Detroit",
+    "epg_id": "enginexumo:99951421",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FOX LOCAL Austin",
+    "epg_id": "enginexumo:99951430",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "CBS News Bay Area",
+    "epg_id": "enginexumo:99991655",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "NBC 5 Chicago News",
+    "epg_id": "enginexumo:99951165",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "NBC Connecticut News",
+    "epg_id": "enginexumo:99951183",
     "country": "",
     "list": "native-xumo"
   },
@@ -61908,26 +62028,14 @@
     "list": "native-xumo"
   },
   {
-    "name": "CBS News Boston",
-    "epg_id": "enginexumo:99991656",
+    "name": "Boston 25",
+    "epg_id": "enginexumo:9995108",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "NBC 7 San Diego News",
-    "epg_id": "enginexumo:99951185",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Telemundo Noticias Florida",
-    "epg_id": "enginexumo:99951227",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "WSB Atlanta",
-    "epg_id": "enginexumo:99991690",
+    "name": "CBS News Chicago",
+    "epg_id": "enginexumo:99991643",
     "country": "",
     "list": "native-xumo"
   },
@@ -61938,32 +62046,14 @@
     "list": "native-xumo"
   },
   {
-    "name": "FOX LOCAL Austin",
-    "epg_id": "enginexumo:99951430",
+    "name": "NBC 5 Dallas-Fort Worth News",
+    "epg_id": "enginexumo:99951182",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "NBC 4 New York News",
-    "epg_id": "enginexumo:99951163",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "NBC Connecticut News",
-    "epg_id": "enginexumo:99951183",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "NBC 5 Chicago News",
-    "epg_id": "enginexumo:99951165",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Boston 25",
-    "epg_id": "enginexumo:9995108",
+    "name": "Telemundo Noticias Florida",
+    "epg_id": "enginexumo:99951227",
     "country": "",
     "list": "native-xumo"
   },
@@ -61974,20 +62064,14 @@
     "list": "native-xumo"
   },
   {
-    "name": "FOX LOCAL Detroit",
-    "epg_id": "enginexumo:99951421",
+    "name": "FOX LOCAL New York",
+    "epg_id": "enginexumo:99951427",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "NBC 5 Dallas-Fort Worth News",
-    "epg_id": "enginexumo:99951182",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Telemundo Noticias Texas",
-    "epg_id": "enginexumo:99951226",
+    "name": "Telemundo Noticias California",
+    "epg_id": "enginexumo:99951225",
     "country": "",
     "list": "native-xumo"
   },
@@ -62004,26 +62088,26 @@
     "list": "native-xumo"
   },
   {
+    "name": "WHIO Dayton",
+    "epg_id": "enginexumo:9995109",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
     "name": "Stingray Hot Country",
     "epg_id": "enginexumo:99991118",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "FOX LOCAL New York",
-    "epg_id": "enginexumo:99951427",
+    "name": "FOX LOCAL Minnesota",
+    "epg_id": "enginexumo:99951431",
     "country": "",
     "list": "native-xumo"
   },
   {
     "name": "NBC 10 Philadelphia News",
     "epg_id": "enginexumo:99951166",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "WHIO Dayton",
-    "epg_id": "enginexumo:9995109",
     "country": "",
     "list": "native-xumo"
   },
@@ -62964,14 +63048,26 @@
     "list": "native-stirr"
   },
   {
-    "name": "Haunt TV",
-    "epg_id": "enginevizio:FEATURED3",
+    "name": "LiveNOW from FOX",
+    "epg_id": "enginevizio:FEATURED2",
     "country": "",
     "list": "native-vizio"
   },
   {
-    "name": "The Walking Dead Universe",
+    "name": "House",
     "epg_id": "enginevizio:FEATURED4",
+    "country": "",
+    "list": "native-vizio"
+  },
+  {
+    "name": "Nip/Tuck",
+    "epg_id": "enginevizio:FEATURED5",
+    "country": "",
+    "list": "native-vizio"
+  },
+  {
+    "name": "Family Feud",
+    "epg_id": "enginevizio:FEATURED6",
     "country": "",
     "list": "native-vizio"
   },
@@ -63900,7 +63996,7 @@
     "list": "native-vizio"
   },
   {
-    "name": "Lifetime Movie Favorites",
+    "name": "Lifetime Holiday Movie Favorites",
     "epg_id": "enginevizio:98wurl_aenetworks_holidaymoviefavorites_1",
     "country": "",
     "list": "native-vizio"
@@ -65472,7 +65568,7 @@
     "list": "native-vizio"
   },
   {
-    "name": "Stingray Greatest Hits",
+    "name": "Stingray Greatest Holiday Hits",
     "epg_id": "enginevizio:96Station_9993046",
     "country": "",
     "list": "native-vizio"
@@ -65758,6 +65854,12 @@
     "epg_id": "enginevizio:331ONTV4U",
     "country": "",
     "list": "native-vizio"
+  },
+  {
+    "name": "WildEarth",
+    "epg_id": "engineroku:7b9a45d26315568a98a2b136972bde8d",
+    "country": "",
+    "list": "native-roku"
   },
   {
     "name": "Binge Fest",
@@ -66054,6 +66156,12 @@
     "list": "native-roku"
   },
   {
+    "name": "Roku Moods Nature",
+    "epg_id": "engineroku:2ad914601dfb5a61afc37a654f273f25",
+    "country": "",
+    "list": "native-roku"
+  },
+  {
     "name": "REELZ+",
     "epg_id": "engineroku:c53ab201e827f7f064273e126e31f7d8",
     "country": "",
@@ -66084,12 +66192,6 @@
     "list": "native-roku"
   },
   {
-    "name": "crunchyroll",
-    "epg_id": "engineroku:22899a626bc5bafbe156ef4fa61f604a",
-    "country": "",
-    "list": "native-roku"
-  },
-  {
     "name": "Acorn TV",
     "epg_id": "engineroku:dd7f5db2f308a8210344e20ba12ba3e5",
     "country": "",
@@ -66114,14 +66216,14 @@
     "list": "native-roku"
   },
   {
-    "name": "Vix Premium (fka Vix+)",
-    "epg_id": "engineroku:1264125d516f1075d005ffeb8c340c83",
+    "name": "Peacock",
+    "epg_id": "engineroku:2facec0efbda0a2e6f3efe5e5228e559",
     "country": "",
     "list": "native-roku"
   },
   {
-    "name": "Peacock",
-    "epg_id": "engineroku:2facec0efbda0a2e6f3efe5e5228e559",
+    "name": "Vix Premium (fka Vix+)",
+    "epg_id": "engineroku:1264125d516f1075d005ffeb8c340c83",
     "country": "",
     "list": "native-roku"
   },
@@ -66162,8 +66264,8 @@
     "list": "native-roku"
   },
   {
-    "name": "Retro Crush (fka Viewster Anime)",
-    "epg_id": "engineroku:7cb89da493ed0a899181668aa5509147",
+    "name": "Passionflix",
+    "epg_id": "engineroku:b4b35f2bdca72495d997b344b0ab13e7",
     "country": "",
     "list": "native-roku"
   },
@@ -66174,8 +66276,8 @@
     "list": "native-roku"
   },
   {
-    "name": "Passionflix",
-    "epg_id": "engineroku:b4b35f2bdca72495d997b344b0ab13e7",
+    "name": "Retro Crush (fka Viewster Anime)",
+    "epg_id": "engineroku:7cb89da493ed0a899181668aa5509147",
     "country": "",
     "list": "native-roku"
   },
@@ -66198,6 +66300,12 @@
     "list": "native-roku"
   },
   {
+    "name": "Fox One",
+    "epg_id": "engineroku:4eac7da3edb477842403344d02920660",
+    "country": "",
+    "list": "native-roku"
+  },
+  {
     "name": "viaplay",
     "epg_id": "engineroku:97ab4aed0c7b82dbc6e9390d2a2a9dce",
     "country": "",
@@ -66210,14 +66318,8 @@
     "list": "native-roku"
   },
   {
-    "name": "MyOutdoorTV",
-    "epg_id": "engineroku:474460b1a44c6694899068c1d28ba29f",
-    "country": "",
-    "list": "native-roku"
-  },
-  {
-    "name": "Fox One",
-    "epg_id": "engineroku:4eac7da3edb477842403344d02920660",
+    "name": "britbox",
+    "epg_id": "engineroku:c1fc057a8fa543b614ee110cea71b774",
     "country": "",
     "list": "native-roku"
   },
@@ -66228,8 +66330,8 @@
     "list": "native-roku"
   },
   {
-    "name": "britbox",
-    "epg_id": "engineroku:c1fc057a8fa543b614ee110cea71b774",
+    "name": "crunchyroll",
+    "epg_id": "engineroku:22899a626bc5bafbe156ef4fa61f604a",
     "country": "",
     "list": "native-roku"
   },
@@ -66252,14 +66354,14 @@
     "list": "native-roku"
   },
   {
-    "name": "True Royalty",
-    "epg_id": "engineroku:90c20f248d6c11998ee52be5d3c38bb2",
+    "name": "BBC Select",
+    "epg_id": "engineroku:ba952d224414602a28cb6c0658c3970e",
     "country": "",
     "list": "native-roku"
   },
   {
-    "name": "BBC Select",
-    "epg_id": "engineroku:ba952d224414602a28cb6c0658c3970e",
+    "name": "True Royalty",
+    "epg_id": "engineroku:90c20f248d6c11998ee52be5d3c38bb2",
     "country": "",
     "list": "native-roku"
   },
@@ -66270,26 +66372,14 @@
     "list": "native-roku"
   },
   {
-    "name": "starz",
-    "epg_id": "engineroku:10ee66dc879640687b2f4a10c3908601",
-    "country": "",
-    "list": "native-roku"
-  },
-  {
     "name": "Aspiretv",
     "epg_id": "engineroku:47727baff953de2f3300a96ac54a24b5",
     "country": "",
     "list": "native-roku"
   },
   {
-    "name": "hidive",
-    "epg_id": "engineroku:c8ec017dbbfee1eef1874e7aa11b2ccc",
-    "country": "",
-    "list": "native-roku"
-  },
-  {
-    "name": "Demand Africa",
-    "epg_id": "engineroku:88b9ea20138d8ed99f33ff5b55d3cd6f",
+    "name": "starz",
+    "epg_id": "engineroku:10ee66dc879640687b2f4a10c3908601",
     "country": "",
     "list": "native-roku"
   },
@@ -66302,6 +66392,18 @@
   {
     "name": "AMC+",
     "epg_id": "engineroku:93963656a9f930f1a88c96b291d546e4",
+    "country": "",
+    "list": "native-roku"
+  },
+  {
+    "name": "hidive",
+    "epg_id": "engineroku:c8ec017dbbfee1eef1874e7aa11b2ccc",
+    "country": "",
+    "list": "native-roku"
+  },
+  {
+    "name": "Demand Africa",
+    "epg_id": "engineroku:88b9ea20138d8ed99f33ff5b55d3cd6f",
     "country": "",
     "list": "native-roku"
   },
@@ -66342,6 +66444,12 @@
     "list": "native-roku"
   },
   {
+    "name": "shudder",
+    "epg_id": "engineroku:673c6b04495de43852ebfcadb90f0a36",
+    "country": "",
+    "list": "native-roku"
+  },
+  {
     "name": "Get Factual",
     "epg_id": "engineroku:0a25fad07a1f407af450b5f147178bd1",
     "country": "",
@@ -66354,20 +66462,14 @@
     "list": "native-roku"
   },
   {
-    "name": "shudder",
-    "epg_id": "engineroku:673c6b04495de43852ebfcadb90f0a36",
+    "name": "cinemax",
+    "epg_id": "engineroku:b2f598570c0f5026ef199d043cb7e876",
     "country": "",
     "list": "native-roku"
   },
   {
     "name": "Kino",
     "epg_id": "engineroku:f89677ca9f8c9403b21fc67892a7f157",
-    "country": "",
-    "list": "native-roku"
-  },
-  {
-    "name": "cinemax",
-    "epg_id": "engineroku:b2f598570c0f5026ef199d043cb7e876",
     "country": "",
     "list": "native-roku"
   },
@@ -66384,6 +66486,12 @@
     "list": "native-roku"
   },
   {
+    "name": "Screambox",
+    "epg_id": "engineroku:1a89da67090e3972c0abf6937d2bb201",
+    "country": "",
+    "list": "native-roku"
+  },
+  {
     "name": "Qello Concerts by Stingray",
     "epg_id": "engineroku:be89f26c8833f000d4eb6df148afe864",
     "country": "",
@@ -66392,12 +66500,6 @@
   {
     "name": "Sundance Now",
     "epg_id": "engineroku:a76ade17568f4ef2f234864541317ef6",
-    "country": "",
-    "list": "native-roku"
-  },
-  {
-    "name": "Screambox",
-    "epg_id": "engineroku:1a89da67090e3972c0abf6937d2bb201",
     "country": "",
     "list": "native-roku"
   },
@@ -66594,7 +66696,7 @@
     "list": "native-tcl"
   },
   {
-    "name": "Lifetime Movie Favorites",
+    "name": "Lifetime Holiday Movie Favorites",
     "epg_id": "enginetcl:WU827634",
     "country": "",
     "list": "native-tcl"
@@ -68712,7 +68814,7 @@
     "list": "native-tcl"
   },
   {
-    "name": "Stingray Greatest Hits",
+    "name": "Stingray Greatest Holiday Hits",
     "epg_id": "enginetcl:XU678145",
     "country": "",
     "list": "native-tcl"
