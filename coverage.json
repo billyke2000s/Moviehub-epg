@@ -1,320 +1,320 @@
 {
-  "generated_at": "2026-11-03T12:19:06+00:00",
-  "generated_at_unix": 1793708346,
-  "generation_seconds": 196.59,
-  "window_start": "20261102121906 +0000",
-  "window_stop": "20261110121906 +0000",
-  "channels": 14039,
-  "current_channels": 13958,
-  "future_channels": 13958,
-  "programmes": 1401786,
-  "latest_programme_end": 1794324060,
+  "generated_at": "2026-11-04T12:29:41+00:00",
+  "generated_at_unix": 1793795381,
+  "generation_seconds": 198.93,
+  "window_start": "20261103122941 +0000",
+  "window_stop": "20261111122941 +0000",
+  "channels": 14334,
+  "current_channels": 14299,
+  "future_channels": 14297,
+  "programmes": 1383816,
+  "latest_programme_end": 1794405600,
   "source_contributions": {
     "previous-published": {
-      "programmes": 171823,
-      "channels": 10512
+      "programmes": 165322,
+      "channels": 10421
     },
     "inline-freelivesports": {
-      "programmes": 10764,
+      "programmes": 10835,
       "channels": 102
     },
     "inline-lg": {
-      "programmes": 1774,
-      "channels": 191
+      "programmes": 1793,
+      "channels": 192
     },
     "inline-localnow": {
-      "programmes": 925,
-      "channels": 185
+      "programmes": 940,
+      "channels": 188
     },
     "plex-us": {
-      "programmes": 131691,
-      "channels": 1995
+      "programmes": 112885,
+      "channels": 1952
     },
     "plex-gb": {
-      "programmes": 29746,
-      "channels": 461
+      "programmes": 45083,
+      "channels": 908
     },
     "roku-public-guide": {
-      "programmes": 64350,
-      "channels": 719
+      "programmes": 65734,
+      "channels": 721
     },
     "samsung-gb": {
-      "programmes": 7004,
-      "channels": 741
+      "programmes": 6574,
+      "channels": 732
     },
     "inline-tubi": {
-      "programmes": 7933,
+      "programmes": 8051,
       "channels": 181
     },
     "xumo-public-guide": {
-      "programmes": 56144,
-      "channels": 976
+      "programmes": 56658,
+      "channels": 980
     },
     "pluto-us": {
-      "programmes": 25028,
-      "channels": 1246
+      "programmes": 25406,
+      "channels": 1260
     },
     "pluto-gb": {
-      "programmes": 11986,
-      "channels": 518
+      "programmes": 11891,
+      "channels": 517
     },
     "epgshare-au1": {
-      "programmes": 53820,
-      "channels": 304
+      "programmes": 53480,
+      "channels": 305
     },
     "epgshare-br1": {
-      "programmes": 10806,
-      "channels": 66
+      "programmes": 11909,
+      "channels": 76
     },
     "supplement-ca2": {
-      "programmes": 112831,
+      "programmes": 111635,
       "channels": 1165
     },
     "sports-supplement": {
-      "programmes": 6281,
+      "programmes": 6167,
       "channels": 71
     },
     "epgshare-de1": {
-      "programmes": 22572,
-      "channels": 252
+      "programmes": 24581,
+      "channels": 251
     },
     "epgshare-es1": {
-      "programmes": 28641,
-      "channels": 329
+      "programmes": 20911,
+      "channels": 327
     },
     "epgshare-fr1": {
-      "programmes": 56220,
-      "channels": 490
+      "programmes": 59794,
+      "channels": 492
     },
     "epgshare-ie": {
-      "programmes": 14988,
+      "programmes": 14795,
       "channels": 126
     },
     "epgshare-in1": {
-      "programmes": 101225,
-      "channels": 696
+      "programmes": 100757,
+      "channels": 695
     },
     "epgshare-it1": {
-      "programmes": 18592,
+      "programmes": 18782,
       "channels": 155
     },
     "supplement-nl": {
-      "programmes": 23567,
+      "programmes": 20714,
       "channels": 156
     },
     "supplement-pl": {
-      "programmes": 73872,
+      "programmes": 73264,
       "channels": 415
     },
     "supplement-tr": {
-      "programmes": 13814,
-      "channels": 120
+      "programmes": 10996,
+      "channels": 119
     },
     "sky-uk": {
-      "programmes": 117036,
+      "programmes": 116731,
       "channels": 571
     },
     "epgshare-uk": {
-      "programmes": 10881,
+      "programmes": 10799,
       "channels": 380
     },
     "freeview-uk": {
-      "programmes": 69398,
+      "programmes": 69520,
       "channels": 397
     },
     "epgtalk-uk-gaps": {
-      "programmes": 327,
+      "programmes": 374,
       "channels": 4
     },
     "epgshare-us2": {
-      "programmes": 145180,
-      "channels": 1438
+      "programmes": 144766,
+      "channels": 1436
     },
     "epgtalk-us-gaps": {
-      "programmes": 2567,
+      "programmes": 2669,
       "channels": 15
     }
   },
   "representative_programmes": {
     "xmltv:uk:bbcone": [
       {
-        "start": "20261103121500 +0000",
-        "stop": "20261103130000 +0000",
-        "title": "Bargain Hunt: Doctor Who Special",
+        "start": "20261104121500 +0000",
+        "stop": "20261104130000 +0000",
+        "title": "Bargain Hunt",
         "source": "freeview-uk"
       },
       {
-        "start": "20261103130000 +0000",
-        "stop": "20261103140000 +0000",
+        "start": "20261104130000 +0000",
+        "stop": "20261104140000 +0000",
         "title": "BBC News at One including BBC London News",
         "source": "freeview-uk"
       },
       {
-        "start": "20261103140000 +0000",
-        "stop": "20261103144500 +0000",
+        "start": "20261104140000 +0000",
+        "stop": "20261104144500 +0000",
         "title": "Money for Nothing",
         "source": "freeview-uk"
       },
       {
-        "start": "20261103144500 +0000",
-        "stop": "20261103154500 +0000",
+        "start": "20261104144500 +0000",
+        "stop": "20261104154500 +0000",
         "title": "Escape to the Country",
         "source": "freeview-uk"
       }
     ],
     "xmltv:uk:gold": [
       {
-        "start": "20261103114000 +0000",
-        "stop": "20261103122000 +0000",
+        "start": "20261104115000 +0000",
+        "stop": "20261104123000 +0000",
         "title": "The Green Green Grass",
         "source": "sky-uk"
       },
       {
-        "start": "20261103122000 +0000",
-        "stop": "20261103130000 +0000",
+        "start": "20261104123000 +0000",
+        "stop": "20261104131000 +0000",
         "title": "Keeping Up Appearances",
         "source": "sky-uk"
       },
       {
-        "start": "20261103130000 +0000",
-        "stop": "20261103134000 +0000",
-        "title": "Still Open All Hours",
+        "start": "20261104131000 +0000",
+        "stop": "20261104135000 +0000",
+        "title": "Porridge",
         "source": "sky-uk"
       },
       {
-        "start": "20261103134000 +0000",
-        "stop": "20261103142000 +0000",
+        "start": "20261104135000 +0000",
+        "stop": "20261104142500 +0000",
         "title": "Dad's Army",
         "source": "sky-uk"
       }
     ],
     "xmltv:uk:itv1": [
       {
-        "start": "20261103100000 +0000",
-        "stop": "20261103123000 +0000",
+        "start": "20261104100000 +0000",
+        "stop": "20261104123000 +0000",
         "title": "This Morning",
         "source": "freeview-uk"
       },
       {
-        "start": "20261103123000 +0000",
-        "stop": "20261103133000 +0000",
+        "start": "20261104123000 +0000",
+        "stop": "20261104133000 +0000",
         "title": "Loose Women",
         "source": "freeview-uk"
       },
       {
-        "start": "20261103133000 +0000",
-        "stop": "20261103135500 +0000",
+        "start": "20261104133000 +0000",
+        "stop": "20261104135500 +0000",
         "title": "ITV Lunchtime News",
         "source": "freeview-uk"
       },
       {
-        "start": "20261103135500 +0000",
-        "stop": "20261103140000 +0000",
+        "start": "20261104135500 +0000",
+        "stop": "20261104140000 +0000",
         "title": "ITV News London",
         "source": "freeview-uk"
       }
     ],
     "xmltv:uk:skyatlantic": [
       {
-        "start": "20261103111500 +0000",
-        "stop": "20261103122500 +0000",
-        "title": "The Young Pope",
-        "source": "sky-uk"
-      },
-      {
-        "start": "20261103122500 +0000",
-        "stop": "20261103133000 +0000",
+        "start": "20261104122500 +0000",
+        "stop": "20261104133000 +0000",
         "title": "Gomorrah",
         "source": "sky-uk"
       },
       {
-        "start": "20261103133000 +0000",
-        "stop": "20261103143000 +0000",
+        "start": "20261104133000 +0000",
+        "stop": "20261104143000 +0000",
         "title": "Homicide: Life On The Street",
         "source": "sky-uk"
       },
       {
-        "start": "20261103143000 +0000",
-        "stop": "20261103153000 +0000",
+        "start": "20261104143000 +0000",
+        "stop": "20261104153000 +0000",
         "title": "Homicide: Life On The Street",
+        "source": "sky-uk"
+      },
+      {
+        "start": "20261104153000 +0000",
+        "stop": "20261104163500 +0000",
+        "title": "Billions",
         "source": "sky-uk"
       }
     ],
     "xmltv:uk:skysportsmainevent": [
       {
-        "start": "20261103100000 +0000",
-        "stop": "20261103193000 +0000",
+        "start": "20261104100000 +0000",
+        "stop": "20261104193000 +0000",
         "title": "Live Tennis",
         "source": "sports-supplement"
       },
       {
-        "start": "20261103193000 +0000",
-        "stop": "20261103223000 +0000",
+        "start": "20261104193000 +0000",
+        "stop": "20261104223000 +0000",
         "title": "Live EFL",
         "source": "sports-supplement"
       },
       {
-        "start": "20261103223000 +0000",
-        "stop": "20261103230000 +0000",
+        "start": "20261104223000 +0000",
+        "stop": "20261104230000 +0000",
         "title": "Paper Talk",
         "source": "sports-supplement"
       },
       {
-        "start": "20261103230000 +0000",
-        "stop": "20261103233000 +0000",
+        "start": "20261104230000 +0000",
+        "stop": "20261104233000 +0000",
         "title": "Sky Sports News",
         "source": "sports-supplement"
       }
     ],
     "xmltv:uk:skywitness": [
       {
-        "start": "20261103120000 +0000",
-        "stop": "20261103130000 +0000",
+        "start": "20261104120000 +0000",
+        "stop": "20261104130000 +0000",
         "title": "FBI",
         "source": "sky-uk"
       },
       {
-        "start": "20261103130000 +0000",
-        "stop": "20261103140000 +0000",
+        "start": "20261104130000 +0000",
+        "stop": "20261104140000 +0000",
         "title": "FBI",
         "source": "sky-uk"
       },
       {
-        "start": "20261103140000 +0000",
-        "stop": "20261103150000 +0000",
+        "start": "20261104140000 +0000",
+        "stop": "20261104150000 +0000",
         "title": "The Rookie",
         "source": "sky-uk"
       },
       {
-        "start": "20261103150000 +0000",
-        "stop": "20261103160000 +0000",
+        "start": "20261104150000 +0000",
+        "stop": "20261104160000 +0000",
         "title": "Caught On Dashcam",
         "source": "sky-uk"
       }
     ],
     "xmltv:uk:tntsports1": [
       {
-        "start": "20261103113000 +0000",
-        "stop": "20261103150000 +0000",
+        "start": "20261104113000 +0000",
+        "stop": "20261104150000 +0000",
         "title": "Live: International Championship",
         "source": "sky-uk"
       },
       {
-        "start": "20261103150000 +0000",
-        "stop": "20261103160000 +0000",
-        "title": "MotoGP: Grand Prix of Malaysia",
+        "start": "20261104150000 +0000",
+        "stop": "20261104153000 +0000",
+        "title": "Premier League Netbusters",
         "source": "sky-uk"
       },
       {
-        "start": "20261103160000 +0000",
-        "stop": "20261103170000 +0000",
-        "title": "Serie A: Juventus v Napoli",
+        "start": "20261104153000 +0000",
+        "stop": "20261104160000 +0000",
+        "title": "PL Stories: Aston Villa 1992/93",
         "source": "sky-uk"
       },
       {
-        "start": "20261103170000 +0000",
-        "stop": "20261103180000 +0000",
-        "title": "Serie A: Atalanta v Parma",
+        "start": "20261104160000 +0000",
+        "stop": "20261104164500 +0000",
+        "title": "Sign Up - Into Football",
         "source": "sky-uk"
       }
     ]
@@ -325,68 +325,68 @@
       "priority": 10,
       "status": "downloaded",
       "url": "https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml",
-      "etag": "\"87be399a52104b68fc717a4c2ffd48095ece41a5b3da0f4ef959cdc7331fb2b9\"",
+      "etag": "\"421084729fb49fd8a4da5b210c83d3c16eb9bf91aaef9a3d8e29585207e7e33a\"",
       "modified": null,
-      "fetched_at": 1793708347,
-      "sha256": "d9a84fc8be179b0a804421327be5a6c548f4529b10fc527ae8eccbb1641ff713",
+      "fetched_at": 1793795382,
+      "sha256": "a8739b24e5102c3a26e782e02970193e3ef34b394c7e68a0aafbdbe35d6b522e",
       "input_channels": 284,
-      "window_programmes": 47460,
+      "window_programmes": 47540,
       "current_programmes": 279,
-      "future_programmes": 43878,
+      "future_programmes": 44081,
       "invalid_programmes": 0,
-      "first": 1793642400,
-      "last": 1794295800
+      "first": 1793718000,
+      "last": 1794382200
     },
     {
       "id": "sky-uk",
       "priority": 20,
       "status": "downloaded",
       "url": "https://raw.githubusercontent.com/Permanently/sky-epg-xmltv/main/guides/london_hd.xml",
-      "etag": "\"4b4443b3e11ff66dbc09a3c839f699d120e925a6b2df486472381fd3c44eb280\"",
+      "etag": "\"ac61d5332ed0121c0b75ece795b29506ff2f14cc98ab2951e25834ab79f58b36\"",
       "modified": null,
-      "fetched_at": 1793708348,
-      "sha256": "09bdf152337c02ea55025a0a7969295e6fc5566e248bf6b6ca3f33dd4ec863be",
+      "fetched_at": 1793795382,
+      "sha256": "e5dccad717dfa65bdcff242e2be45d7dce04ba1a88bd16e79acead5b77c00eef",
       "input_channels": 371,
-      "window_programmes": 73740,
+      "window_programmes": 73614,
       "current_programmes": 364,
-      "future_programmes": 67744,
+      "future_programmes": 67808,
       "invalid_programmes": 0,
-      "first": 1793642400,
-      "last": 1794295800
+      "first": 1793718000,
+      "last": 1794382200
     },
     {
       "id": "epgshare-uk",
       "priority": 30,
       "status": "downloaded",
       "url": "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz",
-      "etag": "\"6ae9c7d1-2a9102\"",
-      "modified": "Tue, 03 Nov 2026 11:38:57 GMT",
-      "fetched_at": 1793708346,
-      "sha256": "99d3e8e35f07e5c54de4cd498670839c06a9d360bb15d2a8ecf8e57e8e97dde0",
+      "etag": "\"6aeb1944-2a5067\"",
+      "modified": "Wed, 04 Nov 2026 11:38:44 GMT",
+      "fetched_at": 1793795381,
+      "sha256": "7299318285ce32ced1fba9b0eef461f9aa2cbf073307215da87bc570a5868cce",
       "input_channels": 487,
-      "window_programmes": 37519,
+      "window_programmes": 37028,
       "current_programmes": 389,
-      "future_programmes": 26679,
-      "invalid_programmes": 0,
-      "first": 1793577600,
-      "last": 1793950200
+      "future_programmes": 26490,
+      "invalid_programmes": 1,
+      "first": 1793664000,
+      "last": 1794031200
     },
     {
       "id": "epgshare-ie",
       "priority": 30,
       "status": "downloaded",
       "url": "https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz",
-      "etag": "\"6ae9c7c9-261188\"",
-      "modified": "Tue, 03 Nov 2026 11:38:49 GMT",
-      "fetched_at": 1793708347,
-      "sha256": "c7edb57be14b575caccde331daf2a690c2ef080ca4ca59612a19409a5e39a57c",
+      "etag": "\"6aeb193b-263736\"",
+      "modified": "Wed, 04 Nov 2026 11:38:35 GMT",
+      "fetched_at": 1793795381,
+      "sha256": "3e604a9f4c39a6a082b9138eaecb2f6f23cc922cbb12edc7ef35418e61763899",
       "input_channels": 175,
-      "window_programmes": 18530,
+      "window_programmes": 18252,
       "current_programmes": 163,
-      "future_programmes": 16230,
+      "future_programmes": 16003,
       "invalid_programmes": 0,
-      "first": 1793664000,
-      "last": 1794036300
+      "first": 1793750400,
+      "last": 1794122100
     },
     {
       "id": "epgshare-us",
@@ -399,201 +399,201 @@
       "priority": 5,
       "status": "downloaded",
       "url": "https://i.mjh.nz/Plex/gb.xml.gz",
-      "etag": "\"186cb129950bf18eda9d35413804df956a141a76ee1f5084457440cc9415cee0\"",
+      "etag": "\"32a26f44597bb8197d27d9ea46fd5a86c37ba2dfdcf1d4b71adeb5f485d19e68\"",
       "modified": null,
-      "fetched_at": 1793708347,
-      "sha256": "087b7aec604f69f22e127b90ffce421b191c71186c7becf5b8551e901ba0a521",
+      "fetched_at": 1793795381,
+      "sha256": "0e0920a5bd4ebf2773d8fbbe965d41c49d3200770510b6508f781aa0ad0ecc08",
       "input_channels": 369,
-      "window_programmes": 10063,
-      "current_programmes": 156,
-      "future_programmes": 7625,
+      "window_programmes": 15233,
+      "current_programmes": 306,
+      "future_programmes": 10118,
       "invalid_programmes": 0,
-      "first": 1793638309,
-      "last": 1793960953
+      "first": 1793739600,
+      "last": 1794020592
     },
     {
       "id": "plex-us",
       "priority": 5,
       "status": "downloaded",
       "url": "https://i.mjh.nz/Plex/us.xml.gz",
-      "etag": "\"0c741b4582643d6c4558774ca1f96ea87ddfc458a91f27f9dc49a8b437559bdf\"",
+      "etag": "\"65ba9ea83bda1c0410d33026f5a3728a53f392a3d3e5a16e11361b2a15d843ac\"",
       "modified": null,
-      "fetched_at": 1793708347,
-      "sha256": "aed941d79b38687d3c59d8e08b452676338e1d12afd974659553ee9d2e4da710",
+      "fetched_at": 1793795381,
+      "sha256": "3dd814dbc0e0195ebeb1c33be662f534533e63ccabafc6ebf89e96aa7b6044b7",
       "input_channels": 692,
-      "window_programmes": 47016,
-      "current_programmes": 692,
-      "future_programmes": 36796,
+      "window_programmes": 41812,
+      "current_programmes": 685,
+      "future_programmes": 31707,
       "invalid_programmes": 1,
-      "first": 1793638309,
-      "last": 1793932448
+      "first": 1793725200,
+      "last": 1794021087
     },
     {
       "id": "samsung-gb",
       "priority": 5,
       "status": "downloaded",
       "url": "https://i.mjh.nz/SamsungTVPlus/gb.xml.gz",
-      "etag": "\"b3ea16420825e55a95e1591299978a8d42456cd95bdc6900de8c5e9f9e2aa297\"",
+      "etag": "\"b1aa297f5f55ba433a9637fa6a186c4a6cf31bf2b108e385d1e81d60a9623584\"",
       "modified": null,
-      "fetched_at": 1793708347,
-      "sha256": "a00da9f91a6e2d1dc9d7a973e18b6c478de2fd416520d728ba6a2796a25b60ba",
-      "input_channels": 277,
-      "window_programmes": 2612,
-      "current_programmes": 277,
-      "future_programmes": 2149,
+      "fetched_at": 1793795382,
+      "sha256": "e4168f41f24d33504f56b712cb3c2911dc555c4fdf919203389fca25ff000e08",
+      "input_channels": 278,
+      "window_programmes": 2526,
+      "current_programmes": 278,
+      "future_programmes": 2469,
       "invalid_programmes": 0,
-      "first": 1793685600,
-      "last": 1793740320
+      "first": 1793775600,
+      "last": 1793827024
     },
     {
       "id": "pluto-gb",
       "priority": 5,
       "status": "downloaded",
       "url": "https://i.mjh.nz/PlutoTV/gb.xml.gz",
-      "etag": "\"26a34686366d254097c81c6d71b30255a34f1436ef33eb80d321e70dc9265765\"",
+      "etag": "\"72f511b3afdcfb98f8ea8a552db0c4745a2fc6ea46e56380cd7de946cce15fff\"",
       "modified": null,
-      "fetched_at": 1793708348,
-      "sha256": "1cf2799481a84fa3fee8985d320d2aa873dcee251fead064171086be199f8851",
+      "fetched_at": 1793795382,
+      "sha256": "5d63ea56a68b06bb75b1f3764cfcc7ab7844eba81f4fbbafb5d2252cd40e30ab",
       "input_channels": 182,
       "window_programmes": 4285,
       "current_programmes": 182,
-      "future_programmes": 3940,
+      "future_programmes": 3650,
       "invalid_programmes": 0,
-      "first": 1793685600,
-      "last": 1793779200
+      "first": 1793772000,
+      "last": 1793856900
     },
     {
       "id": "pluto-us",
       "priority": 5,
       "status": "downloaded",
       "url": "https://i.mjh.nz/PlutoTV/us.xml.gz",
-      "etag": "\"34e8a6dcdeb565ec8e98b71f80894baac646e7bdde0640fb81316aae33472dbf\"",
+      "etag": "\"b26780ba757a806478220465e2817194833bbc9f0f5d60e8afe202abbd7e3ead\"",
       "modified": null,
-      "fetched_at": 1793708348,
-      "sha256": "7844cd9403f7e1f415444effb2f9c73656eba134df2d30d48b4694cd19917664",
-      "input_channels": 456,
-      "window_programmes": 9212,
-      "current_programmes": 456,
-      "future_programmes": 8570,
+      "fetched_at": 1793795382,
+      "sha256": "e3dfdc6df017342e4394f905fffd66d31e1564c57d7d0ad5188f6d641c9c2f8d",
+      "input_channels": 457,
+      "window_programmes": 9297,
+      "current_programmes": 457,
+      "future_programmes": 8082,
       "invalid_programmes": 0,
-      "first": 1793682000,
-      "last": 1793797200
+      "first": 1793768400,
+      "last": 1793872800
     },
     {
       "id": "sports-supplement",
       "priority": 40,
       "status": "downloaded",
       "url": "https://raw.githubusercontent.com/farleyflex/epg-guide/main/epg.xml",
-      "etag": "\"8533e6d172f4bb3cb9ff405d4b4f5398c1bc5e039cf57c15a2683a1e30c513bc\"",
+      "etag": "\"0c4b18f8afbbf8e20841038c93a9bb7ff9307dfc95b114dd5a3d385ccfe17cc8\"",
       "modified": null,
-      "fetched_at": 1793708348,
-      "sha256": "53b46ba38f8432b71dad929ccefde1e0dc774ffc906e30d5ba88bed92e9dafe7",
+      "fetched_at": 1793795382,
+      "sha256": "4ad2d8d9e331ba272f5ae3e2460800a1ed13da184aa4bfca8f5b097caf851dae",
       "input_channels": 75,
-      "window_programmes": 8169,
-      "current_programmes": 73,
-      "future_programmes": 6420,
+      "window_programmes": 8036,
+      "current_programmes": 72,
+      "future_programmes": 6357,
       "invalid_programmes": 0,
-      "first": 1793577600,
-      "last": 1794056400
+      "first": 1793664000,
+      "last": 1794141000
     },
     {
       "id": "epgshare-us2",
       "priority": 35,
       "status": "downloaded",
       "url": "https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz",
-      "etag": "\"6ae9c7d2-6380d8\"",
-      "modified": "Tue, 03 Nov 2026 11:38:58 GMT",
-      "fetched_at": 1793708348,
-      "sha256": "9f220ea554a35c3b345a361df67f515ed3d61d57a3cdec3d02414b1ea919fa65",
+      "etag": "\"6aeb1945-63300a\"",
+      "modified": "Wed, 04 Nov 2026 11:38:45 GMT",
+      "fetched_at": 1793795382,
+      "sha256": "0e5cdc371d035a5344f4794fffd319669f73af87e946c0fac4893f0788f43f13",
       "input_channels": 786,
-      "window_programmes": 77163,
+      "window_programmes": 76905,
       "current_programmes": 770,
-      "future_programmes": 56341,
-      "invalid_programmes": 24,
-      "first": 1793577600,
-      "last": 1794027840
+      "future_programmes": 56465,
+      "invalid_programmes": 21,
+      "first": 1793664000,
+      "last": 1794114240
     },
     {
       "id": "epgshare-in1",
       "priority": 35,
       "status": "downloaded",
       "url": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
-      "etag": "\"6ae9c7ca-38f3c6\"",
-      "modified": "Tue, 03 Nov 2026 11:38:50 GMT",
-      "fetched_at": 1793708348,
-      "sha256": "d5079c75d910cf58e084c20b82d7b091d9ed4ed621042124497e8cfe86d75a4e",
+      "etag": "\"6aeb193c-39f41a\"",
+      "modified": "Wed, 04 Nov 2026 11:38:36 GMT",
+      "fetched_at": 1793795382,
+      "sha256": "c117206df4d6c28752d47b3a8c8d981b7982e4d6fd050b25a282b62e141987ac",
       "input_channels": 946,
-      "window_programmes": 102537,
-      "current_programmes": 706,
-      "future_programmes": 84073,
+      "window_programmes": 102011,
+      "current_programmes": 705,
+      "future_programmes": 83511,
       "invalid_programmes": 0,
-      "first": 1793644200,
-      "last": 1793989799
+      "first": 1793730600,
+      "last": 1794076199
     },
     {
       "id": "epgshare-de1",
       "priority": 35,
       "status": "downloaded",
       "url": "https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz",
-      "etag": "\"6ae9c7c6-348247\"",
-      "modified": "Tue, 03 Nov 2026 11:38:46 GMT",
-      "fetched_at": 1793708348,
-      "sha256": "eade2bfddaa12b5178a2508bbf194855dab0e6957cc689ea32b81e274d925332",
+      "etag": "\"6aeb1938-3eec15\"",
+      "modified": "Wed, 04 Nov 2026 11:38:32 GMT",
+      "fetched_at": 1793795382,
+      "sha256": "ecc7c8801e3241bc2d4c797b32fc161e6897cb229fff810bf5dd2ec5aad4671b",
       "input_channels": 266,
-      "window_programmes": 22530,
-      "current_programmes": 247,
-      "future_programmes": 19320,
+      "window_programmes": 24538,
+      "current_programmes": 248,
+      "future_programmes": 17654,
       "invalid_programmes": 0,
-      "first": 1793600642,
-      "last": 1794070800
+      "first": 1793661300,
+      "last": 1794109200
     },
     {
       "id": "epgshare-it1",
       "priority": 35,
       "status": "downloaded",
       "url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
-      "etag": "\"6ae9c7ca-18db83\"",
-      "modified": "Tue, 03 Nov 2026 11:38:50 GMT",
-      "fetched_at": 1793708348,
-      "sha256": "c704d89cca9d48aad47d2dcc79f284acc485f29e2a3ec62b5c2e963e48bfb2ff",
+      "etag": "\"6aeb193c-18dba9\"",
+      "modified": "Wed, 04 Nov 2026 11:38:36 GMT",
+      "fetched_at": 1793795382,
+      "sha256": "dc11d8508ef945b6f984a1e6ea4d72d263aa6efeea44ffdc5acdee421cf23f84",
       "input_channels": 195,
-      "window_programmes": 18685,
-      "current_programmes": 147,
-      "future_programmes": 13426,
-      "invalid_programmes": 3,
-      "first": 1793574000,
-      "last": 1794006300
+      "window_programmes": 18867,
+      "current_programmes": 154,
+      "future_programmes": 13651,
+      "invalid_programmes": 2,
+      "first": 1793660400,
+      "last": 1794092700
     },
     {
       "id": "epgshare-br1",
       "priority": 35,
       "status": "downloaded",
       "url": "https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz",
-      "etag": "\"6ae9c7c3-a1c90\"",
-      "modified": "Tue, 03 Nov 2026 11:38:43 GMT",
-      "fetched_at": 1793708348,
-      "sha256": "c6bc5bc5f6327fc3608cb36869fb36fae45d65df6fb89acfa57ed9250ff77cf1",
+      "etag": "\"6aeb1934-b0b70\"",
+      "modified": "Wed, 04 Nov 2026 11:38:28 GMT",
+      "fetched_at": 1793795382,
+      "sha256": "d5c5e4aab28d1f3e705d7c81c00a29a3a95feffc491ebc210454841b81f5e495",
       "input_channels": 266,
-      "window_programmes": 16392,
-      "current_programmes": 98,
-      "future_programmes": 14774,
-      "invalid_programmes": 1,
-      "first": 1793674800,
-      "last": 1794043800
+      "window_programmes": 18023,
+      "current_programmes": 109,
+      "future_programmes": 16182,
+      "invalid_programmes": 5,
+      "first": 1793761200,
+      "last": 1794126600
     },
     {
       "id": "epgshare-es1",
       "priority": 35,
       "status": "downloaded",
       "url": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
-      "etag": "\"6ae9c7c7-322424\"",
-      "modified": "Tue, 03 Nov 2026 11:38:47 GMT",
-      "fetched_at": 1793708348,
-      "sha256": "d3a8cecd5e9d2bc0e8367ec430d6eeb1c7f0a3048b8dc7c7472a870d2f14fc19",
+      "etag": "\"6aeb1939-322424\"",
+      "modified": "Wed, 04 Nov 2026 11:38:33 GMT",
+      "fetched_at": 1793795382,
+      "sha256": "fc473552655979d0e310a61b14055684ed574891d5d89aced73e2602993cc2d9",
       "input_channels": 373,
-      "window_programmes": 29608,
+      "window_programmes": 21648,
       "current_programmes": 339,
-      "future_programmes": 21694,
+      "future_programmes": 13019,
       "invalid_programmes": 528,
       "first": 1793574060,
       "last": 1794092400
@@ -609,34 +609,34 @@
       "priority": 35,
       "status": "downloaded",
       "url": "https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz",
-      "etag": "\"6ae9c7c2-371130\"",
-      "modified": "Tue, 03 Nov 2026 11:38:42 GMT",
-      "fetched_at": 1793708348,
-      "sha256": "4d846564fc4d637ac7076daff456155b5260d7cf56a7ab3ea8b1baa243e81375",
+      "etag": "\"6aeb1933-37ab27\"",
+      "modified": "Wed, 04 Nov 2026 11:38:27 GMT",
+      "fetched_at": 1793795382,
+      "sha256": "35612d15709361fecc2a24165be00c29b24099e722eebccbbcb07870fe8ab71f",
       "input_channels": 345,
-      "window_programmes": 50161,
-      "current_programmes": 281,
-      "future_programmes": 40649,
-      "invalid_programmes": 577,
-      "first": 1793548800,
-      "last": 1794209400
+      "window_programmes": 49872,
+      "current_programmes": 279,
+      "future_programmes": 40376,
+      "invalid_programmes": 589,
+      "first": 1793635200,
+      "last": 1794276000
     },
     {
       "id": "epgshare-fr1",
       "priority": 35,
       "status": "downloaded",
       "url": "https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz",
-      "etag": "\"6ae9c7c8-4e227a\"",
-      "modified": "Tue, 03 Nov 2026 11:38:48 GMT",
-      "fetched_at": 1793708348,
-      "sha256": "44867ab35f57a84038315e88727711e1a2b4bdc4655c6d488520c4a6a8a0d62e",
+      "etag": "\"6aeb193a-51f9e5\"",
+      "modified": "Wed, 04 Nov 2026 11:38:34 GMT",
+      "fetched_at": 1793795382,
+      "sha256": "fee84d86f6b1410fbdbe8b90d2f59fe4362ac29f93b698b4edc0763c4988b9aa",
       "input_channels": 574,
-      "window_programmes": 63789,
-      "current_programmes": 564,
-      "future_programmes": 49514,
-      "invalid_programmes": 57,
-      "first": 1793577600,
-      "last": 1794023700
+      "window_programmes": 69118,
+      "current_programmes": 566,
+      "future_programmes": 60712,
+      "invalid_programmes": 47,
+      "first": 1793746800,
+      "last": 1794128400
     },
     {
       "id": "inline-stirr",
@@ -660,15 +660,15 @@
       "id": "inline-lg",
       "priority": 5,
       "status": "downloaded",
-      "fetched_at": 1793708348,
+      "fetched_at": 1793795382,
       "kind": "public_inline_catalogue",
-      "input_channels": 191,
-      "window_programmes": 1774,
-      "current_programmes": 191,
-      "future_programmes": 1692,
+      "input_channels": 192,
+      "window_programmes": 1793,
+      "current_programmes": 192,
+      "future_programmes": 1681,
       "invalid_programmes": 0,
-      "first": 1793696400,
-      "last": 1793754000
+      "first": 1793771720,
+      "last": 1793840400
     },
     {
       "id": "inline-whale",
@@ -692,91 +692,91 @@
       "id": "inline-tubi",
       "priority": 5,
       "status": "downloaded",
-      "fetched_at": 1793708348,
+      "fetched_at": 1793795382,
       "kind": "public_inline_catalogue",
       "input_channels": 181,
-      "window_programmes": 7933,
+      "window_programmes": 8051,
       "current_programmes": 181,
-      "future_programmes": 7932,
+      "future_programmes": 8049,
       "invalid_programmes": 0,
-      "first": 1793697054,
-      "last": 1793847600
+      "first": 1793776999,
+      "last": 1793934000
     },
     {
       "id": "inline-localnow",
       "priority": 5,
       "status": "downloaded",
-      "fetched_at": 1793708348,
+      "fetched_at": 1793795382,
       "kind": "public_inline_catalogue",
-      "input_channels": 185,
-      "window_programmes": 925,
-      "current_programmes": 185,
-      "future_programmes": 925,
+      "input_channels": 188,
+      "window_programmes": 940,
+      "current_programmes": 188,
+      "future_programmes": 907,
       "invalid_programmes": 0,
-      "first": 1793687452,
-      "last": 1793775600
+      "first": 1793768400,
+      "last": 1793898000
     },
     {
       "id": "inline-freelivesports",
       "priority": 5,
       "status": "downloaded",
-      "fetched_at": 1793708348,
+      "fetched_at": 1793795382,
       "kind": "public_inline_catalogue",
       "input_channels": 102,
-      "window_programmes": 11418,
-      "current_programmes": 107,
-      "future_programmes": 11124,
+      "window_programmes": 11466,
+      "current_programmes": 108,
+      "future_programmes": 11157,
       "invalid_programmes": 0,
-      "first": 1793682000,
-      "last": 1794324060
+      "first": 1793768400,
+      "last": 1794409020
     },
     {
       "id": "roku-public-guide",
       "priority": 10,
       "status": "downloaded",
       "url": "https://i.mjh.nz/Roku/all.xml.gz",
-      "etag": "\"26c233e438666cc903864c52619e19110af1116866126fc0f30b91349994a7d3\"",
+      "etag": "\"a410d7f4c0284c0bc6c2d6d1163e9d31ea2498ddf1156c385aa03145d8a2871b\"",
       "modified": null,
-      "fetched_at": 1793708348,
-      "sha256": "9fd9188a90b961e53df000c5e15c541139858b1f5fa520b779c8d65dc5413146",
+      "fetched_at": 1793795383,
+      "sha256": "65b4a8d70ced6e5185872f5241a53ab75b04dcd6f0539ca8aef925902fd0081d",
       "input_channels": 725,
-      "window_programmes": 65280,
-      "current_programmes": 713,
-      "future_programmes": 64178,
+      "window_programmes": 66777,
+      "current_programmes": 720,
+      "future_programmes": 64672,
       "invalid_programmes": 0,
-      "first": 1793682000,
-      "last": 1794038460
+      "first": 1793760120,
+      "last": 1794070800
     },
     {
       "id": "supplement-ca2",
       "priority": 45,
       "status": "downloaded",
       "url": "https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz",
-      "etag": "\"6ae9c7c4-62a35a\"",
-      "modified": "Tue, 03 Nov 2026 11:38:44 GMT",
-      "fetched_at": 1793708348,
-      "sha256": "488b5846672cf10ac099f22b91114be142dadacd37e60a111299c916edf0e71a",
+      "etag": "\"6aeb1935-6481d7\"",
+      "modified": "Wed, 04 Nov 2026 11:38:29 GMT",
+      "fetched_at": 1793795382,
+      "sha256": "153676a25b2f67b371360b77bbaada926464c702798a7b55ec6679e4b133f4c0",
       "input_channels": 696,
-      "window_programmes": 69300,
+      "window_programmes": 68684,
       "current_programmes": 696,
-      "future_programmes": 64723,
-      "invalid_programmes": 0,
-      "first": 1793617200,
-      "last": 1794063600
+      "future_programmes": 64065,
+      "invalid_programmes": 1,
+      "first": 1793700000,
+      "last": 1794150000
     },
     {
       "id": "supplement-nl",
       "priority": 45,
       "status": "downloaded",
       "url": "https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz",
-      "etag": "\"6ae9c7cb-1cf172\"",
-      "modified": "Tue, 03 Nov 2026 11:38:51 GMT",
-      "fetched_at": 1793708348,
-      "sha256": "4be3d835afe709f31d0ad0e79281f077385f47cc766c767e6e4d7cd2e3c16016",
+      "etag": "\"6aeb193e-1cf172\"",
+      "modified": "Wed, 04 Nov 2026 11:38:38 GMT",
+      "fetched_at": 1793795382,
+      "sha256": "20fbb1c76879dfd32d3e6010451e30d0e6e733838f6a17593e7e4cd9bfafa2ba",
       "input_channels": 159,
-      "window_programmes": 23567,
+      "window_programmes": 20714,
       "current_programmes": 156,
-      "future_programmes": 20740,
+      "future_programmes": 14844,
       "invalid_programmes": 0,
       "first": 1793663100,
       "last": 1794034800
@@ -786,98 +786,98 @@
       "priority": 45,
       "status": "downloaded",
       "url": "https://epgshare01.online/epgshare01/epg_ripper_PL1.xml.gz",
-      "etag": "\"6ae9c7cd-87fd5f\"",
-      "modified": "Tue, 03 Nov 2026 11:38:53 GMT",
-      "fetched_at": 1793708348,
-      "sha256": "d584ba58c6b1463f963d4310b70bffd4477b66fb24380a3826ee60e16d2f270a",
+      "etag": "\"6aeb193f-8a84fc\"",
+      "modified": "Wed, 04 Nov 2026 11:38:39 GMT",
+      "fetched_at": 1793795382,
+      "sha256": "03c4d87c317d68d5d856343a08b90c89c7e5736d3e418e8c819a9468f80ab720",
       "input_channels": 636,
-      "window_programmes": 101814,
-      "current_programmes": 580,
-      "future_programmes": 79879,
-      "invalid_programmes": 2,
-      "first": 1793599200,
-      "last": 1794158100
+      "window_programmes": 101141,
+      "current_programmes": 581,
+      "future_programmes": 79397,
+      "invalid_programmes": 3,
+      "first": 1793685600,
+      "last": 1794200400
     },
     {
       "id": "supplement-tr",
       "priority": 45,
       "status": "downloaded",
       "url": "https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz",
-      "etag": "\"6ae9c7d1-28bad\"",
-      "modified": "Tue, 03 Nov 2026 11:38:57 GMT",
-      "fetched_at": 1793708348,
-      "sha256": "b3cacd66e3213ad314f3d23d3f52f6e61b35b5a86e4e90ed2502cfe1a4edd587",
+      "etag": "\"6aeb1943-273bb\"",
+      "modified": "Wed, 04 Nov 2026 11:38:43 GMT",
+      "fetched_at": 1793795382,
+      "sha256": "2e51614132cfebee19313a2d5985b5abb58406359e583b873c08ac2d97ecb67b",
       "input_channels": 178,
-      "window_programmes": 15245,
-      "current_programmes": 141,
-      "future_programmes": 12043,
+      "window_programmes": 12119,
+      "current_programmes": 140,
+      "future_programmes": 7096,
       "invalid_programmes": 1,
       "first": 1793653200,
-      "last": 1794024000
+      "last": 1794001500
     },
     {
       "id": "xumo-public-guide",
       "priority": 10,
       "status": "downloaded",
       "url": "https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz",
-      "etag": "\"7ad2f4a3aa1a413ac65d4275f1ecd76e3a59f33192ddb9abf68da737406c6f6f\"",
+      "etag": "\"f11cb817f95e6f24b137b9cdf061ef8548485484c1114727269991fb30786bf7\"",
       "modified": null,
-      "fetched_at": 1793708348,
-      "sha256": "b5ebc73a297eb7b2a055d7bd5f47710be45c7e402ca4a5f05b5290bf14d73dbc",
+      "fetched_at": 1793795382,
+      "sha256": "7c0aef6eb29ee85a2561f5ffc5524fff530805383d4bbe5d5a56e5d633b575df",
       "input_channels": 433,
-      "window_programmes": 22315,
+      "window_programmes": 22423,
       "current_programmes": 382,
-      "future_programmes": 16658,
+      "future_programmes": 16795,
       "invalid_programmes": 0,
-      "first": 1793582258,
-      "last": 1793900999
+      "first": 1793688505,
+      "last": 1794007246
     },
     {
       "id": "epgtalk-uk-gaps",
       "priority": 60,
-      "status": "not_modified",
+      "status": "downloaded",
       "url": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/UK_guide.xml.gz",
-      "etag": "\"c5f8f83f4587e8b4df4e17235688a9ba25439f0f308c43b9f323aa9d2e53b461\"",
+      "etag": "\"465dfc5f5cc69cf9dff23656e2cf13c55fd7fb4a41b7127e7c8ae0f2cfbc10f7\"",
       "modified": null,
-      "fetched_at": 1793623844,
-      "sha256": "104d20645fa98b303563a58309443ac3d7e293c6a9262e66e0d850f62ae6d8c4",
+      "fetched_at": 1793795382,
+      "sha256": "36fcec2ea266b720976a85ac43e95dcd12ee06b1e7d1dcb1cd48654a4cab73b9",
       "input_channels": 560,
-      "window_programmes": 96911,
+      "window_programmes": 101504,
       "current_programmes": 560,
-      "future_programmes": 82148,
+      "future_programmes": 97723,
       "invalid_programmes": 0,
-      "first": 1793577600,
-      "last": 1794225600
+      "first": 1793750400,
+      "last": 1794398100
     },
     {
       "id": "epgtalk-us-gaps",
       "priority": 60,
-      "status": "not_modified",
+      "status": "downloaded",
       "url": "https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_guide.xml.gz",
-      "etag": "\"7ba517af08e35bdb513e51945d98d969e12269578f857a70fa67ed8baf88d5fb\"",
+      "etag": "\"284c5e199e16189e672ebbfd090cc0b7748d0bc4a8baf30fd69de40821da289e\"",
       "modified": null,
-      "fetched_at": 1793623844,
-      "sha256": "ce556cf7913e9afb718e551bdfe0083a3fe30a4fe9cd0bd795b6da67183e3388",
+      "fetched_at": 1793795382,
+      "sha256": "edd7043ccc06f56bd19b8166c2cc8e80f072bbdcfa2bdc608afed553a46f69c4",
       "input_channels": 739,
-      "window_programmes": 121509,
+      "window_programmes": 126645,
       "current_programmes": 739,
-      "future_programmes": 103182,
+      "future_programmes": 121702,
       "invalid_programmes": 0,
-      "first": 1793577600,
-      "last": 1794243600
+      "first": 1793750400,
+      "last": 1794416400
     },
     {
       "id": "previous-published",
       "priority": 10000,
       "status": "published_cache",
-      "published_at": "2026-11-02T12:50:42+00:00",
-      "input_channels": 14281,
-      "window_programmes": 994206,
-      "current_programmes": 10625,
-      "future_programmes": 630473,
+      "published_at": "2026-11-03T12:19:06+00:00",
+      "input_channels": 14039,
+      "window_programmes": 1023017,
+      "current_programmes": 10829,
+      "future_programmes": 661109,
       "invalid_programmes": 0,
-      "first": 1793442922,
-      "last": 1794232800
+      "first": 1793457900,
+      "last": 1794324060
     }
   ],
   "inventory_sources": [
@@ -889,12 +889,12 @@
     {
       "id": "iptv-org",
       "status": "fresh",
-      "rows": 11403
+      "rows": 11399
     },
     {
       "id": "inline-inventory-whale",
       "status": "public_provider_snapshot",
-      "rows": 132
+      "rows": 134
     },
     {
       "id": "inline-inventory-xumo",
@@ -909,7 +909,7 @@
     {
       "id": "inline-inventory-localnow",
       "status": "public_provider_snapshot",
-      "rows": 185
+      "rows": 188
     },
     {
       "id": "inline-inventory-tubi",
@@ -919,7 +919,7 @@
     {
       "id": "inline-inventory-vizio",
       "status": "public_provider_snapshot",
-      "rows": 468
+      "rows": 482
     },
     {
       "id": "inline-inventory-roku",
@@ -934,7 +934,7 @@
     {
       "id": "inline-inventory-lg",
       "status": "public_provider_snapshot",
-      "rows": 191
+      "rows": 192
     },
     {
       "id": "inline-inventory-tcl",
@@ -957,7 +957,7 @@
       "future": 0
     },
     "ar": {
-      "assessed": 196,
+      "assessed": 195,
       "matched": 0,
       "current": 0,
       "future": 0
@@ -993,10 +993,10 @@
       "future": 0
     },
     "unknown/provider-native": {
-      "assessed": 3665,
-      "matched": 1762,
-      "current": 1756,
-      "future": 1756
+      "assessed": 3685,
+      "matched": 1766,
+      "current": 1765,
+      "future": 1763
     },
     "by": {
       "assessed": 23,
@@ -1029,7 +1029,7 @@
       "future": 3
     },
     "bg": {
-      "assessed": 67,
+      "assessed": 68,
       "matched": 0,
       "current": 0,
       "future": 0
@@ -1125,7 +1125,7 @@
       "future": 0
     },
     "fr": {
-      "assessed": 187,
+      "assessed": 188,
       "matched": 63,
       "current": 63,
       "future": 63
@@ -1179,7 +1179,7 @@
       "future": 0
     },
     "in": {
-      "assessed": 787,
+      "assessed": 785,
       "matched": 294,
       "current": 294,
       "future": 294
@@ -1211,8 +1211,8 @@
     "it": {
       "assessed": 334,
       "matched": 66,
-      "current": 63,
-      "future": 64
+      "current": 66,
+      "future": 66
     },
     "va": {
       "assessed": 1,
@@ -1389,7 +1389,7 @@
       "future": 0
     },
     "ro": {
-      "assessed": 162,
+      "assessed": 158,
       "matched": 0,
       "current": 0,
       "future": 0
@@ -1431,10 +1431,10 @@
       "future": 0
     },
     "uk": {
-      "assessed": 236,
-      "matched": 114,
-      "current": 114,
-      "future": 114
+      "assessed": 235,
+      "matched": 115,
+      "current": 115,
+      "future": 115
     },
     "se": {
       "assessed": 203,
@@ -1473,10 +1473,10 @@
       "future": 0
     },
     "us": {
-      "assessed": 1662,
-      "matched": 418,
-      "current": 418,
-      "future": 418
+      "assessed": 1661,
+      "matched": 417,
+      "current": 417,
+      "future": 417
     },
     "ve": {
       "assessed": 71,
@@ -2055,11 +2055,11 @@
       "future": 0
     }
   },
-  "assessed_channels": 14530,
-  "matched_channels": 3033,
-  "assessed_current_channels": 3024,
-  "assessed_future_channels": 3025,
-  "unmatched_channels": 11497,
-  "sha256": "2ecda3f8f67fb1e544cb90fc8528aa60b694ca7bd60aea57904901fe21de63ea",
-  "compressed_bytes": 57039653
+  "assessed_channels": 14543,
+  "matched_channels": 3037,
+  "assessed_current_channels": 3036,
+  "assessed_future_channels": 3034,
+  "unmatched_channels": 11506,
+  "sha256": "189794766ebdee287d01772d75e2409bb83387f875f360743026eebf3a72bad7",
+  "compressed_bytes": 56979984
 }
