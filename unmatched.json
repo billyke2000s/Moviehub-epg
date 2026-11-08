@@ -7284,6 +7284,336 @@
     "list": "free-tv"
   },
   {
+    "name": "American Crime Channel",
+    "epg_id": "AmericanCrimeChannel.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "AXN Black (United States) Poland (576p) Ⓢ",
+    "epg_id": "AXNBlack.us",
+    "country": "us",
+    "list": "free-tv"
+  },
+  {
+    "name": "AXN Poland (1080p)",
+    "epg_id": "AXNPoland.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "AXN White (United States) Poland (576p) Ⓢ",
+    "epg_id": "AXNWhite.us",
+    "country": "us",
+    "list": "free-tv"
+  },
+  {
+    "name": "Bialogardzka Telewizja Kablowa (1080p)",
+    "epg_id": "BialogardzkaTelewizjaKablowa.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "Bigtime Ⓢ",
+    "epg_id": "Bigtime.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "BTB 2 (1080p)",
+    "epg_id": "BTB2.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "BTB (1080p)",
+    "epg_id": "BTB.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "BTB Info (1080p)",
+    "epg_id": "BTBInfo.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "Buzzfeed Unsolved",
+    "epg_id": "BuzzfeedUnsolved.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "CANAL+ 360 (576i) Ⓢ",
+    "epg_id": "CANALPlus360.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "Car City Adventures Ⓢ",
+    "epg_id": "CarCityAdventures.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "CBeebies (Poland) (576p) Ⓢ",
+    "epg_id": "CBeebies.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "Crime + Investigation Polsat (576i) Ⓢ",
+    "epg_id": "CrimePlusInvestigationPolsat.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "Dr G Medical Examiner",
+    "epg_id": "DrGMedicalExaminer.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "EWTN Poland (1080p)",
+    "epg_id": "EWTNPoland.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "FightBox Poland (576i) Ⓢ",
+    "epg_id": "FightBox.nl",
+    "country": "nl",
+    "list": "free-tv"
+  },
+  {
+    "name": "FILMBOX+ Action (720p)",
+    "epg_id": "FILMBOXPlusAction.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "FILMBOX+ Comedy (720p)",
+    "epg_id": "FILMBOXPlusComedy.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "FILMBOX+ Emotion (720p)",
+    "epg_id": "FILMBOXPlusEmotion.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "FILMBOX+ Festival Poland",
+    "epg_id": "FILMBOXPlusFestival.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "FILMBOX+ Hits (576i) Ⓢ",
+    "epg_id": "FILMBOXPlusHits.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "Grjngo Ⓢ",
+    "epg_id": "Grjngo.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "Hard Knocks Fighting Championship Ⓢ",
+    "epg_id": "HardKnocksFightingChampionship.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "Mango (Poland) (1080p) [Geo-blocked]",
+    "epg_id": "Mango.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "Moconomy Ⓢ",
+    "epg_id": "Moconomy.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "Newsmax Polska (576i) Ⓢ",
+    "epg_id": "NewsmaxPolska.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "NewsWorld (1080p)",
+    "epg_id": "NewsWorld.hk",
+    "country": "hk",
+    "list": "free-tv"
+  },
+  {
+    "name": "NewTV (1080p)",
+    "epg_id": "NewTV.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "Polsat News Polityka (1080p) [Geo-blocked]",
+    "epg_id": "PolsatNewsPolityka.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "RACER International (1080p)",
+    "epg_id": "RACERInternational.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "Radio RAM (1080p)",
+    "epg_id": "RadioRAM.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "Radiowa Czworka (1080p)",
+    "epg_id": "RadiowaCzworka.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "Red Carpet TV International (1080p)",
+    "epg_id": "RedCarpetTVInternational.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "Remonty TV (1080p)",
+    "epg_id": "RemontyTV.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "Royalworld",
+    "epg_id": "Royalworld.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "Sfera TV (480p) [Not 24/7] Ⓢ",
+    "epg_id": "SferaTV.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "Stopklatka TV Ⓢ",
+    "epg_id": "StopklatkaTV.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "Super Express TV (1080p)",
+    "epg_id": "SuperExpressTV.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "Telewizja Biznesowa (1080p)",
+    "epg_id": "TelewizjaBiznesowa.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "Telewizja iTTV (1080p)",
+    "epg_id": "TelewizjaiTTV.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "Telewizja Jaslo (720p)",
+    "epg_id": "TelewizjaJaslo.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "Telewizja Luban (720p) [Not 24/7]",
+    "epg_id": "TelewizjaLuban.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "Telewizja Regionalna Zary Ⓢ",
+    "epg_id": "TelewizjaRegionalnaZary.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "Telewizja Relax (1080p)",
+    "epg_id": "TelewizjaRelax.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "TNA Wrestling Channel (720p)",
+    "epg_id": "TNAWrestlingChannel.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "TOP Barca (1080p)",
+    "epg_id": "TOPBarca.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "Top Movies Polska (1080p)",
+    "epg_id": "TopMoviesPolska.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "TV Kujawy (576p) [Not 24/7] Ⓢ",
+    "epg_id": "TVKujawy.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "TV Torun (1080p) [Not 24/7]",
+    "epg_id": "TVTorun.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "TVK Stella (576p) Ⓢ",
+    "epg_id": "TVKStella.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "Viasat Epic Drama Poland (1080p)",
+    "epg_id": "ViasatEpicDrama.uk",
+    "country": "uk",
+    "list": "free-tv"
+  },
+  {
+    "name": "Viasat Explore Classic (720p)",
+    "epg_id": "ViasatExploreClassic.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "wedotv Auta (480p) Ⓢ",
+    "epg_id": "wedotvAuta.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
+    "name": "World Billiards Ⓢ",
+    "epg_id": "WorldBilliards.pl",
+    "country": "pl",
+    "list": "free-tv"
+  },
+  {
     "name": "RTP1",
     "epg_id": "RTP1.pt",
     "country": "pt",
@@ -10890,6 +11220,12 @@
     "list": "iptv-org"
   },
   {
+    "name": "13eme Rue",
+    "epg_id": "13emeRue.fr@SD",
+    "country": "fr",
+    "list": "iptv-org"
+  },
+  {
     "name": "13 Festival (1080p)",
     "epg_id": "13Festival.cl@SD",
     "country": "cl",
@@ -11172,6 +11508,12 @@
     "list": "iptv-org"
   },
   {
+    "name": "123TV (480p)",
+    "epg_id": "123TV.ve@SD",
+    "country": "ve",
+    "list": "iptv-org"
+  },
+  {
     "name": "247 Box TV",
     "epg_id": "247BoxTV.ir@SD",
     "country": "ir",
@@ -11244,9 +11586,39 @@
     "list": "iptv-org"
   },
   {
+    "name": "¡OPA! (720p)",
+    "epg_id": "OPA.cr@SD",
+    "country": "cr",
+    "list": "iptv-org"
+  },
+  {
+    "name": "¡Viva Latino! (1080p)",
+    "epg_id": "VivaLatino.ua@SD",
+    "country": "ua",
+    "list": "iptv-org"
+  },
+  {
+    "name": "&pictures HD (1080p)",
+    "epg_id": "Andpictures.in@HD",
+    "country": "in",
+    "list": "iptv-org"
+  },
+  {
     "name": "&TV International (1080p)",
     "epg_id": "AndTV.in@International",
     "country": "in",
+    "list": "iptv-org"
+  },
+  {
+    "name": "+MaisUm (720p)",
+    "epg_id": "PlusMaisUm.br@HD",
+    "country": "br",
+    "list": "iptv-org"
+  },
+  {
+    "name": "+TV (576p) [Geo-blocked]",
+    "epg_id": "PlusTV.by@SD",
+    "country": "by",
     "list": "iptv-org"
   },
   {
@@ -11271,36 +11643,6 @@
     "name": ":24 (1080p)",
     "epg_id": "24.sk@SD",
     "country": "sk",
-    "list": "iptv-org"
-  },
-  {
-    "name": "¡OPA! (720p)",
-    "epg_id": "OPA.cr@SD",
-    "country": "cr",
-    "list": "iptv-org"
-  },
-  {
-    "name": "¡Viva Latino! (1080p)",
-    "epg_id": "VivaLatino.ua@SD",
-    "country": "ua",
-    "list": "iptv-org"
-  },
-  {
-    "name": "&pictures HD (1080p)",
-    "epg_id": "Andpictures.in@HD",
-    "country": "in",
-    "list": "iptv-org"
-  },
-  {
-    "name": "+MaisUm (720p)",
-    "epg_id": "PlusMaisUm.br@HD",
-    "country": "br",
-    "list": "iptv-org"
-  },
-  {
-    "name": "+TV (576p) [Geo-blocked]",
-    "epg_id": "PlusTV.by@SD",
-    "country": "by",
     "list": "iptv-org"
   },
   {
@@ -13182,12 +13524,6 @@
     "list": "iptv-org"
   },
   {
-    "name": "American Crime Channel (720p)",
-    "epg_id": "AmericanCrimeChannel.pl@Poland",
-    "country": "pl",
-    "list": "iptv-org"
-  },
-  {
     "name": "American Horrors (480p)",
     "epg_id": "AmericanHorrors.us@SD",
     "country": "us",
@@ -13434,6 +13770,12 @@
     "list": "iptv-org"
   },
   {
+    "name": "Animal Planet (Bulgaria)",
+    "epg_id": "AnimalPlanet.bg@SD",
+    "country": "bg",
+    "list": "iptv-org"
+  },
+  {
     "name": "Animal Planet (Czech Republic)",
     "epg_id": "AnimalPlanet.cz@SD",
     "country": "cz",
@@ -13545,6 +13887,12 @@
     "name": "Antena 3 Constanta (576p)",
     "epg_id": "Antena3Constanta.ro@SD",
     "country": "ro",
+    "list": "iptv-org"
+  },
+  {
+    "name": "Antena 3 Internacional (1080p)",
+    "epg_id": "Antena3Internacional.es@SD",
+    "country": "es",
     "list": "iptv-org"
   },
   {
@@ -14748,7 +15096,7 @@
     "list": "iptv-org"
   },
   {
-    "name": "AXN Adria",
+    "name": "AXN Adria (576p)",
     "epg_id": "AXNAdria.us@SD",
     "country": "us",
     "list": "iptv-org"
@@ -14757,12 +15105,6 @@
     "name": "AXN Asia Indonesia",
     "epg_id": "AXNAsia.sg@Indonesia",
     "country": "sg",
-    "list": "iptv-org"
-  },
-  {
-    "name": "AXN Black (United States)",
-    "epg_id": "AXNBlack.us@Bulgary",
-    "country": "us",
     "list": "iptv-org"
   },
   {
@@ -14790,21 +15132,9 @@
     "list": "iptv-org"
   },
   {
-    "name": "AXN Poland (1080p)",
-    "epg_id": "AXNPoland.pl@SD",
-    "country": "pl",
-    "list": "iptv-org"
-  },
-  {
     "name": "AXN Spin (Hungary)",
     "epg_id": "AXNSpin.hu@SD",
     "country": "hu",
-    "list": "iptv-org"
-  },
-  {
-    "name": "AXN White (United States)",
-    "epg_id": "AXNWhite.us@SD",
-    "country": "us",
     "list": "iptv-org"
   },
   {
@@ -15342,8 +15672,8 @@
     "list": "iptv-org"
   },
   {
-    "name": "BBC First Romania",
-    "epg_id": "BBCFirst.uk@Romania",
+    "name": "BBC First Turkiye",
+    "epg_id": "BBCFirst.uk@Turkiye",
     "country": "uk",
     "list": "iptv-org"
   },
@@ -15633,6 +15963,60 @@
     "name": "Beijing Satellite TV [Not 24/7]",
     "epg_id": "BeijingSatelliteTV.cn@SD",
     "country": "cn",
+    "list": "iptv-org"
+  },
+  {
+    "name": "beIN Sports 1",
+    "epg_id": "beINSports1.qa@MENA",
+    "country": "qa",
+    "list": "iptv-org"
+  },
+  {
+    "name": "beIN Sports 2",
+    "epg_id": "beINSports2.qa@MENA",
+    "country": "qa",
+    "list": "iptv-org"
+  },
+  {
+    "name": "beIN Sports 3",
+    "epg_id": "beINSports3.qa@MENA",
+    "country": "qa",
+    "list": "iptv-org"
+  },
+  {
+    "name": "beIN Sports 4",
+    "epg_id": "beINSports4.qa@MENA",
+    "country": "qa",
+    "list": "iptv-org"
+  },
+  {
+    "name": "beIN Sports 5",
+    "epg_id": "beINSports5.qa@MENA",
+    "country": "qa",
+    "list": "iptv-org"
+  },
+  {
+    "name": "beIN Sports 6",
+    "epg_id": "beINSports6.qa@MENA",
+    "country": "qa",
+    "list": "iptv-org"
+  },
+  {
+    "name": "beIN Sports 7",
+    "epg_id": "beINSports7.qa@MENA",
+    "country": "qa",
+    "list": "iptv-org"
+  },
+  {
+    "name": "beIN Sports 8",
+    "epg_id": "beINSports8.qa@MENA",
+    "country": "qa",
+    "list": "iptv-org"
+  },
+  {
+    "name": "beIN Sports 9",
+    "epg_id": "beINSports9.qa@MENA",
+    "country": "qa",
     "list": "iptv-org"
   },
   {
@@ -15948,12 +16332,6 @@
     "list": "iptv-org"
   },
   {
-    "name": "Bialogardzka Telewizja Kablowa (1080p)",
-    "epg_id": "BialogardzkaTelewizjaKablowa.pl@HD",
-    "country": "pl",
-    "list": "iptv-org"
-  },
-  {
     "name": "Bibel TV Impuls (720p)",
     "epg_id": "BibelTVImpuls.de@SD",
     "country": "de",
@@ -16011,12 +16389,6 @@
     "name": "Big TV 24x7 (1080p)",
     "epg_id": "BigTV24x7.in@SD",
     "country": "in",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Bigtime (720p)",
-    "epg_id": "Bigtime.pl@SD",
-    "country": "pl",
     "list": "iptv-org"
   },
   {
@@ -16686,26 +17058,8 @@
     "list": "iptv-org"
   },
   {
-    "name": "BTB 2 (1080p)",
-    "epg_id": "BTB2.pl@SD",
-    "country": "pl",
-    "list": "iptv-org"
-  },
-  {
     "name": "BTB 3 (1080p)",
     "epg_id": "BTB3.pl@HD",
-    "country": "pl",
-    "list": "iptv-org"
-  },
-  {
-    "name": "BTB (1080p)",
-    "epg_id": "BTB.pl@SD",
-    "country": "pl",
-    "list": "iptv-org"
-  },
-  {
-    "name": "BTB Info (1080p)",
-    "epg_id": "BTBInfo.pl@SD",
     "country": "pl",
     "list": "iptv-org"
   },
@@ -16899,12 +17253,6 @@
     "name": "Buying Blind Denmark",
     "epg_id": "BuyingBlindDenmark.se@SE",
     "country": "se",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Buzzfeed Unsolved (720p)",
-    "epg_id": "BuzzfeedUnsolved.pl@FAST",
-    "country": "pl",
     "list": "iptv-org"
   },
   {
@@ -17511,6 +17859,12 @@
     "name": "Canal 8 San Juan (720p) [Not 24/7]",
     "epg_id": "Canal8SanJuan.ar@SD",
     "country": "ar",
+    "list": "iptv-org"
+  },
+  {
+    "name": "Canal 8 Sincelejo (720p)",
+    "epg_id": "Canal8Sincelejo.co@SD",
+    "country": "co",
     "list": "iptv-org"
   },
   {
@@ -18522,12 +18876,6 @@
     "list": "iptv-org"
   },
   {
-    "name": "CANAL+ 360 (576i)",
-    "epg_id": "CANALPlus360.pl@SD",
-    "country": "pl",
-    "list": "iptv-org"
-  },
-  {
     "name": "Canal+ Action Europe (360p)",
     "epg_id": "CanalPlusActionEurope.nl@Netherlands",
     "country": "nl",
@@ -18729,12 +19077,6 @@
     "name": "Car Chase (Sweden) (720p)",
     "epg_id": "CarChase.se@SE",
     "country": "se",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Car City Adventures (720p)",
-    "epg_id": "CarCityAdventures.pl@SD",
-    "country": "pl",
     "list": "iptv-org"
   },
   {
@@ -19035,12 +19377,6 @@
     "name": "CBC TV8 (1080p) [Not 24/7]",
     "epg_id": "CBCTV8.bb@SD",
     "country": "bb",
-    "list": "iptv-org"
-  },
-  {
-    "name": "CBeebies (Poland) (576p)",
-    "epg_id": "CBeebies.pl@SD",
-    "country": "pl",
     "list": "iptv-org"
   },
   {
@@ -19767,6 +20103,12 @@
     "name": "Chef TV (720p)",
     "epg_id": "ChefTV.br@SD",
     "country": "br",
+    "list": "iptv-org"
+  },
+  {
+    "name": "Chefi la cutite (576i)",
+    "epg_id": "Chefilacutite.ro@SD",
+    "country": "ro",
     "list": "iptv-org"
   },
   {
@@ -20958,6 +21300,12 @@
     "list": "iptv-org"
   },
   {
+    "name": "Colombeia (576p)",
+    "epg_id": "Colombeia.ve@SD",
+    "country": "ve",
+    "list": "iptv-org"
+  },
+  {
     "name": "Colome TV [Not 24/7]",
     "epg_id": "ColomeTV.do@HD",
     "country": "do",
@@ -21300,7 +21648,7 @@
     "list": "iptv-org"
   },
   {
-    "name": "Corazon TV",
+    "name": "Corazon TV (720p)",
     "epg_id": "CorazonTV.pa@SD",
     "country": "pa",
     "list": "iptv-org"
@@ -21483,12 +21831,6 @@
     "name": "Crime + Investigation CEE",
     "epg_id": "CrimePlusInvestigationCEE.uk@SD",
     "country": "uk",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Crime + Investigation Polsat (576i)",
-    "epg_id": "CrimePlusInvestigationPolsat.pl@SD",
-    "country": "pl",
     "list": "iptv-org"
   },
   {
@@ -21723,6 +22065,12 @@
     "name": "CTV (United States) (480p)",
     "epg_id": "CTV.us@SD",
     "country": "us",
+    "list": "iptv-org"
+  },
+  {
+    "name": "CTV Dla Ciebie TV",
+    "epg_id": "CTVDlaCiebieTV.ee@SD",
+    "country": "ee",
     "list": "iptv-org"
   },
   {
@@ -22098,8 +22446,14 @@
     "list": "iptv-org"
   },
   {
-    "name": "DAZN 1 Portugal",
-    "epg_id": "DAZN1.uk@Portugal",
+    "name": "DAZN 1 Germany",
+    "epg_id": "DAZN1.uk@Germany",
+    "country": "uk",
+    "list": "iptv-org"
+  },
+  {
+    "name": "DAZN 2 Germany",
+    "epg_id": "DAZN2.uk@Germany",
     "country": "uk",
     "list": "iptv-org"
   },
@@ -23040,12 +23394,6 @@
     "list": "iptv-org"
   },
   {
-    "name": "Disney International HD (576p)",
-    "epg_id": "DisneyInternationalHD.in@SD",
-    "country": "in",
-    "list": "iptv-org"
-  },
-  {
     "name": "Disney Jr. (France) (1080p)",
     "epg_id": "DisneyJr.fr@SD",
     "country": "fr",
@@ -23067,12 +23415,6 @@
     "name": "Disney Junior (Czech Republic)",
     "epg_id": "DisneyJunior.cz@SD",
     "country": "cz",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Disney Junior (India) (576p)",
-    "epg_id": "DisneyJunior.in@SD",
-    "country": "in",
     "list": "iptv-org"
   },
   {
@@ -23469,12 +23811,6 @@
     "name": "Doyel TV (1080p)",
     "epg_id": "DoyelTV.ca@SD",
     "country": "ca",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Dr G Medical Examiner (720p)",
-    "epg_id": "DrGMedicalExaminer.pl@HD",
-    "country": "pl",
     "list": "iptv-org"
   },
   {
@@ -24246,7 +24582,7 @@
     "list": "iptv-org"
   },
   {
-    "name": "El Mundo del Campo (720p)",
+    "name": "El Mundo del Campo (1080p)",
     "epg_id": "ElMundodelCampo.co@SD",
     "country": "co",
     "list": "iptv-org"
@@ -24662,12 +24998,6 @@
   {
     "name": "Epic Music (576p)",
     "epg_id": "EpicMusic.in@SD",
-    "country": "in",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Epic Parivar (576p)",
-    "epg_id": "EpicParivar.in@SD",
     "country": "in",
     "list": "iptv-org"
   },
@@ -25104,15 +25434,15 @@
     "list": "iptv-org"
   },
   {
-    "name": "Eurocom (360p)",
-    "epg_id": "Eurocom.bg@SD",
-    "country": "bg",
+    "name": "Eurochannel",
+    "epg_id": "Eurochannel.uk@SD",
+    "country": "uk",
     "list": "iptv-org"
   },
   {
-    "name": "Euronews (720p)",
-    "epg_id": "Euronews.pl@FAST",
-    "country": "pl",
+    "name": "Eurocom (360p)",
+    "epg_id": "Eurocom.bg@SD",
+    "country": "bg",
     "list": "iptv-org"
   },
   {
@@ -25134,8 +25464,8 @@
     "list": "iptv-org"
   },
   {
-    "name": "Eurosport 1 Czechia",
-    "epg_id": "Eurosport1.fr@Czechia",
+    "name": "Eurosport 1 Bulgaria",
+    "epg_id": "Eurosport1.fr@Bulgaria",
     "country": "fr",
     "list": "iptv-org"
   },
@@ -25146,8 +25476,8 @@
     "list": "iptv-org"
   },
   {
-    "name": "Eurosport 2 Czechia",
-    "epg_id": "Eurosport2.fr@Czechia",
+    "name": "Eurosport 2 Bulgaria",
+    "epg_id": "Eurosport2.fr@Bulgaria",
     "country": "fr",
     "list": "iptv-org"
   },
@@ -25164,9 +25494,21 @@
     "list": "iptv-org"
   },
   {
+    "name": "Eurosport 4K Romania (2160p) [Geo-blocked]",
+    "epg_id": "Eurosport4K.fr@Romania",
+    "country": "fr",
+    "list": "iptv-org"
+  },
+  {
     "name": "Eurosport 4K Czechia",
     "epg_id": "Eurosport4KCzechia.cz@UHD",
     "country": "cz",
+    "list": "iptv-org"
+  },
+  {
+    "name": "Eurosport (France)",
+    "epg_id": "Eurosport.fr@Asia",
+    "country": "fr",
     "list": "iptv-org"
   },
   {
@@ -25239,12 +25581,6 @@
     "name": "EWTN Espana",
     "epg_id": "EWTNEspana.es@SD",
     "country": "es",
-    "list": "iptv-org"
-  },
-  {
-    "name": "EWTN Poland (1080p)",
-    "epg_id": "EWTNPoland.pl@SD",
-    "country": "pl",
     "list": "iptv-org"
   },
   {
@@ -25377,12 +25713,6 @@
     "name": "Fabulosa Estereo 100.5 FM (720p)",
     "epg_id": "FabulosaEstereo1005FM.pa@SD",
     "country": "pa",
-    "list": "iptv-org"
-  },
-  {
-    "name": "FailArmy (720p)",
-    "epg_id": "FailArmy.us@US",
-    "country": "us",
     "list": "iptv-org"
   },
   {
@@ -25782,12 +26112,6 @@
     "list": "iptv-org"
   },
   {
-    "name": "FightBox",
-    "epg_id": "FightBox.nl@SD",
-    "country": "nl",
-    "list": "iptv-org"
-  },
-  {
     "name": "FilAmTV Network (1080p)",
     "epg_id": "FilAmTVNetwork.us@HD",
     "country": "us",
@@ -25812,12 +26136,6 @@
     "list": "iptv-org"
   },
   {
-    "name": "Film Now",
-    "epg_id": "FilmNow.ro@SD",
-    "country": "ro",
-    "list": "iptv-org"
-  },
-  {
     "name": "Film+ (Czech Republic)",
     "epg_id": "FilmPlus.cz@SD",
     "country": "cz",
@@ -25839,36 +26157,6 @@
     "name": "Filmazia (576p)",
     "epg_id": "Filmazia.pk@SD",
     "country": "pk",
-    "list": "iptv-org"
-  },
-  {
-    "name": "FILMBOX+ Action (720p)",
-    "epg_id": "FILMBOXPlusAction.pl@HD",
-    "country": "pl",
-    "list": "iptv-org"
-  },
-  {
-    "name": "FILMBOX+ Comedy (720p)",
-    "epg_id": "FILMBOXPlusComedy.pl@Poland",
-    "country": "pl",
-    "list": "iptv-org"
-  },
-  {
-    "name": "FILMBOX+ Emotion (720p)",
-    "epg_id": "FILMBOXPlusEmotion.pl@Poland",
-    "country": "pl",
-    "list": "iptv-org"
-  },
-  {
-    "name": "FILMBOX+ Festival",
-    "epg_id": "FILMBOXPlusFestival.pl@SD",
-    "country": "pl",
-    "list": "iptv-org"
-  },
-  {
-    "name": "FILMBOX+ Hits (576i)",
-    "epg_id": "FILMBOXPlusHits.pl@Poland",
-    "country": "pl",
     "list": "iptv-org"
   },
   {
@@ -26025,6 +26313,12 @@
     "name": "FM Plus TV (720p)",
     "epg_id": "FMPlusTV.cl@SD",
     "country": "cl",
+    "list": "iptv-org"
+  },
+  {
+    "name": "FMH Kids (720p)",
+    "epg_id": "FMHKids.us@SD",
+    "country": "us",
     "list": "iptv-org"
   },
   {
@@ -26199,6 +26493,12 @@
     "name": "Fox Life (576p)",
     "epg_id": "FoxLife.ru@SD",
     "country": "ru",
+    "list": "iptv-org"
+  },
+  {
+    "name": "Fox News International",
+    "epg_id": "FoxNewsInternational.us@SD",
+    "country": "us",
     "list": "iptv-org"
   },
   {
@@ -27090,12 +27390,6 @@
     "list": "iptv-org"
   },
   {
-    "name": "Glory Kickboxing Poland (720p)",
-    "epg_id": "GloryKickboxing.us@Poland",
-    "country": "us",
-    "list": "iptv-org"
-  },
-  {
     "name": "GM7 Digital [Not 24/7]",
     "epg_id": "GM7Digital.ec@HD",
     "country": "ec",
@@ -27465,12 +27759,6 @@
     "name": "Gribu visu zinat (576p)",
     "epg_id": "Gribuvisuzinat.lv@SD",
     "country": "lv",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Grjngo (720p)",
-    "epg_id": "Grjngo.pl@SD",
-    "country": "pl",
     "list": "iptv-org"
   },
   {
@@ -27933,12 +28221,6 @@
     "name": "Hard Knocks (1080p)",
     "epg_id": "HardKnocks.ca@SD",
     "country": "ca",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Hard Knocks Fighting Championship (720p)",
-    "epg_id": "HardKnocksFightingChampionship.pl@SD",
-    "country": "pl",
     "list": "iptv-org"
   },
   {
@@ -28479,12 +28761,6 @@
     "name": "Hits 360 TV (720p) [Not 24/7]",
     "epg_id": "Hits360TV.do@SD",
     "country": "do",
-    "list": "iptv-org"
-  },
-  {
-    "name": "HITS Movies (576p)",
-    "epg_id": "HITSMovies.sg@SD",
-    "country": "sg",
     "list": "iptv-org"
   },
   {
@@ -29856,6 +30132,12 @@
     "list": "iptv-org"
   },
   {
+    "name": "Investigation Discovery (France)",
+    "epg_id": "InvestigationDiscovery.fr@SD",
+    "country": "fr",
+    "list": "iptv-org"
+  },
+  {
     "name": "Investigation Discovery (Hungary)",
     "epg_id": "InvestigationDiscovery.hu@SD",
     "country": "hu",
@@ -30153,6 +30435,12 @@
     "name": "iUmor (576p)",
     "epg_id": "iUmor.ro@SD",
     "country": "ro",
+    "list": "iptv-org"
+  },
+  {
+    "name": "IVC (480p)",
+    "epg_id": "IVC.ve@Venezuela",
+    "country": "ve",
     "list": "iptv-org"
   },
   {
@@ -32958,6 +33246,12 @@
     "list": "iptv-org"
   },
   {
+    "name": "Lifetime",
+    "epg_id": "Lifetime.us@East",
+    "country": "us",
+    "list": "iptv-org"
+  },
+  {
     "name": "Lifetime Asia (1080p)",
     "epg_id": "LifetimeAsia.us@SD",
     "country": "us",
@@ -33975,12 +34269,6 @@
     "name": "Mango (India) (576p)",
     "epg_id": "Mango.in@SD",
     "country": "in",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Mango (Poland) (1080p) [Geo-blocked]",
-    "epg_id": "Mango.pl@SD",
-    "country": "pl",
     "list": "iptv-org"
   },
   {
@@ -35310,12 +35598,6 @@
     "list": "iptv-org"
   },
   {
-    "name": "Minimax (Romania)",
-    "epg_id": "Minimax.ro@SD",
-    "country": "ro",
-    "list": "iptv-org"
-  },
-  {
     "name": "Minimax CEE (576p)",
     "epg_id": "MinimaxCEE.cz@SD",
     "country": "cz",
@@ -35553,12 +35835,6 @@
     "name": "Moca Vision Canal 48 (720p) [Not 24/7]",
     "epg_id": "MocaVisionCanal48.do@SD",
     "country": "do",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Moconomy (720p)",
-    "epg_id": "Moconomy.pl@SD",
-    "country": "pl",
     "list": "iptv-org"
   },
   {
@@ -37062,12 +37338,6 @@
     "list": "iptv-org"
   },
   {
-    "name": "National Geographic (Romania)",
-    "epg_id": "NationalGeographic.ro@SD",
-    "country": "ro",
-    "list": "iptv-org"
-  },
-  {
     "name": "National Geographic (Russia) (1080p)",
     "epg_id": "NationalGeographic.ru@SD",
     "country": "ru",
@@ -37686,27 +37956,9 @@
     "list": "iptv-org"
   },
   {
-    "name": "Newsmax Polska (576i)",
-    "epg_id": "NewsmaxPolska.pl@SD",
-    "country": "pl",
-    "list": "iptv-org"
-  },
-  {
     "name": "Newsmax Spanish (1080p)",
     "epg_id": "NewsmaxSpanish.us@SD",
     "country": "us",
-    "list": "iptv-org"
-  },
-  {
-    "name": "NewsWorld (1080p)",
-    "epg_id": "NewsWorld.hk@FAST",
-    "country": "hk",
-    "list": "iptv-org"
-  },
-  {
-    "name": "NewTV (1080p)",
-    "epg_id": "NewTV.pl@SD",
-    "country": "pl",
     "list": "iptv-org"
   },
   {
@@ -37842,6 +38094,12 @@
     "list": "iptv-org"
   },
   {
+    "name": "Nick Jr. Asia",
+    "epg_id": "NickJrAsia.sg@SD",
+    "country": "sg",
+    "list": "iptv-org"
+  },
+  {
     "name": "Nick Jr. Club (Germany) (720p)",
     "epg_id": "NickJrClub.de@DACH",
     "country": "de",
@@ -37923,6 +38181,12 @@
     "name": "Nickelodeon (Russia) (576p)",
     "epg_id": "Nickelodeon.ru@SD",
     "country": "ru",
+    "list": "iptv-org"
+  },
+  {
+    "name": "Nickelodeon Asia",
+    "epg_id": "NickelodeonAsia.sg@SD",
+    "country": "sg",
     "list": "iptv-org"
   },
   {
@@ -38403,12 +38667,6 @@
     "name": "Novyny.Live",
     "epg_id": "NovynyLive.ua@SD",
     "country": "ua",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Now 90s00s (1080p)",
-    "epg_id": "Now90s00s.uk@Poland",
-    "country": "uk",
     "list": "iptv-org"
   },
   {
@@ -42696,7 +42954,7 @@
     "list": "iptv-org"
   },
   {
-    "name": "Pogo (576p)",
+    "name": "Pogo (720p)",
     "epg_id": "Pogo.in@SD",
     "country": "in",
     "list": "iptv-org"
@@ -42729,12 +42987,6 @@
     "name": "Police TV (1080p)",
     "epg_id": "PoliceTV.th@SD",
     "country": "th",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Polsat News Polityka (1080p) [Geo-blocked]",
-    "epg_id": "PolsatNewsPolityka.pl@SD",
-    "country": "pl",
     "list": "iptv-org"
   },
   {
@@ -43872,12 +44124,6 @@
     "list": "iptv-org"
   },
   {
-    "name": "RACER International (1080p)",
-    "epg_id": "RACERInternational.pl@FAST",
-    "country": "pl",
-    "list": "iptv-org"
-  },
-  {
     "name": "Rada TV (720p)",
     "epg_id": "RadaTV.ua@SD",
     "country": "ua",
@@ -44340,12 +44586,6 @@
     "list": "iptv-org"
   },
   {
-    "name": "Radio RAM (1080p)",
-    "epg_id": "RadioRAM.pl@HD",
-    "country": "pl",
-    "list": "iptv-org"
-  },
-  {
     "name": "Radio Rancagua FM (720p)",
     "epg_id": "RadioRancaguaFM.cl@SD",
     "country": "cl",
@@ -44736,12 +44976,6 @@
     "list": "iptv-org"
   },
   {
-    "name": "Radiowa Czworka (1080p)",
-    "epg_id": "RadiowaCzworka.pl@SD",
-    "country": "pl",
-    "list": "iptv-org"
-  },
-  {
     "name": "Radost Moya (576p)",
     "epg_id": "RadostMoya.ru@SD",
     "country": "ru",
@@ -44865,12 +45099,6 @@
     "name": "Rakuten TV Top Movies (1080p)",
     "epg_id": "RakutenTVTopMovies.es@Spain",
     "country": "es",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Rakuten Viki (1080p)",
-    "epg_id": "RakutenViki.us@Spain",
-    "country": "us",
     "list": "iptv-org"
   },
   {
@@ -45222,12 +45450,6 @@
     "list": "iptv-org"
   },
   {
-    "name": "Red Carpet TV International (1080p)",
-    "epg_id": "RedCarpetTVInternational.pl@SD",
-    "country": "pl",
-    "list": "iptv-org"
-  },
-  {
     "name": "Red CCTV (480p)",
     "epg_id": "RedCCTV.bo@SD",
     "country": "bo",
@@ -45495,12 +45717,6 @@
     "name": "Reload Play (720p)",
     "epg_id": "ReloadPlay.gr@SD",
     "country": "gr",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Remonty TV (1080p)",
-    "epg_id": "RemontyTV.pl@HD",
-    "country": "pl",
     "list": "iptv-org"
   },
   {
@@ -46047,12 +46263,6 @@
     "name": "Roya TV (Jordan) (1080p)",
     "epg_id": "RoyaTV.jo@SD",
     "country": "jo",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Royalworld (720p)",
-    "epg_id": "Royalworld.pl@FAST",
-    "country": "pl",
     "list": "iptv-org"
   },
   {
@@ -47670,6 +47880,12 @@
     "list": "iptv-org"
   },
   {
+    "name": "SciFi",
+    "epg_id": "SciFi.fr@HD",
+    "country": "fr",
+    "list": "iptv-org"
+  },
+  {
     "name": "Scorch TV (1080p)",
     "epg_id": "ScorchTV.tt@SD",
     "country": "tt",
@@ -48105,12 +48321,6 @@
     "name": "SF Commons 76 (480p)",
     "epg_id": "SFCommons76.us@SD",
     "country": "us",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Sfera TV (480p) [Not 24/7]",
-    "epg_id": "SferaTV.pl@SD",
-    "country": "pl",
     "list": "iptv-org"
   },
   {
@@ -48816,6 +49026,12 @@
     "list": "iptv-org"
   },
   {
+    "name": "Sky Sports 2 (1080p)",
+    "epg_id": "SkySports2.mx@SD",
+    "country": "mx",
+    "list": "iptv-org"
+  },
+  {
     "name": "SL 1",
     "epg_id": "SL1.ir@SD",
     "country": "ir",
@@ -49176,8 +49392,8 @@
     "list": "iptv-org"
   },
   {
-    "name": "Sony Entertainment Television (576p)",
-    "epg_id": "SonyEntertainmentTelevision.in@SD",
+    "name": "Sony Entertainment Television HD (1080p)",
+    "epg_id": "SonyEntertainmentTelevision.in@HD",
     "country": "in",
     "list": "iptv-org"
   },
@@ -49236,20 +49452,8 @@
     "list": "iptv-org"
   },
   {
-    "name": "Sony Pix HD (1080p)",
-    "epg_id": "SonyPix.in@HD",
-    "country": "in",
-    "list": "iptv-org"
-  },
-  {
     "name": "Sony SAB (720p)",
     "epg_id": "SonySAB.in@SD",
-    "country": "in",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Sony Sports Ten 3 Hindi (576p)",
-    "epg_id": "SonySportsTen3Hindi.in@SD",
     "country": "in",
     "list": "iptv-org"
   },
@@ -49794,6 +49998,12 @@
     "list": "iptv-org"
   },
   {
+    "name": "SportsMax News (1080p)",
+    "epg_id": "SportsMaxNews.ve@SD",
+    "country": "ve",
+    "list": "iptv-org"
+  },
+  {
     "name": "SporTV 2 (1080p)",
     "epg_id": "SporTV2.br@SD",
     "country": "br",
@@ -49956,12 +50166,6 @@
     "list": "iptv-org"
   },
   {
-    "name": "Star Gold 2 HD (1080p)",
-    "epg_id": "StarGold2.in@HD",
-    "country": "in",
-    "list": "iptv-org"
-  },
-  {
     "name": "Star Gold HD (1080p)",
     "epg_id": "StarGold.in@HD",
     "country": "in",
@@ -49974,7 +50178,7 @@
     "list": "iptv-org"
   },
   {
-    "name": "Star Jalsha (576p)",
+    "name": "Star Jalsha (1080p) [Geo-blocked]",
     "epg_id": "StarJalsha.in@SD",
     "country": "in",
     "list": "iptv-org"
@@ -49983,12 +50187,6 @@
     "name": "Star Kentrikis Elladas (1080p)",
     "epg_id": "StarKentrikisElladas.gr@SD",
     "country": "gr",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Star Kiran (576p)",
-    "epg_id": "StarKiran.in@SD",
-    "country": "in",
     "list": "iptv-org"
   },
   {
@@ -50060,12 +50258,6 @@
   {
     "name": "Star Pravah HD (720p)",
     "epg_id": "StarPravah.in@HD",
-    "country": "in",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Star Sports 2 (576p)",
-    "epg_id": "StarSports2.in@SD",
     "country": "in",
     "list": "iptv-org"
   },
@@ -50331,12 +50523,6 @@
     "name": "Stockton Gov TV (720p)",
     "epg_id": "StocktonGovTV.us@SD",
     "country": "us",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Stopklatka TV",
-    "epg_id": "StopklatkaTV.pl@SD",
-    "country": "pl",
     "list": "iptv-org"
   },
   {
@@ -50658,12 +50844,6 @@
     "list": "iptv-org"
   },
   {
-    "name": "Super Express TV (1080p)",
-    "epg_id": "SuperExpressTV.pl@FAST",
-    "country": "pl",
-    "list": "iptv-org"
-  },
-  {
     "name": "Super J TV Teramo (720p)",
     "epg_id": "SuperJTVTeramo.it@SD",
     "country": "it",
@@ -50745,12 +50925,6 @@
     "name": "SuperGeroi (1080p)",
     "epg_id": "SuperGeroi.ru@SD",
     "country": "ru",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Superhitz (576p)",
-    "epg_id": "Superhitz.in@SD",
-    "country": "in",
     "list": "iptv-org"
   },
   {
@@ -51948,6 +52122,30 @@
     "list": "iptv-org"
   },
   {
+    "name": "Telecine Cult",
+    "epg_id": "TelecineCult.br@SD",
+    "country": "br",
+    "list": "iptv-org"
+  },
+  {
+    "name": "Telecine Fun",
+    "epg_id": "TelecineFun.br@SD",
+    "country": "br",
+    "list": "iptv-org"
+  },
+  {
+    "name": "Telecine Premium",
+    "epg_id": "TelecinePremium.br@SD",
+    "country": "br",
+    "list": "iptv-org"
+  },
+  {
+    "name": "Telecine Touch",
+    "epg_id": "TelecineTouch.br@SD",
+    "country": "br",
+    "list": "iptv-org"
+  },
+  {
     "name": "Telecity Lombardia (1080p)",
     "epg_id": "TelecityLombardia.it@SD",
     "country": "it",
@@ -52776,42 +52974,6 @@
     "list": "iptv-org"
   },
   {
-    "name": "Telewizja Biznesowa (1080p)",
-    "epg_id": "TelewizjaBiznesowa.pl@SD",
-    "country": "pl",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Telewizja iTTV (1080p)",
-    "epg_id": "TelewizjaiTTV.pl@SD",
-    "country": "pl",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Telewizja Jaslo (720p)",
-    "epg_id": "TelewizjaJaslo.pl@SD",
-    "country": "pl",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Telewizja Luban (720p) [Not 24/7]",
-    "epg_id": "TelewizjaLuban.pl@SD",
-    "country": "pl",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Telewizja Regionalna Zary",
-    "epg_id": "TelewizjaRegionalnaZary.pl@SD",
-    "country": "pl",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Telewizja Relax (1080p)",
-    "epg_id": "TelewizjaRelax.pl@SD",
-    "country": "pl",
-    "list": "iptv-org"
-  },
-  {
     "name": "TeleXitos (1080p)",
     "epg_id": "TeleXitos.us@SD",
     "country": "us",
@@ -53016,12 +53178,6 @@
     "list": "iptv-org"
   },
   {
-    "name": "That's 70s (720p)",
-    "epg_id": "Thats70s.uk@HD",
-    "country": "uk",
-    "list": "iptv-org"
-  },
-  {
     "name": "The Asylum (1080p)",
     "epg_id": "TheAsylum.us@US",
     "country": "us",
@@ -53204,12 +53360,6 @@
   {
     "name": "The Peninsula Channel (720p)",
     "epg_id": "ThePeninsulaChannel.us@SD",
-    "country": "us",
-    "list": "iptv-org"
-  },
-  {
-    "name": "The Pet Collective (720p)",
-    "epg_id": "ThePetCollective.us@US",
     "country": "us",
     "list": "iptv-org"
   },
@@ -53544,6 +53694,12 @@
     "list": "iptv-org"
   },
   {
+    "name": "TLC Southeast Asia",
+    "epg_id": "TLCSoutheastAsia.sg@SD",
+    "country": "sg",
+    "list": "iptv-org"
+  },
+  {
     "name": "TLN KQSL (720p)",
     "epg_id": "TLN.ca@KQSL",
     "country": "ca",
@@ -53625,12 +53781,6 @@
     "name": "TN (1080p)",
     "epg_id": "TN.ar@SD",
     "country": "ar",
-    "list": "iptv-org"
-  },
-  {
-    "name": "TNA Wrestling Channel (720p)",
-    "epg_id": "TNAWrestlingChannel.pl@SD",
-    "country": "pl",
     "list": "iptv-org"
   },
   {
@@ -53850,12 +54000,6 @@
     "list": "iptv-org"
   },
   {
-    "name": "TOP Barca (1080p)",
-    "epg_id": "TOPBarca.pl@SD",
-    "country": "pl",
-    "list": "iptv-org"
-  },
-  {
     "name": "Top Channel (720p)",
     "epg_id": "TopChannel.gr@SD",
     "country": "gr",
@@ -53871,12 +54015,6 @@
     "name": "Top Latino TV",
     "epg_id": "TopLatinoTV.pe@SD",
     "country": "pe",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Top Movies Polska (1080p)",
-    "epg_id": "TopMoviesPolska.pl@SD",
-    "country": "pl",
     "list": "iptv-org"
   },
   {
@@ -54057,12 +54195,6 @@
     "name": "TR Sport (480p)",
     "epg_id": "TRSport.it@SD",
     "country": "it",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Tra Vinh TV (1080p)",
-    "epg_id": "TraVinhTV.vn@SD",
-    "country": "vn",
     "list": "iptv-org"
   },
   {
@@ -55578,6 +55710,12 @@
     "list": "iptv-org"
   },
   {
+    "name": "TV FANB (576p)",
+    "epg_id": "TVFANB.ve@SD",
+    "country": "ve",
+    "list": "iptv-org"
+  },
+  {
     "name": "TV Florencia (720p)",
     "epg_id": "TVFlorencia.gt@SD",
     "country": "gt",
@@ -55743,12 +55881,6 @@
     "name": "TV Keszthely (360p)",
     "epg_id": "TVKeszthely.hu@SD",
     "country": "hu",
-    "list": "iptv-org"
-  },
-  {
-    "name": "TV Kujawy (576p) [Not 24/7]",
-    "epg_id": "TVKujawy.pl@SD",
-    "country": "pl",
     "list": "iptv-org"
   },
   {
@@ -56562,12 +56694,6 @@
     "list": "iptv-org"
   },
   {
-    "name": "TV Torun (1080p) [Not 24/7]",
-    "epg_id": "TVTorun.pl@SD",
-    "country": "pl",
-    "list": "iptv-org"
-  },
-  {
     "name": "TV Tun (240p) [Not 24/7]",
     "epg_id": "TVTun.gt@SD",
     "country": "gt",
@@ -56982,12 +57108,6 @@
     "list": "iptv-org"
   },
   {
-    "name": "TVK Stella (576p)",
-    "epg_id": "TVKStella.pl@SD",
-    "country": "pl",
-    "list": "iptv-org"
-  },
-  {
     "name": "TVKU (720p)",
     "epg_id": "TVKU.id@SD",
     "country": "id",
@@ -57324,7 +57444,7 @@
     "list": "iptv-org"
   },
   {
-    "name": "TVRUS+",
+    "name": "TVRUS+ (576p)",
     "epg_id": "TVRUSPlus.de@HD",
     "country": "de",
     "list": "iptv-org"
@@ -57996,12 +58116,6 @@
     "list": "iptv-org"
   },
   {
-    "name": "Unite8 Sports 2 (576p)",
-    "epg_id": "Unite8Sports2.in@SD",
-    "country": "in",
-    "list": "iptv-org"
-  },
-  {
     "name": "Unitel (Bolivia) (1080p)",
     "epg_id": "Unitel.bo@SantaCruz",
     "country": "bo",
@@ -58644,12 +58758,6 @@
     "list": "iptv-org"
   },
   {
-    "name": "Viasat Epic Drama Czechia",
-    "epg_id": "ViasatEpicDrama.uk@Czechia",
-    "country": "uk",
-    "list": "iptv-org"
-  },
-  {
     "name": "Viasat Explore (Bulgaria) (1080p)",
     "epg_id": "ViasatExplore.bg@SD",
     "country": "bg",
@@ -58659,12 +58767,6 @@
     "name": "Viasat Explore (Czech Republic)",
     "epg_id": "ViasatExplore.cz@SD",
     "country": "cz",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Viasat Explore (Romania)",
-    "epg_id": "ViasatExplore.ro@SD",
-    "country": "ro",
     "list": "iptv-org"
   },
   {
@@ -58680,12 +58782,6 @@
     "list": "iptv-org"
   },
   {
-    "name": "Viasat Explore Classic (720p)",
-    "epg_id": "ViasatExploreClassic.pl@SD",
-    "country": "pl",
-    "list": "iptv-org"
-  },
-  {
     "name": "Viasat History (Bulgaria) (1080p)",
     "epg_id": "ViasatHistory.bg@SD",
     "country": "bg",
@@ -58695,12 +58791,6 @@
     "name": "Viasat History (Czech Republic)",
     "epg_id": "ViasatHistory.cz@SD",
     "country": "cz",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Viasat History (Romania)",
-    "epg_id": "ViasatHistory.ro@SD",
-    "country": "ro",
     "list": "iptv-org"
   },
   {
@@ -58761,12 +58851,6 @@
     "name": "Viasat Nature (Hungary)",
     "epg_id": "ViasatNature.hu@SD",
     "country": "hu",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Viasat Nature (Romania)",
-    "epg_id": "ViasatNature.ro@SD",
-    "country": "ro",
     "list": "iptv-org"
   },
   {
@@ -58992,6 +59076,12 @@
     "list": "iptv-org"
   },
   {
+    "name": "Vinh Long TV 5 (1080p)",
+    "epg_id": "VinhLongTV5.vn@SD",
+    "country": "vn",
+    "list": "iptv-org"
+  },
+  {
     "name": "Vintage Music (720p)",
     "epg_id": "VintageMusic.cr@SD",
     "country": "cr",
@@ -59172,6 +59262,12 @@
     "list": "iptv-org"
   },
   {
+    "name": "Vive (576p)",
+    "epg_id": "Vive.ve@SD",
+    "country": "ve",
+    "list": "iptv-org"
+  },
+  {
     "name": "VIVE TV (1080p)",
     "epg_id": "VIVETV.ar@HD",
     "country": "ar",
@@ -59343,6 +59439,12 @@
     "name": "VoyenTV (1080p)",
     "epg_id": "VoyenTV.by@SD",
     "country": "by",
+    "list": "iptv-org"
+  },
+  {
+    "name": "Voyo Events (576i) [Not 24/7]",
+    "epg_id": "VoyoEvents.ro@SD",
+    "country": "ro",
     "list": "iptv-org"
   },
   {
@@ -59826,12 +59928,6 @@
     "list": "iptv-org"
   },
   {
-    "name": "wedotv Auta (480p)",
-    "epg_id": "wedotvAuta.pl@FAST",
-    "country": "pl",
-    "list": "iptv-org"
-  },
-  {
     "name": "WeertFM TV (720p)",
     "epg_id": "WeertFMTV.nl@SD",
     "country": "nl",
@@ -60054,12 +60150,6 @@
     "list": "iptv-org"
   },
   {
-    "name": "World Billiards (720p)",
-    "epg_id": "WorldBilliards.pl@SD",
-    "country": "pl",
-    "list": "iptv-org"
-  },
-  {
     "name": "World Entertainment TV 42",
     "epg_id": "WorldEntertainmentTV42.th@SD",
     "country": "th",
@@ -60075,12 +60165,6 @@
     "name": "World of Freesports (1080p)",
     "epg_id": "WorldofFreesports.de@SD",
     "country": "de",
-    "list": "iptv-org"
-  },
-  {
-    "name": "World Poker Tour (1080p)",
-    "epg_id": "WorldPokerTour.us@US",
-    "country": "us",
     "list": "iptv-org"
   },
   {
@@ -60768,8 +60852,8 @@
     "list": "iptv-org"
   },
   {
-    "name": "Zee Bangla (576p)",
-    "epg_id": "ZeeBangla.in@SD",
+    "name": "Zee Bangla HD (1080p)",
+    "epg_id": "ZeeBangla.in@HD",
     "country": "in",
     "list": "iptv-org"
   },
@@ -60882,8 +60966,8 @@
     "list": "iptv-org"
   },
   {
-    "name": "Zee TV (576p)",
-    "epg_id": "ZeeTV.in@SD",
+    "name": "Zee TV HD (1080p)",
+    "epg_id": "ZeeTV.in@HD",
     "country": "in",
     "list": "iptv-org"
   },
@@ -61968,20 +62052,8 @@
     "list": "native-whale"
   },
   {
-    "name": "WFTV Orlando",
-    "epg_id": "enginexumo:9995107",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
     "name": "FOX LOCAL Orlando",
     "epg_id": "enginexumo:99951425",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Stingray Remember the 80s",
-    "epg_id": "enginexumo:99991742",
     "country": "",
     "list": "native-xumo"
   },
@@ -61992,20 +62064,8 @@
     "list": "native-xumo"
   },
   {
-    "name": "Stingray Soul Storm",
-    "epg_id": "enginexumo:99991121",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "NBC 6 South Florida News",
-    "epg_id": "enginexumo:99951167",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "FOX LOCAL Dallas-Fort Worth",
-    "epg_id": "enginexumo:99951418",
+    "name": "WFTV Orlando",
+    "epg_id": "enginexumo:9995107",
     "country": "",
     "list": "native-xumo"
   },
@@ -62016,50 +62076,32 @@
     "list": "native-xumo"
   },
   {
+    "name": "Stingray Remember the 80s",
+    "epg_id": "enginexumo:99991742",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
     "name": "WSOC Charlotte",
     "epg_id": "enginexumo:99991691",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "KIRO Seattle",
-    "epg_id": "enginexumo:9995112",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "FOX LOCAL Tampa Bay",
-    "epg_id": "enginexumo:99951416",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "WPXI Pittsburgh",
-    "epg_id": "enginexumo:99991689",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Stingray Greatest Holiday Hits",
-    "epg_id": "enginexumo:99991120",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Stingray Classic Rock",
-    "epg_id": "enginexumo:99991119",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "NBC 4 Washington News",
-    "epg_id": "enginexumo:99951181",
+    "name": "CBS News Chicago",
+    "epg_id": "enginexumo:99991643",
     "country": "",
     "list": "native-xumo"
   },
   {
     "name": "NBC 4 Los Angeles News",
     "epg_id": "enginexumo:99951164",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FOX LOCAL Tampa Bay",
+    "epg_id": "enginexumo:99951416",
     "country": "",
     "list": "native-xumo"
   },
@@ -62076,14 +62118,44 @@
     "list": "native-xumo"
   },
   {
-    "name": "CBS News Chicago",
-    "epg_id": "enginexumo:99991643",
+    "name": "NBC 4 Washington News",
+    "epg_id": "enginexumo:99951181",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "FOX LOCAL Phoenix",
-    "epg_id": "enginexumo:99951419",
+    "name": "WPXI Pittsburgh",
+    "epg_id": "enginexumo:99991689",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Stingray Greatest Holiday Hits",
+    "epg_id": "enginexumo:99991120",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "KIRO Seattle",
+    "epg_id": "enginexumo:9995112",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "NBC 6 South Florida News",
+    "epg_id": "enginexumo:99951167",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Stingray Classic Rock",
+    "epg_id": "enginexumo:99991119",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FOX LOCAL Dallas-Fort Worth",
+    "epg_id": "enginexumo:99951418",
     "country": "",
     "list": "native-xumo"
   },
@@ -62094,8 +62166,8 @@
     "list": "native-xumo"
   },
   {
-    "name": "Boston 25",
-    "epg_id": "enginexumo:9995108",
+    "name": "Stingray Soul Storm",
+    "epg_id": "enginexumo:99991121",
     "country": "",
     "list": "native-xumo"
   },
@@ -62112,20 +62184,8 @@
     "list": "native-xumo"
   },
   {
-    "name": "FOX LOCAL Los Angeles",
-    "epg_id": "enginexumo:99951420",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "NBC 10 Boston News",
-    "epg_id": "enginexumo:99951168",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "NBC 4 New York News",
-    "epg_id": "enginexumo:99951163",
+    "name": "Boston 25",
+    "epg_id": "enginexumo:9995108",
     "country": "",
     "list": "native-xumo"
   },
@@ -62136,8 +62196,20 @@
     "list": "native-xumo"
   },
   {
-    "name": "WSB Atlanta",
-    "epg_id": "enginexumo:99991690",
+    "name": "FOX LOCAL Los Angeles",
+    "epg_id": "enginexumo:99951420",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FOX LOCAL Phoenix",
+    "epg_id": "enginexumo:99951419",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "NBC 10 Boston News",
+    "epg_id": "enginexumo:99951168",
     "country": "",
     "list": "native-xumo"
   },
@@ -62154,8 +62226,8 @@
     "list": "native-xumo"
   },
   {
-    "name": "FOX LOCAL Milwaukee",
-    "epg_id": "enginexumo:99951429",
+    "name": "FOX LOCAL Houston",
+    "epg_id": "enginexumo:99951423",
     "country": "",
     "list": "native-xumo"
   },
@@ -62166,20 +62238,8 @@
     "list": "native-xumo"
   },
   {
-    "name": "FOX LOCAL Houston",
-    "epg_id": "enginexumo:99951423",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "NBC Connecticut News",
-    "epg_id": "enginexumo:99951183",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Telemundo Noticias Texas",
-    "epg_id": "enginexumo:99951226",
+    "name": "NBC 4 New York News",
+    "epg_id": "enginexumo:99951163",
     "country": "",
     "list": "native-xumo"
   },
@@ -62190,14 +62250,62 @@
     "list": "native-xumo"
   },
   {
-    "name": "FOX LOCAL Minnesota",
-    "epg_id": "enginexumo:99951431",
+    "name": "WSB Atlanta",
+    "epg_id": "enginexumo:99991690",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "NBC 5 Dallas-Fort Worth News",
+    "epg_id": "enginexumo:99951182",
     "country": "",
     "list": "native-xumo"
   },
   {
     "name": "Telemundo Noticias Suroeste",
     "epg_id": "enginexumo:99951556",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FOX LOCAL San Francisco",
+    "epg_id": "enginexumo:99951422",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FOX LOCAL Milwaukee",
+    "epg_id": "enginexumo:99951429",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Telemundo Noticias Texas",
+    "epg_id": "enginexumo:99951226",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FOX LOCAL Austin",
+    "epg_id": "enginexumo:99951430",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "NBC 5 Chicago News",
+    "epg_id": "enginexumo:99951165",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FOX LOCAL Detroit",
+    "epg_id": "enginexumo:99951421",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FOX LOCAL Minnesota",
+    "epg_id": "enginexumo:99951431",
     "country": "",
     "list": "native-xumo"
   },
@@ -62214,20 +62322,20 @@
     "list": "native-xumo"
   },
   {
-    "name": "FOX LOCAL Detroit",
-    "epg_id": "enginexumo:99951421",
+    "name": "Telemundo Noticias Noreste",
+    "epg_id": "enginexumo:99951228",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "FOX LOCAL Austin",
-    "epg_id": "enginexumo:99951430",
+    "name": "NBC Bay Area News",
+    "epg_id": "enginexumo:99951162",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "News 12 New York",
-    "epg_id": "enginexumo:99951222",
+    "name": "NBC Connecticut News",
+    "epg_id": "enginexumo:99951183",
     "country": "",
     "list": "native-xumo"
   },
@@ -62238,8 +62346,8 @@
     "list": "native-xumo"
   },
   {
-    "name": "NBC 5 Chicago News",
-    "epg_id": "enginexumo:99951165",
+    "name": "News 12 New York",
+    "epg_id": "enginexumo:99951222",
     "country": "",
     "list": "native-xumo"
   },
@@ -62258,30 +62366,6 @@
   {
     "name": "FOX LOCAL New York",
     "epg_id": "enginexumo:99951427",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "FOX LOCAL San Francisco",
-    "epg_id": "enginexumo:99951422",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "NBC 5 Dallas-Fort Worth News",
-    "epg_id": "enginexumo:99951182",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Telemundo Noticias Noreste",
-    "epg_id": "enginexumo:99951228",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "NBC Bay Area News",
-    "epg_id": "enginexumo:99951162",
     "country": "",
     "list": "native-xumo"
   },
@@ -66450,14 +66534,14 @@
     "list": "native-roku"
   },
   {
-    "name": "crunchyroll",
-    "epg_id": "engineroku:22899a626bc5bafbe156ef4fa61f604a",
+    "name": "Inside Outside House and Garden",
+    "epg_id": "engineroku:69dbc483ba2c0e9dcd13ad3696171d89",
     "country": "",
     "list": "native-roku"
   },
   {
-    "name": "Inside Outside House and Garden",
-    "epg_id": "engineroku:69dbc483ba2c0e9dcd13ad3696171d89",
+    "name": "crunchyroll",
+    "epg_id": "engineroku:22899a626bc5bafbe156ef4fa61f604a",
     "country": "",
     "list": "native-roku"
   },
@@ -66468,26 +66552,8 @@
     "list": "native-roku"
   },
   {
-    "name": "Discovery+",
-    "epg_id": "engineroku:955bcddd11a40e2ff313a6491cf12052",
-    "country": "",
-    "list": "native-roku"
-  },
-  {
-    "name": "Discovery+",
-    "epg_id": "engineroku:45b794e75386d34f770d11a2baff08c2",
-    "country": "",
-    "list": "native-roku"
-  },
-  {
-    "name": "HBO Max",
-    "epg_id": "engineroku:13e8ab319b2195ba211315288bbd530a",
-    "country": "",
-    "list": "native-roku"
-  },
-  {
-    "name": "Max",
-    "epg_id": "engineroku:2793651e4aaa1d58a0dd5b8f198537bb",
+    "name": "Peacock",
+    "epg_id": "engineroku:2facec0efbda0a2e6f3efe5e5228e559",
     "country": "",
     "list": "native-roku"
   },
@@ -66498,14 +66564,32 @@
     "list": "native-roku"
   },
   {
-    "name": "Peacock",
-    "epg_id": "engineroku:2facec0efbda0a2e6f3efe5e5228e559",
+    "name": "Discovery+",
+    "epg_id": "engineroku:45b794e75386d34f770d11a2baff08c2",
+    "country": "",
+    "list": "native-roku"
+  },
+  {
+    "name": "Discovery+",
+    "epg_id": "engineroku:955bcddd11a40e2ff313a6491cf12052",
     "country": "",
     "list": "native-roku"
   },
   {
     "name": "Vix Premium (fka Vix+)",
     "epg_id": "engineroku:1264125d516f1075d005ffeb8c340c83",
+    "country": "",
+    "list": "native-roku"
+  },
+  {
+    "name": "Max",
+    "epg_id": "engineroku:2793651e4aaa1d58a0dd5b8f198537bb",
+    "country": "",
+    "list": "native-roku"
+  },
+  {
+    "name": "HBO Max",
+    "epg_id": "engineroku:13e8ab319b2195ba211315288bbd530a",
     "country": "",
     "list": "native-roku"
   },
@@ -66582,6 +66666,12 @@
     "list": "native-roku"
   },
   {
+    "name": "viaplay",
+    "epg_id": "engineroku:97ab4aed0c7b82dbc6e9390d2a2a9dce",
+    "country": "",
+    "list": "native-roku"
+  },
+  {
     "name": "britbox",
     "epg_id": "engineroku:c1fc057a8fa543b614ee110cea71b774",
     "country": "",
@@ -66612,14 +66702,14 @@
     "list": "native-roku"
   },
   {
-    "name": "BBC Select",
-    "epg_id": "engineroku:ba952d224414602a28cb6c0658c3970e",
+    "name": "MGM+",
+    "epg_id": "engineroku:9221a7fd654140a79191623c3654d0cc",
     "country": "",
     "list": "native-roku"
   },
   {
-    "name": "MGM+",
-    "epg_id": "engineroku:9221a7fd654140a79191623c3654d0cc",
+    "name": "BBC Select",
+    "epg_id": "engineroku:ba952d224414602a28cb6c0658c3970e",
     "country": "",
     "list": "native-roku"
   },
@@ -66642,32 +66732,14 @@
     "list": "native-roku"
   },
   {
-    "name": "shudder",
-    "epg_id": "engineroku:673c6b04495de43852ebfcadb90f0a36",
-    "country": "",
-    "list": "native-roku"
-  },
-  {
     "name": "starz",
     "epg_id": "engineroku:10ee66dc879640687b2f4a10c3908601",
     "country": "",
     "list": "native-roku"
   },
   {
-    "name": "AMC+",
-    "epg_id": "engineroku:93963656a9f930f1a88c96b291d546e4",
-    "country": "",
-    "list": "native-roku"
-  },
-  {
-    "name": "AMC+",
-    "epg_id": "engineroku:e0cefc6b663bc194b3542cfcac935494",
-    "country": "",
-    "list": "native-roku"
-  },
-  {
-    "name": "viaplay",
-    "epg_id": "engineroku:97ab4aed0c7b82dbc6e9390d2a2a9dce",
+    "name": "shudder",
+    "epg_id": "engineroku:673c6b04495de43852ebfcadb90f0a36",
     "country": "",
     "list": "native-roku"
   },
@@ -66678,14 +66750,26 @@
     "list": "native-roku"
   },
   {
-    "name": "Daily Burn",
-    "epg_id": "engineroku:ea23e2d356804c472858bfd693c63f28",
+    "name": "Fox Nation",
+    "epg_id": "engineroku:d089cc11c73f6888532baacdcc59df45",
     "country": "",
     "list": "native-roku"
   },
   {
-    "name": "Fox Nation",
-    "epg_id": "engineroku:d089cc11c73f6888532baacdcc59df45",
+    "name": "AMC+",
+    "epg_id": "engineroku:e0cefc6b663bc194b3542cfcac935494",
+    "country": "",
+    "list": "native-roku"
+  },
+  {
+    "name": "AMC+",
+    "epg_id": "engineroku:93963656a9f930f1a88c96b291d546e4",
+    "country": "",
+    "list": "native-roku"
+  },
+  {
+    "name": "Daily Burn",
+    "epg_id": "engineroku:ea23e2d356804c472858bfd693c63f28",
     "country": "",
     "list": "native-roku"
   },
@@ -66702,12 +66786,6 @@
     "list": "native-roku"
   },
   {
-    "name": "cinemax",
-    "epg_id": "engineroku:b2f598570c0f5026ef199d043cb7e876",
-    "country": "",
-    "list": "native-roku"
-  },
-  {
     "name": "Curiosity Stream",
     "epg_id": "engineroku:9379f9714f933a70c9d509e34d38337b",
     "country": "",
@@ -66720,14 +66798,14 @@
     "list": "native-roku"
   },
   {
-    "name": "Magellan TV",
-    "epg_id": "engineroku:c2c86807c09f84df81d6aff594861312",
+    "name": "Get Factual",
+    "epg_id": "engineroku:0a25fad07a1f407af450b5f147178bd1",
     "country": "",
     "list": "native-roku"
   },
   {
-    "name": "Get Factual",
-    "epg_id": "engineroku:0a25fad07a1f407af450b5f147178bd1",
+    "name": "Magellan TV",
+    "epg_id": "engineroku:c2c86807c09f84df81d6aff594861312",
     "country": "",
     "list": "native-roku"
   },
@@ -66750,8 +66828,8 @@
     "list": "native-roku"
   },
   {
-    "name": "Sundance Now",
-    "epg_id": "engineroku:a76ade17568f4ef2f234864541317ef6",
+    "name": "cinemax",
+    "epg_id": "engineroku:b2f598570c0f5026ef199d043cb7e876",
     "country": "",
     "list": "native-roku"
   },
@@ -66762,14 +66840,14 @@
     "list": "native-roku"
   },
   {
-    "name": "grokker",
-    "epg_id": "engineroku:e4381a9c7e340a51af1308e0f6fa4d27",
+    "name": "Sundance Now",
+    "epg_id": "engineroku:a76ade17568f4ef2f234864541317ef6",
     "country": "",
     "list": "native-roku"
   },
   {
-    "name": "Screambox",
-    "epg_id": "engineroku:1a89da67090e3972c0abf6937d2bb201",
+    "name": "grokker",
+    "epg_id": "engineroku:e4381a9c7e340a51af1308e0f6fa4d27",
     "country": "",
     "list": "native-roku"
   },
@@ -66782,6 +66860,12 @@
   {
     "name": "Curiosity University",
     "epg_id": "engineroku:3023250a1784bf0c3f3e6930f1ae9446",
+    "country": "",
+    "list": "native-roku"
+  },
+  {
+    "name": "Screambox",
+    "epg_id": "engineroku:1a89da67090e3972c0abf6937d2bb201",
     "country": "",
     "list": "native-roku"
   },
