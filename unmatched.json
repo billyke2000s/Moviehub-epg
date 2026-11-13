@@ -10818,8 +10818,8 @@
     "list": "free-tv"
   },
   {
-    "name": "1+1 International",
-    "epg_id": "1Plus1International.ua@SD",
+    "name": "1+1 International HD (720p)",
+    "epg_id": "1Plus1International.ua@HD",
     "country": "ua",
     "list": "iptv-org"
   },
@@ -11580,33 +11580,9 @@
     "list": "iptv-org"
   },
   {
-    "name": "¡OPA! (720p)",
-    "epg_id": "OPA.cr@SD",
-    "country": "cr",
-    "list": "iptv-org"
-  },
-  {
-    "name": "¡Viva Latino! (1080p)",
-    "epg_id": "VivaLatino.ua@SD",
-    "country": "ua",
-    "list": "iptv-org"
-  },
-  {
     "name": "&TV International (1080p)",
     "epg_id": "AndTV.in@International",
     "country": "in",
-    "list": "iptv-org"
-  },
-  {
-    "name": "+MaisUm (720p)",
-    "epg_id": "PlusMaisUm.br@HD",
-    "country": "br",
-    "list": "iptv-org"
-  },
-  {
-    "name": "+TV (576p) [Geo-blocked]",
-    "epg_id": "PlusTV.by@SD",
-    "country": "by",
     "list": "iptv-org"
   },
   {
@@ -11631,6 +11607,30 @@
     "name": ":24 (1080p)",
     "epg_id": "24.sk@SD",
     "country": "sk",
+    "list": "iptv-org"
+  },
+  {
+    "name": "¡OPA! (720p)",
+    "epg_id": "OPA.cr@SD",
+    "country": "cr",
+    "list": "iptv-org"
+  },
+  {
+    "name": "¡Viva Latino! (1080p)",
+    "epg_id": "VivaLatino.ua@SD",
+    "country": "ua",
+    "list": "iptv-org"
+  },
+  {
+    "name": "+MaisUm (720p)",
+    "epg_id": "PlusMaisUm.br@HD",
+    "country": "br",
+    "list": "iptv-org"
+  },
+  {
+    "name": "+TV (576p) [Geo-blocked]",
+    "epg_id": "PlusTV.by@SD",
+    "country": "by",
     "list": "iptv-org"
   },
   {
@@ -11682,7 +11682,7 @@
     "list": "iptv-org"
   },
   {
-    "name": "A7 TV (1080p)",
+    "name": "A7 TV (720p) [Not 24/7]",
     "epg_id": "A7TV.do@HD",
     "country": "do",
     "list": "iptv-org"
@@ -12222,7 +12222,7 @@
     "list": "iptv-org"
   },
   {
-    "name": "Adoram TV (720p)",
+    "name": "Adoram TV (720p) [Not 24/7]",
     "epg_id": "AdoramTV.do@SD",
     "country": "do",
     "list": "iptv-org"
@@ -13611,24 +13611,6 @@
     "name": "AMX Noticias (720p) [Not 24/7]",
     "epg_id": "AMXNoticias.mx@SD",
     "country": "mx",
-    "list": "iptv-org"
-  },
-  {
-    "name": "An Giang TV 1 (1080p) [Geo-blocked]",
-    "epg_id": "AnGiangTV1.vn@SD",
-    "country": "vn",
-    "list": "iptv-org"
-  },
-  {
-    "name": "An Giang TV 2 (1080p) [Geo-blocked]",
-    "epg_id": "AnGiangTV2.vn@SD",
-    "country": "vn",
-    "list": "iptv-org"
-  },
-  {
-    "name": "An Giang TV 3 (1080p) [Geo-blocked]",
-    "epg_id": "AnGiangTV3.vn@SD",
-    "country": "vn",
     "list": "iptv-org"
   },
   {
@@ -15936,6 +15918,12 @@
     "list": "iptv-org"
   },
   {
+    "name": "beIN Sports 1",
+    "epg_id": "beINSports1.qa@MENA",
+    "country": "qa",
+    "list": "iptv-org"
+  },
+  {
     "name": "beIN SPORTS XTRA en Espanol (1080p)",
     "epg_id": "beINSPORTSXTRAenEspanol.us@SD",
     "country": "us",
@@ -16260,8 +16248,20 @@
     "list": "iptv-org"
   },
   {
+    "name": "Bicolor+ (720p)",
+    "epg_id": "BicolorPlus.pe@SD",
+    "country": "pe",
+    "list": "iptv-org"
+  },
+  {
     "name": "Bicolor+ Premium 2 (720p)",
     "epg_id": "BicolorPlusPremium2.pe@SD",
+    "country": "pe",
+    "list": "iptv-org"
+  },
+  {
+    "name": "Bicolor+ Premium 3 (720p)",
+    "epg_id": "BicolorPlusPremium3.pe@SD",
     "country": "pe",
     "list": "iptv-org"
   },
@@ -16713,6 +16713,12 @@
     "name": "Boom TV (1080p)",
     "epg_id": "BoomTV.ro@HD",
     "country": "ro",
+    "list": "iptv-org"
+  },
+  {
+    "name": "Boomerang (Thailand)",
+    "epg_id": "Boomerang.th@SD",
+    "country": "th",
     "list": "iptv-org"
   },
   {
@@ -17391,12 +17397,6 @@
     "name": "CampusTV (720p) [Not 24/7]",
     "epg_id": "CampusTV.cl@SD",
     "country": "cl",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Camu TV (480p) [Not 24/7]",
-    "epg_id": "CamuTV.do@SD",
-    "country": "do",
     "list": "iptv-org"
   },
   {
@@ -18231,12 +18231,6 @@
     "name": "Canal 65 (1080p) [Not 24/7]",
     "epg_id": "Canal65.sv@SD",
     "country": "sv",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Canal 70 (720p)",
-    "epg_id": "Canal70.do@HD",
-    "country": "do",
     "list": "iptv-org"
   },
   {
@@ -21546,7 +21540,7 @@
     "list": "iptv-org"
   },
   {
-    "name": "ConstanzaTV (1080p) [Not 24/7]",
+    "name": "ConstanzaTV (720p) [Not 24/7]",
     "epg_id": "ConstanzaTV.do@SD",
     "country": "do",
     "list": "iptv-org"
@@ -26334,6 +26328,12 @@
     "list": "iptv-org"
   },
   {
+    "name": "Formula 1 AntenaPlay (576i) [Not 24/7]",
+    "epg_id": "Formula1AntenaPlay.ro@SD",
+    "country": "ro",
+    "list": "iptv-org"
+  },
+  {
     "name": "Foro TV (576p)",
     "epg_id": "ForoTV.pe@SD",
     "country": "pe",
@@ -27330,13 +27330,7 @@
     "list": "iptv-org"
   },
   {
-    "name": "GMS TV (Georgia)",
-    "epg_id": "GMSTV.ge@SD",
-    "country": "ge",
-    "list": "iptv-org"
-  },
-  {
-    "name": "GMS TV (Senegal) (1080p)",
+    "name": "GMS TV (1080p)",
     "epg_id": "GMSTV.sn@SD",
     "country": "sn",
     "list": "iptv-org"
@@ -27843,12 +27837,6 @@
     "name": "Guayape TV",
     "epg_id": "GuayapeTV.hn@SD",
     "country": "hn",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Guaymate TV (720p) [Not 24/7]",
-    "epg_id": "GuaymateTV.do@SD",
-    "country": "do",
     "list": "iptv-org"
   },
   {
@@ -31368,6 +31356,12 @@
     "list": "iptv-org"
   },
   {
+    "name": "Karnataka News Beat (1080p)",
+    "epg_id": "KarnatakaNewsBeat.in@SD",
+    "country": "in",
+    "list": "iptv-org"
+  },
+  {
     "name": "Kass TV (720p) [Not 24/7]",
     "epg_id": "KassTV.ke@SD",
     "country": "ke",
@@ -32328,12 +32322,6 @@
     "list": "iptv-org"
   },
   {
-    "name": "Kvartal TV",
-    "epg_id": "KvartalTV.ua@SD",
-    "country": "ua",
-    "list": "iptv-org"
-  },
-  {
     "name": "KVIFF TV",
     "epg_id": "KVIFFTV.cz@SD",
     "country": "cz",
@@ -32598,7 +32586,7 @@
     "list": "iptv-org"
   },
   {
-    "name": "La Voz de Jesus HD (720p)",
+    "name": "La Voz de Jesus HD (720p) [Not 24/7]",
     "epg_id": "LaVozdeJesusHD.do@HD",
     "country": "do",
     "list": "iptv-org"
@@ -35946,7 +35934,7 @@
     "list": "iptv-org"
   },
   {
-    "name": "Montones TV (1080p)",
+    "name": "Montones TV (720p) [Not 24/7]",
     "epg_id": "MontonesTV.do@HD",
     "country": "do",
     "list": "iptv-org"
@@ -38400,6 +38388,12 @@
     "list": "iptv-org"
   },
   {
+    "name": "Non Stop Bharat (576p)",
+    "epg_id": "NonStopBharat.in@SD",
+    "country": "in",
+    "list": "iptv-org"
+  },
+  {
     "name": "NonStop Kung Fu",
     "epg_id": "NonStopKungFu.se@SE",
     "country": "se",
@@ -40203,6 +40197,12 @@
     "name": "Padre Pio TV (1080p)",
     "epg_id": "PadrePioTV.it@SD",
     "country": "it",
+    "list": "iptv-org"
+  },
+  {
+    "name": "Paigham Television (576p)",
+    "epg_id": "PaighamTelevision.pk@SD",
+    "country": "pk",
     "list": "iptv-org"
   },
   {
@@ -47112,6 +47112,12 @@
     "list": "iptv-org"
   },
   {
+    "name": "Rybalka i okhota (576p)",
+    "epg_id": "Rybalkaiokhota.ru@SD",
+    "country": "ru",
+    "list": "iptv-org"
+  },
+  {
     "name": "Rybolov (576p)",
     "epg_id": "Rybolov.ru@SD",
     "country": "ru",
@@ -48204,21 +48210,9 @@
     "list": "iptv-org"
   },
   {
-    "name": "Setanta Sports 1",
-    "epg_id": "SetantaSports1.ru@SD",
-    "country": "ru",
-    "list": "iptv-org"
-  },
-  {
     "name": "Setanta Sports 1 Eurasia (1080p)",
     "epg_id": "SetantaSports1Eurasia.ie@SD",
     "country": "ie",
-    "list": "iptv-org"
-  },
-  {
-    "name": "Setanta Sports 2",
-    "epg_id": "SetantaSports2.ru@SD",
-    "country": "ru",
     "list": "iptv-org"
   },
   {
@@ -48228,7 +48222,7 @@
     "list": "iptv-org"
   },
   {
-    "name": "Setanta Sports 3",
+    "name": "Setanta Sports 3 (1080p)",
     "epg_id": "SetantaSports3.ge@SD",
     "country": "ge",
     "list": "iptv-org"
@@ -48237,6 +48231,12 @@
     "name": "Setanta Sports (1080p)",
     "epg_id": "SetantaSports.uk@SD",
     "country": "uk",
+    "list": "iptv-org"
+  },
+  {
+    "name": "Setanta Sports+ Georgia (1080p)",
+    "epg_id": "SetantaSportsPlusGeorgia.ge@SD",
+    "country": "ge",
     "list": "iptv-org"
   },
   {
@@ -49725,6 +49725,12 @@
     "name": "Soyuzny (576p)",
     "epg_id": "Soyuzny.ru@SD",
     "country": "ru",
+    "list": "iptv-org"
+  },
+  {
+    "name": "Sozcu TV (1080p)",
+    "epg_id": "SozcuTV.tr@SD",
+    "country": "tr",
     "list": "iptv-org"
   },
   {
@@ -51906,12 +51912,6 @@
     "list": "iptv-org"
   },
   {
-    "name": "Telealtura (1080p) [Not 24/7]",
-    "epg_id": "Telealtura.do@SD",
-    "country": "do",
-    "list": "iptv-org"
-  },
-  {
     "name": "Teleamazonas (1080p)",
     "epg_id": "Teleamazonas.ec@Quito",
     "country": "ec",
@@ -53520,7 +53520,7 @@
     "list": "iptv-org"
   },
   {
-    "name": "Timeless Dizi Channel",
+    "name": "Timeless Dizi Channel (576i)",
     "epg_id": "TimelessDiziChannel.ro@SD",
     "country": "ro",
     "list": "iptv-org"
@@ -53904,7 +53904,7 @@
     "list": "iptv-org"
   },
   {
-    "name": "Tom And Jerry (720p)",
+    "name": "Tom And Jerry (720p) [Not 24/7]",
     "epg_id": "TomAndJerry.do@HD",
     "country": "do",
     "list": "iptv-org"
@@ -54642,7 +54642,7 @@
     "list": "iptv-org"
   },
   {
-    "name": "Turismo HD (720p)",
+    "name": "Turismo HD (720p) [Not 24/7]",
     "epg_id": "TurismoHD.do@HD",
     "country": "do",
     "list": "iptv-org"
@@ -54930,7 +54930,7 @@
     "list": "iptv-org"
   },
   {
-    "name": "TV7 Bharat (576p)",
+    "name": "TV7 Bharat (1080p)",
     "epg_id": "TV7Bharat.in@SD",
     "country": "in",
     "list": "iptv-org"
@@ -56070,12 +56070,6 @@
     "list": "iptv-org"
   },
   {
-    "name": "TV Montana Canal 10 (1080p) [Not 24/7]",
-    "epg_id": "TVMontanaCanal10.do@SD",
-    "country": "do",
-    "list": "iptv-org"
-  },
-  {
     "name": "TV Mu (720p) [Not 24/7]",
     "epg_id": "TVMu.id@SD",
     "country": "id",
@@ -56781,6 +56775,12 @@
     "name": "TV-4 (720p) [Geo-blocked]",
     "epg_id": "TV4.ua@SD",
     "country": "ua",
+    "list": "iptv-org"
+  },
+  {
+    "name": "TV-U Yamagata (1080i)",
+    "epg_id": "TVUYamagata.jp@JOWIDTV",
+    "country": "jp",
     "list": "iptv-org"
   },
   {
@@ -60780,6 +60780,12 @@
     "list": "iptv-org"
   },
   {
+    "name": "Zece TV",
+    "epg_id": "ZeceTV.ro@SD",
+    "country": "ro",
+    "list": "iptv-org"
+  },
+  {
     "name": "Zee Action (576p)",
     "epg_id": "ZeeAction.in@SD",
     "country": "in",
@@ -61176,826 +61182,40 @@
     "list": "iptv-org"
   },
   {
-    "name": "Legacy",
-    "epg_id": "enginewhale:1047721653058412082",
+    "name": "Sports Connect",
+    "epg_id": "enginefls:68543f26a4a3e82dffc86da2",
     "country": "",
-    "list": "native-whale"
+    "list": "native-freelivesports"
   },
   {
-    "name": "The Red Green Channel",
-    "epg_id": "enginewhale:925725895506330246",
+    "name": "MotorRacing",
+    "epg_id": "enginefls:67917ab78c569dd6bc2eb2c4",
     "country": "",
-    "list": "native-whale"
+    "list": "native-freelivesports"
   },
   {
-    "name": "Scifi World",
-    "epg_id": "enginewhale:1022125030546936778",
+    "name": "RPM Motorsport",
+    "epg_id": "enginefls:6675bae1d823954d12bb5b44",
     "country": "",
-    "list": "native-whale"
+    "list": "native-freelivesports"
   },
   {
-    "name": "Encore+",
-    "epg_id": "enginewhale:1022125030546936766",
+    "name": "HorizonSports",
+    "epg_id": "enginefls:67917a6de0eff6898a8584ff",
     "country": "",
-    "list": "native-whale"
+    "list": "native-freelivesports"
   },
   {
-    "name": "WeShort",
-    "epg_id": "enginewhale:1022125030546936773",
+    "name": "Action Plus",
+    "epg_id": "enginefls:66f5a9a408f2c39175aab916",
     "country": "",
-    "list": "native-whale"
+    "list": "native-freelivesports"
   },
   {
-    "name": "Peekflick",
-    "epg_id": "enginewhale:1022125030546936760",
+    "name": "WPXI Pittsburgh",
+    "epg_id": "enginexumo:99991689",
     "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Mercury+",
-    "epg_id": "enginewhale:1022125030546936761",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Nosey",
-    "epg_id": "enginewhale:894118415936589488",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Judge Nosey",
-    "epg_id": "enginewhale:894117919729520248",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "AVAZ",
-    "epg_id": "enginewhale:1088385876566278483",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Confess by Nosey",
-    "epg_id": "enginewhale:894117456778889583",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Movieitaly Channel",
-    "epg_id": "enginewhale:967946649035481273",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "TidPix",
-    "epg_id": "enginewhale:972720861289775954",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Filmzie",
-    "epg_id": "enginewhale:609411515976060398",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "AfroLandTV",
-    "epg_id": "enginewhale:942280082834594509",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Movie Mania",
-    "epg_id": "enginewhale:643123720684571896",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Afroland Romance",
-    "epg_id": "enginewhale:942280082834594511",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Afroland Family",
-    "epg_id": "enginewhale:942280082834594513",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "a-z Western Grit",
-    "epg_id": "enginewhale:979187723418476859",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "a-z Classic Flix",
-    "epg_id": "enginewhale:979187723418476860",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Afroland Crime",
-    "epg_id": "enginewhale:942280082834594517",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Afroland Thriller",
-    "epg_id": "enginewhale:942280082834594510",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Afroland Nollywood",
-    "epg_id": "enginewhale:942280082834594512",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Brat TV",
-    "epg_id": "enginewhale:968813239419275714",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Nolly Africa HD",
-    "epg_id": "enginewhale:879576692313038808",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "FreeTV Asia",
-    "epg_id": "enginewhale:1057801252425569161",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Delito",
-    "epg_id": "enginewhale:989293714931712081",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Pelimex",
-    "epg_id": "enginewhale:584532704499467702",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Cine en Español",
-    "epg_id": "enginewhale:942280082834594516",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Sooner: Next Gen",
-    "epg_id": "enginewhale:1034986045911343818",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Sooner: Coming of Age",
-    "epg_id": "enginewhale:1034986045911343817",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Bollywood TV",
-    "epg_id": "enginewhale:1034986045911343825",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Bollywood 4U",
-    "epg_id": "enginewhale:1022125030546936771",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Clic",
-    "epg_id": "enginewhale:877395929391956163",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "CNA Originals",
-    "epg_id": "enginewhale:1022680398146637012",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Discovering China",
-    "epg_id": "enginewhale:989293714931712087",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Love The Planet",
-    "epg_id": "enginewhale:999420644834214639",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Trace Sport Stars",
-    "epg_id": "enginewhale:626555045429117070",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Forgotten History",
-    "epg_id": "enginewhale:1124170646201895272",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Docu Vision",
-    "epg_id": "enginewhale:1022125030546936767",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Space Series",
-    "epg_id": "enginewhale:1022125030546936777",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Afroland Docus",
-    "epg_id": "enginewhale:942280082834594515",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Adventure Earth",
-    "epg_id": "enginewhale:931186243466302969",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Terra Mater Wild",
-    "epg_id": "enginewhale:931186243466302960",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Autentic History",
-    "epg_id": "enginewhale:931186243466302968",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Docs & Historias",
-    "epg_id": "enginewhale:989293714931712080",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Naturaleza Salvaje",
-    "epg_id": "enginewhale:931186243466302957",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "WatchMojo",
-    "epg_id": "enginewhale:523509741847643710",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "FailArmy",
-    "epg_id": "enginewhale:411588392116624389",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "People are Awesome",
-    "epg_id": "enginewhale:411588625798144805",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Pet Collective +",
-    "epg_id": "enginewhale:411588003363298938",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Weather Spy",
-    "epg_id": "enginewhale:411588870569207033",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Love Wine",
-    "epg_id": "enginewhale:999420644834214638",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Daystar",
-    "epg_id": "enginewhale:999420644834214622",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "SKWAD",
-    "epg_id": "enginewhale:403923561330776795",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Unleashed by DOGTV",
-    "epg_id": "enginewhale:989293714931712085",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "UnchainedTV",
-    "epg_id": "enginewhale:1022125030546936779",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Cigar TV",
-    "epg_id": "enginewhale:1022125030546936772",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "AWE Plus",
-    "epg_id": "enginewhale:956148002287389582",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Revry Global",
-    "epg_id": "enginewhale:411586786151105512",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "AllHipHop",
-    "epg_id": "enginewhale:925707611914371540",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "SHIFT",
-    "epg_id": "enginewhale:858573967945506058",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Whoa! That was Wild!",
-    "epg_id": "enginewhale:942280082834594499",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "In Touch +",
-    "epg_id": "enginewhale:942280082834594524",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Smart Healthy Green Living",
-    "epg_id": "enginewhale:956148002287389580",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Afroland Comedy",
-    "epg_id": "enginewhale:942280082834594518",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Bark TV",
-    "epg_id": "enginewhale:942280082834594506",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Afroland African",
-    "epg_id": "enginewhale:942280082834594520",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Just For Laughs Comedy",
-    "epg_id": "enginewhale:672540845069111078",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Afroland Faith",
-    "epg_id": "enginewhale:942280082834594514",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Just For Laughs Gags",
-    "epg_id": "enginewhale:911148153934782542",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "LatiNation",
-    "epg_id": "enginewhale:956148002287389578",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Nesting TV",
-    "epg_id": "enginewhale:877405963136014963",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Azteca Internacional",
-    "epg_id": "enginewhale:877391518380856035",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Trace Urban",
-    "epg_id": "enginewhale:626513244395669364",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Trace UK",
-    "epg_id": "enginewhale:886562974989884515",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "REVOLT Mixtape",
-    "epg_id": "enginewhale:1088385876566278489",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Playing For Change",
-    "epg_id": "enginewhale:1022125030546936759",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Metal Rocks",
-    "epg_id": "enginewhale:1088385876566278476",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Qwest TV",
-    "epg_id": "enginewhale:404672260155644405",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Trace Latina",
-    "epg_id": "enginewhale:626514247492833595",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Box Playlist",
-    "epg_id": "enginewhale:968837716807123413",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "INTRAVEL",
-    "epg_id": "enginewhale:910027172377794537",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "China Travel",
-    "epg_id": "enginewhale:989293714931712088",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Journy TV",
-    "epg_id": "enginewhale:905558162617737047",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Amazing Places",
-    "epg_id": "enginewhale:1124170646201895271",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Drone TV",
-    "epg_id": "enginewhale:925710235225102102",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Escape TV",
-    "epg_id": "enginewhale:1022125030546936765",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Arab Heritage TV",
-    "epg_id": "enginewhale:1022125030546936775",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Travel & Food TV",
-    "epg_id": "enginewhale:968837716807123414",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Autentic Travel",
-    "epg_id": "enginewhale:931186243466302967",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "TV5 Monde+ Voyage",
-    "epg_id": "enginewhale:1065522377628650143",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "DIY Art",
-    "epg_id": "enginewhale:1022125030546936774",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Craftsy TV",
-    "epg_id": "enginewhale:931186243466302961",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "5-Minute Crafts",
-    "epg_id": "enginewhale:886574565227497107",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "123GO!",
-    "epg_id": "enginewhale:972712064533996134",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Tasty",
-    "epg_id": "enginewhale:956148002287389583",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Gusto TV",
-    "epg_id": "enginewhale:522806775813578244",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "TV5 Monde+ Chefs",
-    "epg_id": "enginewhale:1065522377628650141",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "crema.tv",
-    "epg_id": "enginewhale:956148002287389585",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Cooking Panda",
-    "epg_id": "enginewhale:422056370578787609",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Top Barça",
-    "epg_id": "enginewhale:1057801252425569157",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "INTER 24/7",
-    "epg_id": "enginewhale:999420644834214624",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Goal TV",
-    "epg_id": "enginewhale:1022125030546936768",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "World Poker Tour",
-    "epg_id": "enginewhale:879287701189693311",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "GoProTV",
-    "epg_id": "enginewhale:1047691487359932800",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Free Live Sports",
-    "epg_id": "enginewhale:1088385876566278479",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Tennis TV",
-    "epg_id": "enginewhale:1047691487359932797",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "World Surf League",
-    "epg_id": "enginewhale:1057801252425569155",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Strongman Champions League",
-    "epg_id": "enginewhale:1124170646201895270",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Horse & Country",
-    "epg_id": "enginewhale:1088385876566278478",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "SportsGrid Canada",
-    "epg_id": "enginewhale:1098521474803237797",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Hoop TV",
-    "epg_id": "enginewhale:1022125030546936763",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Homerun TV",
-    "epg_id": "enginewhale:1022125030546936764",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Xtrem Sports",
-    "epg_id": "enginewhale:1022125030546936780",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Hunt Fish TV",
-    "epg_id": "enginewhale:1022125030546936762",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Sport Fishing TV",
-    "epg_id": "enginewhale:1022125030546936776",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Billiard TV",
-    "epg_id": "enginewhale:942280082834594507",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "ACL Cornhole TV",
-    "epg_id": "enginewhale:942280082834594526",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "AYM Sports",
-    "epg_id": "enginewhale:967946649035481278",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Nascar",
-    "epg_id": "enginewhale:1088385876566278481",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "wedotv Cars",
-    "epg_id": "enginewhale:1088385876566278484",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Drive+Speed",
-    "epg_id": "enginewhale:1022125030546936769",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Chrono TV",
-    "epg_id": "enginewhale:1022125030546936770",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "NHRA TV",
-    "epg_id": "enginewhale:403930522944276154",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "PowerSports World",
-    "epg_id": "enginewhale:942280082834594504",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "DW",
-    "epg_id": "enginewhale:1065522377628650140",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Global Biz",
-    "epg_id": "enginewhale:989293714931712086",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "DeFiance News",
-    "epg_id": "enginewhale:989293714931712083",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "OAN Plus",
-    "epg_id": "enginewhale:956148002287389581",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "NTD",
-    "epg_id": "enginewhale:879563029959157019",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "TRT World",
-    "epg_id": "enginewhale:945087649944309085",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "France 24",
-    "epg_id": "enginewhale:925715003465143077",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "Comercio TV",
-    "epg_id": "enginewhale:931186243466302959",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "TV5 Monde Info",
-    "epg_id": "enginewhale:1065522377628650142",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "time2Rlx",
-    "epg_id": "enginewhale:942280082834594503",
-    "country": "",
-    "list": "native-whale"
-  },
-  {
-    "name": "NOMADLife.tv",
-    "epg_id": "enginewhale:979187723418476864",
-    "country": "",
-    "list": "native-whale"
+    "list": "native-xumo"
   },
   {
     "name": "FOX LOCAL Orlando",
@@ -62010,44 +61230,8 @@
     "list": "native-xumo"
   },
   {
-    "name": "FOX LOCAL Chicago",
-    "epg_id": "enginexumo:99951415",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
     "name": "FOX LOCAL Tampa Bay",
     "epg_id": "enginexumo:99951416",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "WSOC Charlotte",
-    "epg_id": "enginexumo:99991691",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "CBS News Los Angeles",
-    "epg_id": "enginexumo:99991642",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "FOX LOCAL Dallas-Fort Worth",
-    "epg_id": "enginexumo:99951418",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "WPXI Pittsburgh",
-    "epg_id": "enginexumo:99991689",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "WFTV Orlando",
-    "epg_id": "enginexumo:9995107",
     "country": "",
     "list": "native-xumo"
   },
@@ -62058,56 +61242,20 @@
     "list": "native-xumo"
   },
   {
-    "name": "Stingray Classic Rock",
-    "epg_id": "enginexumo:99991119",
+    "name": "WFTV Orlando",
+    "epg_id": "enginexumo:9995107",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "NBC 4 Los Angeles News",
-    "epg_id": "enginexumo:99951164",
+    "name": "CBS News Los Angeles",
+    "epg_id": "enginexumo:99991642",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "NBC 4 New York News",
-    "epg_id": "enginexumo:99951163",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "FOX LOCAL Washington DC",
-    "epg_id": "enginexumo:99951428",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "KIRO Seattle",
-    "epg_id": "enginexumo:9995112",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Boston 25",
-    "epg_id": "enginexumo:9995108",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Action News Jax",
-    "epg_id": "enginexumo:9995110",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "Stingray Greatest Holiday Hits",
-    "epg_id": "enginexumo:99991120",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "FOX LOCAL Phoenix",
-    "epg_id": "enginexumo:99951419",
+    "name": "FOX LOCAL Chicago",
+    "epg_id": "enginexumo:99951415",
     "country": "",
     "list": "native-xumo"
   },
@@ -62118,8 +61266,56 @@
     "list": "native-xumo"
   },
   {
+    "name": "Stingray Classic Rock",
+    "epg_id": "enginexumo:99991119",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "KIRO Seattle",
+    "epg_id": "enginexumo:9995112",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "WSOC Charlotte",
+    "epg_id": "enginexumo:99991691",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Action News Jax",
+    "epg_id": "enginexumo:9995110",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
     "name": "Stingray Soul Storm",
     "epg_id": "enginexumo:99991121",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Stingray Greatest Holiday Hits",
+    "epg_id": "enginexumo:99991120",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "NBC 4 Los Angeles News",
+    "epg_id": "enginexumo:99951164",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FOX LOCAL Dallas-Fort Worth",
+    "epg_id": "enginexumo:99951418",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Boston 25",
+    "epg_id": "enginexumo:9995108",
     "country": "",
     "list": "native-xumo"
   },
@@ -62130,26 +61326,14 @@
     "list": "native-xumo"
   },
   {
-    "name": "Telemundo Noticias Noreste",
-    "epg_id": "enginexumo:99951228",
+    "name": "FOX LOCAL Washington DC",
+    "epg_id": "enginexumo:99951428",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "NBC 6 South Florida News",
-    "epg_id": "enginexumo:99951167",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "CBS News New York",
-    "epg_id": "enginexumo:99991641",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "FOX LOCAL Milwaukee",
-    "epg_id": "enginexumo:99951429",
+    "name": "NBC 4 New York News",
+    "epg_id": "enginexumo:99951163",
     "country": "",
     "list": "native-xumo"
   },
@@ -62160,14 +61344,20 @@
     "list": "native-xumo"
   },
   {
-    "name": "Telemundo Noticias California",
-    "epg_id": "enginexumo:99951225",
+    "name": "FOX LOCAL Philadelphia",
+    "epg_id": "enginexumo:99951424",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "WSB Atlanta",
-    "epg_id": "enginexumo:99991690",
+    "name": "FOX LOCAL Phoenix",
+    "epg_id": "enginexumo:99951419",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "CBS News Chicago",
+    "epg_id": "enginexumo:99991643",
     "country": "",
     "list": "native-xumo"
   },
@@ -62184,20 +61374,56 @@
     "list": "native-xumo"
   },
   {
-    "name": "Telemundo Noticias Suroeste",
-    "epg_id": "enginexumo:99951556",
+    "name": "CBS News New York",
+    "epg_id": "enginexumo:99991641",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "CBS News Chicago",
-    "epg_id": "enginexumo:99991643",
+    "name": "NBC 6 South Florida News",
+    "epg_id": "enginexumo:99951167",
     "country": "",
     "list": "native-xumo"
   },
   {
-    "name": "FOX LOCAL Philadelphia",
-    "epg_id": "enginexumo:99951424",
+    "name": "WSB Atlanta",
+    "epg_id": "enginexumo:99991690",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Telemundo Noticias Texas",
+    "epg_id": "enginexumo:99951226",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FOX LOCAL Milwaukee",
+    "epg_id": "enginexumo:99951429",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FOX LOCAL Minnesota",
+    "epg_id": "enginexumo:99951431",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Telemundo Noticias Noreste",
+    "epg_id": "enginexumo:99951228",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "NBC 5 Chicago News",
+    "epg_id": "enginexumo:99951165",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FOX LOCAL New York",
+    "epg_id": "enginexumo:99951427",
     "country": "",
     "list": "native-xumo"
   },
@@ -62214,32 +61440,8 @@
     "list": "native-xumo"
   },
   {
-    "name": "NBC 5 Chicago News",
-    "epg_id": "enginexumo:99951165",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "FOX LOCAL Minnesota",
-    "epg_id": "enginexumo:99951431",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "NBC 5 Dallas-Fort Worth News",
-    "epg_id": "enginexumo:99951182",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "NBC 7 San Diego News",
-    "epg_id": "enginexumo:99951185",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "FOX LOCAL San Francisco",
-    "epg_id": "enginexumo:99951422",
+    "name": "News 12 New York",
+    "epg_id": "enginexumo:99951222",
     "country": "",
     "list": "native-xumo"
   },
@@ -62250,32 +61452,8 @@
     "list": "native-xumo"
   },
   {
-    "name": "CBS News Bay Area",
-    "epg_id": "enginexumo:99991655",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "News 12 New York",
-    "epg_id": "enginexumo:99951222",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "NBC 10 Philadelphia News",
-    "epg_id": "enginexumo:99951166",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "FOX LOCAL Austin",
-    "epg_id": "enginexumo:99951430",
-    "country": "",
-    "list": "native-xumo"
-  },
-  {
-    "name": "FOX LOCAL New York",
-    "epg_id": "enginexumo:99951427",
+    "name": "Telemundo Noticias California",
+    "epg_id": "enginexumo:99951225",
     "country": "",
     "list": "native-xumo"
   },
@@ -62298,8 +61476,44 @@
     "list": "native-xumo"
   },
   {
-    "name": "Telemundo Noticias Texas",
-    "epg_id": "enginexumo:99951226",
+    "name": "CBS News Bay Area",
+    "epg_id": "enginexumo:99991655",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FOX LOCAL San Francisco",
+    "epg_id": "enginexumo:99951422",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "FOX LOCAL Austin",
+    "epg_id": "enginexumo:99951430",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "NBC 5 Dallas-Fort Worth News",
+    "epg_id": "enginexumo:99951182",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "Telemundo Noticias Suroeste",
+    "epg_id": "enginexumo:99951556",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "NBC 10 Philadelphia News",
+    "epg_id": "enginexumo:99951166",
+    "country": "",
+    "list": "native-xumo"
+  },
+  {
+    "name": "NBC 7 San Diego News",
+    "epg_id": "enginexumo:99951185",
     "country": "",
     "list": "native-xumo"
   },
@@ -63238,6 +62452,828 @@
     "epg_id": "enginestirr:6535",
     "country": "",
     "list": "native-stirr"
+  },
+  {
+    "name": "Legacy",
+    "epg_id": "enginewhale:1047721653058412082",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "The Red Green Channel",
+    "epg_id": "enginewhale:925725895506330246",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Scifi World",
+    "epg_id": "enginewhale:1022125030546936778",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Encore+",
+    "epg_id": "enginewhale:1022125030546936766",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "WeShort",
+    "epg_id": "enginewhale:1022125030546936773",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Peekflick",
+    "epg_id": "enginewhale:1022125030546936760",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Mercury+",
+    "epg_id": "enginewhale:1022125030546936761",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Nosey",
+    "epg_id": "enginewhale:894118415936589488",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Judge Nosey",
+    "epg_id": "enginewhale:894117919729520248",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "AVAZ",
+    "epg_id": "enginewhale:1088385876566278483",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Confess by Nosey",
+    "epg_id": "enginewhale:894117456778889583",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Movieitaly Channel",
+    "epg_id": "enginewhale:967946649035481273",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "TidPix",
+    "epg_id": "enginewhale:972720861289775954",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Filmzie",
+    "epg_id": "enginewhale:609411515976060398",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "AfroLandTV",
+    "epg_id": "enginewhale:942280082834594509",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Movie Mania",
+    "epg_id": "enginewhale:643123720684571896",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Afroland Romance",
+    "epg_id": "enginewhale:942280082834594511",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Afroland Family",
+    "epg_id": "enginewhale:942280082834594513",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "a-z Western Grit",
+    "epg_id": "enginewhale:979187723418476859",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "a-z Classic Flix",
+    "epg_id": "enginewhale:979187723418476860",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Afroland Crime",
+    "epg_id": "enginewhale:942280082834594517",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Afroland Thriller",
+    "epg_id": "enginewhale:942280082834594510",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Afroland Nollywood",
+    "epg_id": "enginewhale:942280082834594512",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Brat TV",
+    "epg_id": "enginewhale:968813239419275714",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Nolly Africa HD",
+    "epg_id": "enginewhale:879576692313038808",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "FreeTV Asia",
+    "epg_id": "enginewhale:1057801252425569161",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Delito",
+    "epg_id": "enginewhale:989293714931712081",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Pelimex",
+    "epg_id": "enginewhale:584532704499467702",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Cine en Español",
+    "epg_id": "enginewhale:942280082834594516",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Sooner: Next Gen",
+    "epg_id": "enginewhale:1034986045911343818",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Sooner: Coming of Age",
+    "epg_id": "enginewhale:1034986045911343817",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Bollywood TV",
+    "epg_id": "enginewhale:1034986045911343825",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Bollywood 4U",
+    "epg_id": "enginewhale:1022125030546936771",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Clic",
+    "epg_id": "enginewhale:877395929391956163",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "CNA Originals",
+    "epg_id": "enginewhale:1022680398146637012",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Discovering China",
+    "epg_id": "enginewhale:989293714931712087",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Love The Planet",
+    "epg_id": "enginewhale:999420644834214639",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Trace Sport Stars",
+    "epg_id": "enginewhale:626555045429117070",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Forgotten History",
+    "epg_id": "enginewhale:1124170646201895272",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Docu Vision",
+    "epg_id": "enginewhale:1022125030546936767",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Space Series",
+    "epg_id": "enginewhale:1022125030546936777",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Afroland Docus",
+    "epg_id": "enginewhale:942280082834594515",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Adventure Earth",
+    "epg_id": "enginewhale:931186243466302969",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Terra Mater Wild",
+    "epg_id": "enginewhale:931186243466302960",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Autentic History",
+    "epg_id": "enginewhale:931186243466302968",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Docs & Historias",
+    "epg_id": "enginewhale:989293714931712080",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Naturaleza Salvaje",
+    "epg_id": "enginewhale:931186243466302957",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "WatchMojo",
+    "epg_id": "enginewhale:523509741847643710",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "FailArmy",
+    "epg_id": "enginewhale:411588392116624389",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "People are Awesome",
+    "epg_id": "enginewhale:411588625798144805",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Pet Collective +",
+    "epg_id": "enginewhale:411588003363298938",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Weather Spy",
+    "epg_id": "enginewhale:411588870569207033",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Love Wine",
+    "epg_id": "enginewhale:999420644834214638",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Daystar",
+    "epg_id": "enginewhale:999420644834214622",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "SKWAD",
+    "epg_id": "enginewhale:403923561330776795",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Unleashed by DOGTV",
+    "epg_id": "enginewhale:989293714931712085",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "UnchainedTV",
+    "epg_id": "enginewhale:1022125030546936779",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Cigar TV",
+    "epg_id": "enginewhale:1022125030546936772",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "AWE Plus",
+    "epg_id": "enginewhale:956148002287389582",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Revry Global",
+    "epg_id": "enginewhale:411586786151105512",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "AllHipHop",
+    "epg_id": "enginewhale:925707611914371540",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "SHIFT",
+    "epg_id": "enginewhale:858573967945506058",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Whoa! That was Wild!",
+    "epg_id": "enginewhale:942280082834594499",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "In Touch +",
+    "epg_id": "enginewhale:942280082834594524",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Smart Healthy Green Living",
+    "epg_id": "enginewhale:956148002287389580",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Afroland Comedy",
+    "epg_id": "enginewhale:942280082834594518",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Bark TV",
+    "epg_id": "enginewhale:942280082834594506",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Afroland African",
+    "epg_id": "enginewhale:942280082834594520",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Just For Laughs Comedy",
+    "epg_id": "enginewhale:672540845069111078",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Afroland Faith",
+    "epg_id": "enginewhale:942280082834594514",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Just For Laughs Gags",
+    "epg_id": "enginewhale:911148153934782542",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "LatiNation",
+    "epg_id": "enginewhale:956148002287389578",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Nesting TV",
+    "epg_id": "enginewhale:877405963136014963",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Azteca Internacional",
+    "epg_id": "enginewhale:877391518380856035",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Trace Urban",
+    "epg_id": "enginewhale:626513244395669364",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Trace UK",
+    "epg_id": "enginewhale:886562974989884515",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "REVOLT Mixtape",
+    "epg_id": "enginewhale:1088385876566278489",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Playing For Change",
+    "epg_id": "enginewhale:1022125030546936759",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Metal Rocks",
+    "epg_id": "enginewhale:1088385876566278476",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Qwest TV",
+    "epg_id": "enginewhale:404672260155644405",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Trace Latina",
+    "epg_id": "enginewhale:626514247492833595",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Box Playlist",
+    "epg_id": "enginewhale:968837716807123413",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "INTRAVEL",
+    "epg_id": "enginewhale:910027172377794537",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "China Travel",
+    "epg_id": "enginewhale:989293714931712088",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Journy TV",
+    "epg_id": "enginewhale:905558162617737047",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Amazing Places",
+    "epg_id": "enginewhale:1124170646201895271",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Drone TV",
+    "epg_id": "enginewhale:925710235225102102",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Escape TV",
+    "epg_id": "enginewhale:1022125030546936765",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Arab Heritage TV",
+    "epg_id": "enginewhale:1022125030546936775",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Travel & Food TV",
+    "epg_id": "enginewhale:968837716807123414",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Autentic Travel",
+    "epg_id": "enginewhale:931186243466302967",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "TV5 Monde+ Voyage",
+    "epg_id": "enginewhale:1065522377628650143",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "DIY Art",
+    "epg_id": "enginewhale:1022125030546936774",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Craftsy TV",
+    "epg_id": "enginewhale:931186243466302961",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "5-Minute Crafts",
+    "epg_id": "enginewhale:886574565227497107",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "123GO!",
+    "epg_id": "enginewhale:972712064533996134",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Tasty",
+    "epg_id": "enginewhale:956148002287389583",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Gusto TV",
+    "epg_id": "enginewhale:522806775813578244",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "TV5 Monde+ Chefs",
+    "epg_id": "enginewhale:1065522377628650141",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "crema.tv",
+    "epg_id": "enginewhale:956148002287389585",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Cooking Panda",
+    "epg_id": "enginewhale:422056370578787609",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Top Barça",
+    "epg_id": "enginewhale:1057801252425569157",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "INTER 24/7",
+    "epg_id": "enginewhale:999420644834214624",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Goal TV",
+    "epg_id": "enginewhale:1022125030546936768",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "World Poker Tour",
+    "epg_id": "enginewhale:879287701189693311",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "GoProTV",
+    "epg_id": "enginewhale:1047691487359932800",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Free Live Sports",
+    "epg_id": "enginewhale:1088385876566278479",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Tennis TV",
+    "epg_id": "enginewhale:1047691487359932797",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "World Surf League",
+    "epg_id": "enginewhale:1057801252425569155",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Strongman Champions League",
+    "epg_id": "enginewhale:1124170646201895270",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Horse & Country",
+    "epg_id": "enginewhale:1088385876566278478",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "SportsGrid Canada",
+    "epg_id": "enginewhale:1098521474803237797",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Hoop TV",
+    "epg_id": "enginewhale:1022125030546936763",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Homerun TV",
+    "epg_id": "enginewhale:1022125030546936764",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Xtrem Sports",
+    "epg_id": "enginewhale:1022125030546936780",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Hunt Fish TV",
+    "epg_id": "enginewhale:1022125030546936762",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Sport Fishing TV",
+    "epg_id": "enginewhale:1022125030546936776",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Billiard TV",
+    "epg_id": "enginewhale:942280082834594507",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "ACL Cornhole TV",
+    "epg_id": "enginewhale:942280082834594526",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "AYM Sports",
+    "epg_id": "enginewhale:967946649035481278",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Nascar",
+    "epg_id": "enginewhale:1088385876566278481",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "wedotv Cars",
+    "epg_id": "enginewhale:1088385876566278484",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Drive+Speed",
+    "epg_id": "enginewhale:1022125030546936769",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Chrono TV",
+    "epg_id": "enginewhale:1022125030546936770",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "NHRA TV",
+    "epg_id": "enginewhale:403930522944276154",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "PowerSports World",
+    "epg_id": "enginewhale:942280082834594504",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "DW",
+    "epg_id": "enginewhale:1065522377628650140",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Global Biz",
+    "epg_id": "enginewhale:989293714931712086",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "DeFiance News",
+    "epg_id": "enginewhale:989293714931712083",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "OAN Plus",
+    "epg_id": "enginewhale:956148002287389581",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "NTD",
+    "epg_id": "enginewhale:879563029959157019",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "TRT World",
+    "epg_id": "enginewhale:945087649944309085",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "France 24",
+    "epg_id": "enginewhale:925715003465143077",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "Comercio TV",
+    "epg_id": "enginewhale:931186243466302959",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "TV5 Monde Info",
+    "epg_id": "enginewhale:1065522377628650142",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "time2Rlx",
+    "epg_id": "enginewhale:942280082834594503",
+    "country": "",
+    "list": "native-whale"
+  },
+  {
+    "name": "NOMADLife.tv",
+    "epg_id": "enginewhale:979187723418476864",
+    "country": "",
+    "list": "native-whale"
   },
   {
     "name": "Military Heroes",
@@ -66186,6 +66222,2430 @@
     "list": "native-vizio"
   },
   {
+    "name": "Dog The Bounty Hunter",
+    "epg_id": "enginetcl:AM816556",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "ION",
+    "epg_id": "enginetcl:WU303357",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "BET x Tyler Perry Comedy",
+    "epg_id": "enginetcl:FE169108",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Little House on the Prairie",
+    "epg_id": "enginetcl:XU245149",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Game Show Central",
+    "epg_id": "enginetcl:WU278914",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Deal Zone",
+    "epg_id": "enginetcl:WU323124",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Dateline 24/7",
+    "epg_id": "enginetcl:XU393351",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "NFL Channel",
+    "epg_id": "enginetcl:NF058952",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "ION Mystery",
+    "epg_id": "enginetcl:WU480810",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "48 Hours",
+    "epg_id": "enginetcl:CB983843",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "In The Heat Of The Night",
+    "epg_id": "enginetcl:FE715334",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "50 Cent Action",
+    "epg_id": "enginetcl:AM061916",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Leave it to Beaver",
+    "epg_id": "enginetcl:XU846547",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Universal Westerns",
+    "epg_id": "enginetcl:XU047661",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Murder, She Wrote",
+    "epg_id": "enginetcl:XU916114",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Miramax Movies",
+    "epg_id": "enginetcl:FE622360",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Donut",
+    "epg_id": "enginetcl:AM470868",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Universal Movies",
+    "epg_id": "enginetcl:XU668093",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "CJ ENM K-Stories",
+    "epg_id": "enginetcl:WU680501",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "FilmRise Action",
+    "epg_id": "enginetcl:XU951908",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "ViX Deportes 24/7",
+    "epg_id": "enginetcl:FV831109",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "MGM Presents",
+    "epg_id": "enginetcl:FE688274",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Moviesphere",
+    "epg_id": "enginetcl:AM141350",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "NLC",
+    "epg_id": "enginetcl:FE279348",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Lifetime Holiday Movie Favorites",
+    "epg_id": "enginetcl:WU827634",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "MGM Presents Action",
+    "epg_id": "enginetcl:FE862440",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "MGM Presents: Horror",
+    "epg_id": "enginetcl:FE328250",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Universal Monsters",
+    "epg_id": "enginetcl:XU969852",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "TCL Romance",
+    "epg_id": "enginetcl:XU513512",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "TCL Holiday",
+    "epg_id": "enginetcl:XU042878",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "OUTFLIX MOVIES",
+    "epg_id": "enginetcl:FM150165",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Great American RomComs",
+    "epg_id": "enginetcl:XU826017",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "El Rey",
+    "epg_id": "enginetcl:CI630567",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "TCL Horror",
+    "epg_id": "enginetcl:XU748107",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "FilmRise Free Movies",
+    "epg_id": "enginetcl:XU383118",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "TCL Action",
+    "epg_id": "enginetcl:XU953848",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Action Movies - Rakuten TV",
+    "epg_id": "enginetcl:RK436342",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Comedy Movies - Rakuten TV",
+    "epg_id": "enginetcl:RK802499",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Filmrise Sci-Fi",
+    "epg_id": "enginetcl:XU524118",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Magnolia Selects",
+    "epg_id": "enginetcl:AM421902",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Amasian TV Movies & More",
+    "epg_id": "enginetcl:OM628999",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "SPARK TV",
+    "epg_id": "enginetcl:FW587401",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "MyTime Movie Network",
+    "epg_id": "enginetcl:AM952925",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Free Action Movies",
+    "epg_id": "enginetcl:XU422772",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Free Movies",
+    "epg_id": "enginetcl:XU499866",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "FlixFling",
+    "epg_id": "enginetcl:XU167360",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Free Comedy Movies",
+    "epg_id": "enginetcl:XU960194",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Sweet Escapes",
+    "epg_id": "enginetcl:AM362630",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Martha Stewart Channel",
+    "epg_id": "enginetcl:AM977002",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Stingray Greatest Holiday Hits",
+    "epg_id": "enginetcl:XU678145",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "XITE Happy Holidays",
+    "epg_id": "enginetcl:FA627246",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "NBC News Now",
+    "epg_id": "enginetcl:XU233757",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "CBS News 24/7",
+    "epg_id": "enginetcl:CB502647",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "CNN Headlines",
+    "epg_id": "enginetcl:AM585848",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Noticias Telemundo Ahora",
+    "epg_id": "enginetcl:XU431754",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Noticias Univision 24/7",
+    "epg_id": "enginetcl:FV646095",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Scripps News",
+    "epg_id": "enginetcl:WU633246",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "NewsMax OTT",
+    "epg_id": "enginetcl:AM254119",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "One America News Plus",
+    "epg_id": "enginetcl:AM230320",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Bloomberg TV+",
+    "epg_id": "enginetcl:WU422795",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "FOX Weather",
+    "epg_id": "enginetcl:PF181003",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "WeatherNation",
+    "epg_id": "enginetcl:FW802089",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Al Jazeera",
+    "epg_id": "enginetcl:OM017937",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Sky News",
+    "epg_id": "enginetcl:XU135791",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "60 Minutes",
+    "epg_id": "enginetcl:CB943865",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "TYT",
+    "epg_id": "enginetcl:AM583553",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "USA Today News",
+    "epg_id": "enginetcl:AM423781",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Reuters",
+    "epg_id": "enginetcl:FA124934",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Yahoo Finance",
+    "epg_id": "enginetcl:AM800437",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Bloomberg Originals",
+    "epg_id": "enginetcl:WU328095",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "TV5 MONDE Info",
+    "epg_id": "enginetcl:OT060469",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "CNN Originals",
+    "epg_id": "enginetcl:AM349512",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Universal Crime",
+    "epg_id": "enginetcl:XU150701",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "American Ninja Warrior",
+    "epg_id": "enginetcl:XU560949",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Dr. Phil",
+    "epg_id": "enginetcl:WU296090",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "NBC Comedy Vault",
+    "epg_id": "enginetcl:XU816703",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Stargate",
+    "epg_id": "enginetcl:FE275740",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "The Great British Baking Channel",
+    "epg_id": "enginetcl:PF987791",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Bizarre Foods with Andrew Zimmern",
+    "epg_id": "enginetcl:AM331781",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "No Reservations",
+    "epg_id": "enginetcl:AM584350",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Las Vegas",
+    "epg_id": "enginetcl:XU317834",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Wicked Tuna",
+    "epg_id": "enginetcl:AM164337",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Dog Whisperer with Cesar Milan",
+    "epg_id": "enginetcl:AM833523",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Million Dollar Listing Vault",
+    "epg_id": "enginetcl:XU839318",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Hell's Kitchen & Kitchen Nightmares",
+    "epg_id": "enginetcl:XU443388",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Murdoch Mysteries",
+    "epg_id": "enginetcl:OA464731",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Filmrise British TV",
+    "epg_id": "enginetcl:XU900163",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Lassie",
+    "epg_id": "enginetcl:XU788768",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Alfred Hitchcock Presents",
+    "epg_id": "enginetcl:XU118025",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "The Bob Ross Channel",
+    "epg_id": "enginetcl:WU666617",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Highway to Heaven",
+    "epg_id": "enginetcl:XU661330",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Green Acres",
+    "epg_id": "enginetcl:FE381730",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "The Dick Van Dyke Show",
+    "epg_id": "enginetcl:XU843914",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "The Three Stooges",
+    "epg_id": "enginetcl:AM951961",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "That Girl",
+    "epg_id": "enginetcl:XU657396",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "The Sherlock Holmes Channel",
+    "epg_id": "enginetcl:XU642008",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "The Addams Family",
+    "epg_id": "enginetcl:FE402870",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Filmrise Classic TV",
+    "epg_id": "enginetcl:XU258980",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "The Virginian",
+    "epg_id": "enginetcl:XU838541",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "MGM Presents: Westerns",
+    "epg_id": "enginetcl:FE685028",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Heartland Classic",
+    "epg_id": "enginetcl:AM622125",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "The Rifleman",
+    "epg_id": "enginetcl:XU566067",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "The Lone Ranger",
+    "epg_id": "enginetcl:XU137274",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Grit Xtra",
+    "epg_id": "enginetcl:WU602819",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Wanted Dead or Alive",
+    "epg_id": "enginetcl:AM668628",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Death Valley Days",
+    "epg_id": "enginetcl:XU146202",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Grjngo - Western Movies",
+    "epg_id": "enginetcl:FW974994",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Lone Star",
+    "epg_id": "enginetcl:WU220393",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Western Bound Wrangled by INSP",
+    "epg_id": "enginetcl:AM063228",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Filmrise Western",
+    "epg_id": "enginetcl:XU356665",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "McLeod’s Daughters",
+    "epg_id": "enginetcl:BA731599",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Free Westerns",
+    "epg_id": "enginetcl:XU891377",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Universal Action",
+    "epg_id": "enginetcl:XU321536",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "BET x Tyler Perry Drama",
+    "epg_id": "enginetcl:FE752577",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "ION Plus",
+    "epg_id": "enginetcl:WU801168",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Baywatch",
+    "epg_id": "enginetcl:FR024616",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "CW Gold",
+    "epg_id": "enginetcl:FE534076",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "CW Forever",
+    "epg_id": "enginetcl:FE337069",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "21 Jump Street",
+    "epg_id": "enginetcl:PF160334",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "GET",
+    "epg_id": "enginetcl:FE446510",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Crime ThrillHer",
+    "epg_id": "enginetcl:WU394288",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Nash Bridges",
+    "epg_id": "enginetcl:AM406554",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Nashville English",
+    "epg_id": "enginetcl:AM453552",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Degrassi",
+    "epg_id": "enginetcl:AM008518",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Electric Now",
+    "epg_id": "enginetcl:AM397228",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Lawless",
+    "epg_id": "enginetcl:AM686031",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "E! Keeping Up",
+    "epg_id": "enginetcl:XU530768",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Say Yes to the Dress",
+    "epg_id": "enginetcl:AM775373",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Property Brothers",
+    "epg_id": "enginetcl:FE882619",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Real Housewives Vault",
+    "epg_id": "enginetcl:XU883706",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Bravo Vault",
+    "epg_id": "enginetcl:XU983349",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Bad Girls Club",
+    "epg_id": "enginetcl:XU872330",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Nosey",
+    "epg_id": "enginetcl:AM016987",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Untold Stories of the ER",
+    "epg_id": "enginetcl:XU324897",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Cheaters",
+    "epg_id": "enginetcl:XU122658",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Dance Moms",
+    "epg_id": "enginetcl:AM432545",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Matched Married Meet",
+    "epg_id": "enginetcl:AM485882",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Perform",
+    "epg_id": "enginetcl:WU530508",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Unspeakable",
+    "epg_id": "enginetcl:XU895532",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Oxygen True Crime Archives",
+    "epg_id": "enginetcl:XU817578",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Cold Case Files",
+    "epg_id": "enginetcl:AM689774",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "World's Wildest Police Videos",
+    "epg_id": "enginetcl:XU207744",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "The FBI Files",
+    "epg_id": "enginetcl:XU506954",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Dr. G: Medical Examiner",
+    "epg_id": "enginetcl:XU173285",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Court TV",
+    "epg_id": "enginetcl:WU837488",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "World's Most Evil Killers",
+    "epg_id": "enginetcl:XU191576",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Crime Cults Killers  by A&E",
+    "epg_id": "enginetcl:WU469819",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Car Chase",
+    "epg_id": "enginetcl:CB986699",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Filmrise True Crime",
+    "epg_id": "enginetcl:XU871093",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Court TV Legendary Trials",
+    "epg_id": "enginetcl:WU858055",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Real Crime Uncovered by VideoElephant",
+    "epg_id": "enginetcl:WU048581",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Mysteria",
+    "epg_id": "enginetcl:FE345509",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Crime 360",
+    "epg_id": "enginetcl:WU779011",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Forensic Files",
+    "epg_id": "enginetcl:XU970524",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "American Crimes",
+    "epg_id": "enginetcl:XU174262",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Living with Evil",
+    "epg_id": "enginetcl:AM242782",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Unsolved Mysteries",
+    "epg_id": "enginetcl:XU064834",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Women Behind Bars",
+    "epg_id": "enginetcl:XU206578",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Sheriffs: El Dorado County",
+    "epg_id": "enginetcl:XU325470",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "The New Detectives",
+    "epg_id": "enginetcl:XU353866",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Bloodline Detectives",
+    "epg_id": "enginetcl:XU642756",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "TruBlu",
+    "epg_id": "enginetcl:WU420494",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Crime Scene TV",
+    "epg_id": "enginetcl:XU306984",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Modern Marvels",
+    "epg_id": "enginetcl:WU930479",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Storage Wars by A&E",
+    "epg_id": "enginetcl:PF071329",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Duck Dynasty",
+    "epg_id": "enginetcl:AM989242",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Ancient Aliens",
+    "epg_id": "enginetcl:PF205970",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Mysterious Worlds",
+    "epg_id": "enginetcl:AM803267",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Xtreme Outdoor Presented by HISTORY",
+    "epg_id": "enginetcl:WU298810",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "MythBusters",
+    "epg_id": "enginetcl:AM263562",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Ax Men",
+    "epg_id": "enginetcl:WU009392",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Ice Road Truckers",
+    "epg_id": "enginetcl:WU389687",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Mayday: Air Disaster",
+    "epg_id": "enginetcl:FE003388",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Extreme Jobs",
+    "epg_id": "enginetcl:AM309880",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "History and Warfare",
+    "epg_id": "enginetcl:AM292916",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Highway Thru Hell",
+    "epg_id": "enginetcl:FA427783",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Military Heroes",
+    "epg_id": "enginetcl:AM627975",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "AIR & SPACE",
+    "epg_id": "enginetcl:WU687342",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Are We There Yet?",
+    "epg_id": "enginetcl:LG742817",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Love Thy Neighbor",
+    "epg_id": "enginetcl:AM321194",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Bounce XL",
+    "epg_id": "enginetcl:WU779514",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Ebony TV",
+    "epg_id": "enginetcl:AM961182",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Shades of Black",
+    "epg_id": "enginetcl:AM904644",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Complex TV",
+    "epg_id": "enginetcl:AM088930",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Judge Faith",
+    "epg_id": "enginetcl:AM765904",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "LOL! Network",
+    "epg_id": "enginetcl:AM749565",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Maverick Black Cinema",
+    "epg_id": "enginetcl:WU433353",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Free Black Cinema",
+    "epg_id": "enginetcl:XU366765",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "FilmRise Black TV",
+    "epg_id": "enginetcl:XU151176",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "4UV",
+    "epg_id": "enginetcl:AM910637",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "The BLK Effect",
+    "epg_id": "enginetcl:WU943652",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "The Conners",
+    "epg_id": "enginetcl:AM269952",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "SNL Vault",
+    "epg_id": "enginetcl:XU033415",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Saved by the Bell",
+    "epg_id": "enginetcl:XU580234",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Fluffy TV",
+    "epg_id": "enginetcl:FM282790",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "80s Sitcom",
+    "epg_id": "enginetcl:AM570652",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Mr.Bean",
+    "epg_id": "enginetcl:FA146933",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Kim's Convenience",
+    "epg_id": "enginetcl:XU646871",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "FailArmy",
+    "epg_id": "enginetcl:XU187954",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "LAFF More",
+    "epg_id": "enginetcl:WU637641",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Always Funny",
+    "epg_id": "enginetcl:FE546780",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "JAJAJA",
+    "epg_id": "enginetcl:FV234337",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Just for Laughs Gags",
+    "epg_id": "enginetcl:XU901253",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "CBS Sports HQ",
+    "epg_id": "enginetcl:CB348247",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "NBC Sports NOW",
+    "epg_id": "enginetcl:XU776570",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "FOX Sports",
+    "epg_id": "enginetcl:PF152772",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "SportsGrid",
+    "epg_id": "enginetcl:AM651789",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "World Poker Tour",
+    "epg_id": "enginetcl:WU779894",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "GLORY Kickboxing",
+    "epg_id": "enginetcl:WU242206",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Billiard TV",
+    "epg_id": "enginetcl:XU692943",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Tennis Channel US",
+    "epg_id": "enginetcl:FA210004",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "PickleTV",
+    "epg_id": "enginetcl:WU601793",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "CW Presents WWE NXT",
+    "epg_id": "enginetcl:AM212467",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "TNA Wrestling",
+    "epg_id": "enginetcl:XU872967",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "CBS Sports Golazo Network",
+    "epg_id": "enginetcl:CB660527",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "FIFA+",
+    "epg_id": "enginetcl:WU817348",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "UEFA Champions League",
+    "epg_id": "enginetcl:CB954201",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Real Madrid",
+    "epg_id": "enginetcl:WU442248",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Man City 24/7",
+    "epg_id": "enginetcl:OW958511",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "INTER 24-7 English",
+    "epg_id": "enginetcl:OM608101",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "GolfPass",
+    "epg_id": "enginetcl:XU812308",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Strongman Champions League",
+    "epg_id": "enginetcl:WU165958",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "PFL MMA",
+    "epg_id": "enginetcl:FW712284",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Swerve Combat",
+    "epg_id": "enginetcl:FE537428",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Scripps Sports Network",
+    "epg_id": "enginetcl:WU443592",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Fubo Sports Network",
+    "epg_id": "enginetcl:FB353766",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Women's Sports Network",
+    "epg_id": "enginetcl:AM451783",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "The Jim Rome Show",
+    "epg_id": "enginetcl:AM376413",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Discovery Turbo TV",
+    "epg_id": "enginetcl:AM983575",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Torque",
+    "epg_id": "enginetcl:WU652261",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "PowerNation",
+    "epg_id": "enginetcl:AM229381",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Top Gear",
+    "epg_id": "enginetcl:PF352890",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "FloRacing 24/7",
+    "epg_id": "enginetcl:AM092791",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "MTRSPT1",
+    "epg_id": "enginetcl:AM928735",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Filmrise Horror",
+    "epg_id": "enginetcl:XU310151",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Haunt TV US",
+    "epg_id": "enginetcl:AM371484",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Z Nation",
+    "epg_id": "enginetcl:XU106664",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "The Asylum",
+    "epg_id": "enginetcl:XU336767",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Midnight Pulp",
+    "epg_id": "enginetcl:FE966854",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "DREAD TV",
+    "epg_id": "enginetcl:WU010416",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Free Horror & Thriller Movies",
+    "epg_id": "enginetcl:XU898723",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Deal or No Deal",
+    "epg_id": "enginetcl:BA498155",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "The Price is Right",
+    "epg_id": "enginetcl:PF973058",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "BUZZR",
+    "epg_id": "enginetcl:PF092555",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Classic Family Feud",
+    "epg_id": "enginetcl:FR775718",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "MrBeast",
+    "epg_id": "enginetcl:PF869566",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Iron Chef",
+    "epg_id": "enginetcl:XU818918",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Fear Factor",
+    "epg_id": "enginetcl:BA308232",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Celebrity Name Game",
+    "epg_id": "enginetcl:AM988594",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Wipeout Xtra",
+    "epg_id": "enginetcl:BA594861",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Lucha Plus",
+    "epg_id": "enginetcl:AM555031",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "PBS Nature",
+    "epg_id": "enginetcl:XU615949",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "BBC Earth",
+    "epg_id": "enginetcl:PF990145",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Love Nature English",
+    "epg_id": "enginetcl:AM607084",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Stingray Naturescape",
+    "epg_id": "enginetcl:XU054202",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Terra Mater WILD",
+    "epg_id": "enginetcl:WU264213",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "The Jack Hanna Channel",
+    "epg_id": "enginetcl:AM734725",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Go Wild",
+    "epg_id": "enginetcl:XU567886",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Adventure Earth",
+    "epg_id": "enginetcl:WU659701",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Rovr Pets",
+    "epg_id": "enginetcl:AM165395",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Dog House TV+",
+    "epg_id": "enginetcl:XU193007",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Cesar's Pack Leader TV",
+    "epg_id": "enginetcl:WU535664",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Paternity Court",
+    "epg_id": "enginetcl:FE805784",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Divorce Court",
+    "epg_id": "enginetcl:XU264158",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Confess by Nosey",
+    "epg_id": "enginetcl:AM677552",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Judge Nosey",
+    "epg_id": "enginetcl:AM548308",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "TODAY All Day",
+    "epg_id": "enginetcl:XU362928",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Inside Edition",
+    "epg_id": "enginetcl:CB200222",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "America's Test Kitchen",
+    "epg_id": "enginetcl:XU178278",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Lidia's Kitchen",
+    "epg_id": "enginetcl:XU922123",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Tastemade US",
+    "epg_id": "enginetcl:AM042279",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Emeril Lagasse Channel",
+    "epg_id": "enginetcl:AM187284",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "PBS Food",
+    "epg_id": "enginetcl:FA967537",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "TV5 MONDE+ Chefs",
+    "epg_id": "enginetcl:OT656084",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "At Home with Family Handyman",
+    "epg_id": "enginetcl:XU897250",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Tiny House Nation",
+    "epg_id": "enginetcl:WU103763",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Home.Made.Nation",
+    "epg_id": "enginetcl:WU657544",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Property & Reno",
+    "epg_id": "enginetcl:FE390815",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "QVC",
+    "epg_id": "enginetcl:WU693279",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "QVC2",
+    "epg_id": "enginetcl:WU427208",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "HSN",
+    "epg_id": "enginetcl:WU173542",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Pokémon",
+    "epg_id": "enginetcl:AM991851",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "BABY SHARK TV",
+    "epg_id": "enginetcl:NI121531",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Baby Joy Joy",
+    "epg_id": "enginetcl:FU999236",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Teletubbies",
+    "epg_id": "enginetcl:XU156802",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Like Nastya",
+    "epg_id": "enginetcl:FU793789",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "True and the Rainbow Kingdom",
+    "epg_id": "enginetcl:FU350932",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "My Little Pony",
+    "epg_id": "enginetcl:FA919798",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Power Rangers",
+    "epg_id": "enginetcl:FA069789",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Sonic The Hedgehog",
+    "epg_id": "enginetcl:XU054446",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Hasbro Legends",
+    "epg_id": "enginetcl:AM313742",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Transformers",
+    "epg_id": "enginetcl:FA048168",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "The LEGO Channel",
+    "epg_id": "enginetcl:FU614975",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Strawberry Shortcake",
+    "epg_id": "enginetcl:XU614863",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Kids TV",
+    "epg_id": "enginetcl:FW774290",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Pitufo TV",
+    "epg_id": "enginetcl:OT013414",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "TG Junior",
+    "epg_id": "enginetcl:OT471200",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Filmrise Kids",
+    "epg_id": "enginetcl:XU269712",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "PBS Retro",
+    "epg_id": "enginetcl:FA778313",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Toon Goggles",
+    "epg_id": "enginetcl:OT654980",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Trinity Broadcast Network",
+    "epg_id": "enginetcl:XU888932",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Joel Osteen Network",
+    "epg_id": "enginetcl:FE068647",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Elevation Church Network",
+    "epg_id": "enginetcl:FE814954",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "InTouchPlus",
+    "epg_id": "enginetcl:AM688909",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Daystar TV",
+    "epg_id": "enginetcl:DA181752",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "XITE Christian Hits",
+    "epg_id": "enginetcl:FA758247",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Xena Warrior Princess",
+    "epg_id": "enginetcl:XU192667",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "UnXplained Zone",
+    "epg_id": "enginetcl:WU648620",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "The Outer Limits",
+    "epg_id": "enginetcl:FE435858",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Paranormal Files",
+    "epg_id": "enginetcl:XU531449",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Outersphere",
+    "epg_id": "enginetcl:AM743405",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Beyond Belief: Fact or Fiction!",
+    "epg_id": "enginetcl:XU772781",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Ghost Hunters",
+    "epg_id": "enginetcl:AM230412",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Beyond Paranormal",
+    "epg_id": "enginetcl:WU306069",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "The Outpost",
+    "epg_id": "enginetcl:XU921128",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Naruto",
+    "epg_id": "enginetcl:XU580950",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Hunter x Hunter",
+    "epg_id": "enginetcl:XU901100",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Inuyasha",
+    "epg_id": "enginetcl:XU380235",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Sailor Moon",
+    "epg_id": "enginetcl:XU166165",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "TCL Anime",
+    "epg_id": "enginetcl:XU572810",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Anime 24/7",
+    "epg_id": "enginetcl:OM659334",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Filmrise Anime",
+    "epg_id": "enginetcl:XU132409",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Caso Cerrado",
+    "epg_id": "enginetcl:XU585373",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Dateline en Español",
+    "epg_id": "enginetcl:XU953043",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "El Señor de los Cielos",
+    "epg_id": "enginetcl:XU649697",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Como Dice el Dicho",
+    "epg_id": "enginetcl:FV268943",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Estrella TV",
+    "epg_id": "enginetcl:AM580280",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Canela.TV Clasicos",
+    "epg_id": "enginetcl:CA767528",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Canela.TV Narco Drama",
+    "epg_id": "enginetcl:CA848418",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Canela.TV Novelas y Dramas",
+    "epg_id": "enginetcl:CA819588",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Telemundo Deportes Ahora",
+    "epg_id": "enginetcl:XU083198",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Canela.TV Hollywood y Mas",
+    "epg_id": "enginetcl:CA546520",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Galanes",
+    "epg_id": "enginetcl:FV534695",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Grandes Parejas",
+    "epg_id": "enginetcl:FV824171",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Las 3 Marias",
+    "epg_id": "enginetcl:FV691538",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Cine de Oro",
+    "epg_id": "enginetcl:FV572421",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Cine Retro",
+    "epg_id": "enginetcl:FV250417",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "XITE Siempre Latino",
+    "epg_id": "enginetcl:FA768065",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "XITE Nuevo Latino",
+    "epg_id": "enginetcl:FA287765",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Rebelde",
+    "epg_id": "enginetcl:FV132076",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Pequeños Gigantes",
+    "epg_id": "enginetcl:FV000141",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Nosey Escándalos",
+    "epg_id": "enginetcl:AM274300",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Toon Goggles en Español",
+    "epg_id": "enginetcl:OT473261",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Hersphere",
+    "epg_id": "enginetcl:AM166293",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Wu Tang Collection TV",
+    "epg_id": "enginetcl:XU028214",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "The Graham Norton Show",
+    "epg_id": "enginetcl:OA256954",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "ET",
+    "epg_id": "enginetcl:CB982000",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Dungeons & Dragons",
+    "epg_id": "enginetcl:FA469670",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Revry Domestic",
+    "epg_id": "enginetcl:FE193904",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Creator Television",
+    "epg_id": "enginetcl:AM716108",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Valuetainment",
+    "epg_id": "enginetcl:WU796440",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Jubao",
+    "epg_id": "enginetcl:OT770028",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "PBS Antiques Roadshow",
+    "epg_id": "enginetcl:FA252970",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Travel Escapes",
+    "epg_id": "enginetcl:WU242280",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Field & Stream TV",
+    "epg_id": "enginetcl:XU028741",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "WayPoint",
+    "epg_id": "enginetcl:AM503078",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "PursuitUP",
+    "epg_id": "enginetcl:FE033248",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Xplore",
+    "epg_id": "enginetcl:AM804357",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Antiques Road Trip",
+    "epg_id": "enginetcl:FA668900",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "TV5 MONDE+ Voyage",
+    "epg_id": "enginetcl:OT842331",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Wheels & Steel",
+    "epg_id": "enginetcl:AM772391",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Cosmic Frontiers",
+    "epg_id": "enginetcl:AM270986",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "MagellanTV Wildest",
+    "epg_id": "enginetcl:AM308076",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Vice",
+    "epg_id": "enginetcl:OA685650",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Startalk TV",
+    "epg_id": "enginetcl:FE977627",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "ValorousTV",
+    "epg_id": "enginetcl:XU844129",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Curiosity Now",
+    "epg_id": "enginetcl:AM283518",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Milenio Television",
+    "epg_id": "enginetcl:OT597464",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Telemundo Al Dia",
+    "epg_id": "enginetcl:XU643992",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Telemundo Noticias Florida",
+    "epg_id": "enginetcl:XU774561",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Telemundo Noticias Noreste",
+    "epg_id": "enginetcl:XU749774",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Telemundo Noticias Texas",
+    "epg_id": "enginetcl:XU468074",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Telemundo Noticias Suroeste",
+    "epg_id": "enginetcl:XU715947",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Estrella News",
+    "epg_id": "enginetcl:AM636993",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Telemundo Noticias California",
+    "epg_id": "enginetcl:XU551460",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Aquí y Ahora",
+    "epg_id": "enginetcl:FV679190",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "The Country Network",
+    "epg_id": "enginetcl:CI937878",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "XITE Classic Country",
+    "epg_id": "enginetcl:FA932598",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "XITE Country Today",
+    "epg_id": "enginetcl:FA498977",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Stingray Classic Rock",
+    "epg_id": "enginetcl:XU732983",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Stingray Hot Country",
+    "epg_id": "enginetcl:XU493635",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Stingray Easy Listening",
+    "epg_id": "enginetcl:XU320319",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "XITE Rock x Metal",
+    "epg_id": "enginetcl:FA565147",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Stingray Remember the 80s",
+    "epg_id": "enginetcl:XU926524",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "XITE 80s Flashback",
+    "epg_id": "enginetcl:FA701227",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "XITE 60s & 70s Groove",
+    "epg_id": "enginetcl:FA733454",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "XITE Rap Game",
+    "epg_id": "enginetcl:FA984417",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "XITE Hip-Hop Evolution",
+    "epg_id": "enginetcl:FA473987",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Stingray Hip Hop",
+    "epg_id": "enginetcl:XU717281",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "XITE R&B Classic Jams",
+    "epg_id": "enginetcl:FA517545",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "XITE R&B Feels",
+    "epg_id": "enginetcl:FA181033",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "XITE Reggae Vibes",
+    "epg_id": "enginetcl:FA165120",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Stingray Hitlist",
+    "epg_id": "enginetcl:XU194328",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "XITE Hits",
+    "epg_id": "enginetcl:FA701202",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Stingray Cozy Cafe",
+    "epg_id": "enginetcl:XU679187",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "XITE Just Chill",
+    "epg_id": "enginetcl:FA527013",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Stingray SPA",
+    "epg_id": "enginetcl:XU073066",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Stingray Nothin' but the 90s",
+    "epg_id": "enginetcl:XU728542",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "XITE 90s Throwback",
+    "epg_id": "enginetcl:FA798979",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Stingray Smooth Jazz",
+    "epg_id": "enginetcl:XU541633",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Movie Music by Stingray",
+    "epg_id": "enginetcl:XU711898",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "TikTok Radio",
+    "epg_id": "enginetcl:XU747146",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Dove Channel",
+    "epg_id": "enginetcl:FE463482",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
+    "name": "Free Action & Drama TV",
+    "epg_id": "enginetcl:XU069721",
+    "country": "",
+    "list": "native-tcl"
+  },
+  {
     "name": "Binge Fest",
     "epg_id": "engineroku:b73a771a97e84bf5519dec639921535c",
     "country": "",
@@ -66838,2459 +69298,5 @@
     "epg_id": "engineroku:1a89da67090e3972c0abf6937d2bb201",
     "country": "",
     "list": "native-roku"
-  },
-  {
-    "name": "Sports Connect",
-    "epg_id": "enginefls:68543f26a4a3e82dffc86da2",
-    "country": "",
-    "list": "native-freelivesports"
-  },
-  {
-    "name": "MotorRacing",
-    "epg_id": "enginefls:67917ab78c569dd6bc2eb2c4",
-    "country": "",
-    "list": "native-freelivesports"
-  },
-  {
-    "name": "RPM Motorsport",
-    "epg_id": "enginefls:6675bae1d823954d12bb5b44",
-    "country": "",
-    "list": "native-freelivesports"
-  },
-  {
-    "name": "HorizonSports",
-    "epg_id": "enginefls:67917a6de0eff6898a8584ff",
-    "country": "",
-    "list": "native-freelivesports"
-  },
-  {
-    "name": "Action Plus",
-    "epg_id": "enginefls:66f5a9a408f2c39175aab916",
-    "country": "",
-    "list": "native-freelivesports"
-  },
-  {
-    "name": "Dog The Bounty Hunter",
-    "epg_id": "enginetcl:AM816556",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "ION",
-    "epg_id": "enginetcl:WU303357",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "BET x Tyler Perry Comedy",
-    "epg_id": "enginetcl:FE169108",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Little House on the Prairie",
-    "epg_id": "enginetcl:XU245149",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Game Show Central",
-    "epg_id": "enginetcl:WU278914",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Deal Zone",
-    "epg_id": "enginetcl:WU323124",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Dateline 24/7",
-    "epg_id": "enginetcl:XU393351",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "NFL Channel",
-    "epg_id": "enginetcl:NF058952",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "ION Mystery",
-    "epg_id": "enginetcl:WU480810",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "In The Heat Of The Night",
-    "epg_id": "enginetcl:FE715334",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "48 Hours",
-    "epg_id": "enginetcl:CB983843",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Universal Westerns",
-    "epg_id": "enginetcl:XU047661",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Leave it to Beaver",
-    "epg_id": "enginetcl:XU846547",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Murder, She Wrote",
-    "epg_id": "enginetcl:XU916114",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "50 Cent Action",
-    "epg_id": "enginetcl:AM061916",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Miramax Movies",
-    "epg_id": "enginetcl:FE622360",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Donut",
-    "epg_id": "enginetcl:AM470868",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Baywatch",
-    "epg_id": "enginetcl:FR024616",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "CJ ENM K-Stories",
-    "epg_id": "enginetcl:WU680501",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "World Poker Tour",
-    "epg_id": "enginetcl:WU779894",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "BUZZR",
-    "epg_id": "enginetcl:PF092555",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "MGM Presents",
-    "epg_id": "enginetcl:FE688274",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Moviesphere",
-    "epg_id": "enginetcl:AM141350",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "NLC",
-    "epg_id": "enginetcl:FE279348",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Universal Movies",
-    "epg_id": "enginetcl:XU668093",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Lifetime Holiday Movie Favorites",
-    "epg_id": "enginetcl:WU827634",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "MGM Presents Action",
-    "epg_id": "enginetcl:FE862440",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "MGM Presents: Horror",
-    "epg_id": "enginetcl:FE328250",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Universal Monsters",
-    "epg_id": "enginetcl:XU969852",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "TCL Romance",
-    "epg_id": "enginetcl:XU513512",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "TCL Holiday",
-    "epg_id": "enginetcl:XU042878",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "OUTFLIX MOVIES",
-    "epg_id": "enginetcl:FM150165",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Great American RomComs",
-    "epg_id": "enginetcl:XU826017",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "El Rey",
-    "epg_id": "enginetcl:CI630567",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "TCL Horror",
-    "epg_id": "enginetcl:XU748107",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "FilmRise Free Movies",
-    "epg_id": "enginetcl:XU383118",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "FilmRise Action",
-    "epg_id": "enginetcl:XU951908",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "TCL Action",
-    "epg_id": "enginetcl:XU953848",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Action Movies - Rakuten TV",
-    "epg_id": "enginetcl:RK436342",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Comedy Movies - Rakuten TV",
-    "epg_id": "enginetcl:RK802499",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Filmrise Sci-Fi",
-    "epg_id": "enginetcl:XU524118",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Magnolia Selects",
-    "epg_id": "enginetcl:AM421902",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Amasian TV Movies & More",
-    "epg_id": "enginetcl:OM628999",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "SPARK TV",
-    "epg_id": "enginetcl:FW587401",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "MyTime Movie Network",
-    "epg_id": "enginetcl:AM952925",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Free Action Movies",
-    "epg_id": "enginetcl:XU422772",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Free Movies",
-    "epg_id": "enginetcl:XU499866",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "FlixFling",
-    "epg_id": "enginetcl:XU167360",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Free Comedy Movies",
-    "epg_id": "enginetcl:XU960194",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "NBC News Now",
-    "epg_id": "enginetcl:XU233757",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "CBS News 24/7",
-    "epg_id": "enginetcl:CB502647",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "CNN Headlines",
-    "epg_id": "enginetcl:AM585848",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Noticias Telemundo Ahora",
-    "epg_id": "enginetcl:XU431754",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Noticias Univision 24/7",
-    "epg_id": "enginetcl:FV646095",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Scripps News",
-    "epg_id": "enginetcl:WU633246",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "NewsMax OTT",
-    "epg_id": "enginetcl:AM254119",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "One America News Plus",
-    "epg_id": "enginetcl:AM230320",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Bloomberg TV+",
-    "epg_id": "enginetcl:WU422795",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "FOX Weather",
-    "epg_id": "enginetcl:PF181003",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "WeatherNation",
-    "epg_id": "enginetcl:FW802089",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Al Jazeera",
-    "epg_id": "enginetcl:OM017937",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Sky News",
-    "epg_id": "enginetcl:XU135791",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "60 Minutes",
-    "epg_id": "enginetcl:CB943865",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "TYT",
-    "epg_id": "enginetcl:AM583553",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "USA Today News",
-    "epg_id": "enginetcl:AM423781",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Reuters",
-    "epg_id": "enginetcl:FA124934",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Yahoo Finance",
-    "epg_id": "enginetcl:AM800437",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Bloomberg Originals",
-    "epg_id": "enginetcl:WU328095",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "TV5 MONDE Info",
-    "epg_id": "enginetcl:OT060469",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "CNN Originals",
-    "epg_id": "enginetcl:AM349512",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Universal Crime",
-    "epg_id": "enginetcl:XU150701",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "American Ninja Warrior",
-    "epg_id": "enginetcl:XU560949",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Dr. Phil",
-    "epg_id": "enginetcl:WU296090",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "NBC Comedy Vault",
-    "epg_id": "enginetcl:XU816703",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Stargate",
-    "epg_id": "enginetcl:FE275740",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "The Great British Baking Channel",
-    "epg_id": "enginetcl:PF987791",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Bizarre Foods with Andrew Zimmern",
-    "epg_id": "enginetcl:AM331781",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "No Reservations",
-    "epg_id": "enginetcl:AM584350",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Las Vegas",
-    "epg_id": "enginetcl:XU317834",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Wicked Tuna",
-    "epg_id": "enginetcl:AM164337",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Dog Whisperer with Cesar Milan",
-    "epg_id": "enginetcl:AM833523",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Million Dollar Listing Vault",
-    "epg_id": "enginetcl:XU839318",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Hell's Kitchen & Kitchen Nightmares",
-    "epg_id": "enginetcl:XU443388",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Murdoch Mysteries",
-    "epg_id": "enginetcl:OA464731",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Filmrise British TV",
-    "epg_id": "enginetcl:XU900163",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Lassie",
-    "epg_id": "enginetcl:XU788768",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Alfred Hitchcock Presents",
-    "epg_id": "enginetcl:XU118025",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "The Bob Ross Channel",
-    "epg_id": "enginetcl:WU666617",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Highway to Heaven",
-    "epg_id": "enginetcl:XU661330",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Green Acres",
-    "epg_id": "enginetcl:FE381730",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "The Dick Van Dyke Show",
-    "epg_id": "enginetcl:XU843914",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "The Three Stooges",
-    "epg_id": "enginetcl:AM951961",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "That Girl",
-    "epg_id": "enginetcl:XU657396",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "The Sherlock Holmes Channel",
-    "epg_id": "enginetcl:XU642008",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "The Addams Family",
-    "epg_id": "enginetcl:FE402870",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Filmrise Classic TV",
-    "epg_id": "enginetcl:XU258980",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "The Virginian",
-    "epg_id": "enginetcl:XU838541",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "MGM Presents: Westerns",
-    "epg_id": "enginetcl:FE685028",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Heartland Classic",
-    "epg_id": "enginetcl:AM622125",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "The Rifleman",
-    "epg_id": "enginetcl:XU566067",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "The Lone Ranger",
-    "epg_id": "enginetcl:XU137274",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Grit Xtra",
-    "epg_id": "enginetcl:WU602819",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Wanted Dead or Alive",
-    "epg_id": "enginetcl:AM668628",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Death Valley Days",
-    "epg_id": "enginetcl:XU146202",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Grjngo - Western Movies",
-    "epg_id": "enginetcl:FW974994",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Lone Star",
-    "epg_id": "enginetcl:WU220393",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Western Bound Wrangled by INSP",
-    "epg_id": "enginetcl:AM063228",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Filmrise Western",
-    "epg_id": "enginetcl:XU356665",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "McLeod’s Daughters",
-    "epg_id": "enginetcl:BA731599",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Free Westerns",
-    "epg_id": "enginetcl:XU891377",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Universal Action",
-    "epg_id": "enginetcl:XU321536",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "BET x Tyler Perry Drama",
-    "epg_id": "enginetcl:FE752577",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "ION Plus",
-    "epg_id": "enginetcl:WU801168",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "CW Gold",
-    "epg_id": "enginetcl:FE534076",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "CW Forever",
-    "epg_id": "enginetcl:FE337069",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "21 Jump Street",
-    "epg_id": "enginetcl:PF160334",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "GET",
-    "epg_id": "enginetcl:FE446510",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Crime ThrillHer",
-    "epg_id": "enginetcl:WU394288",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Nash Bridges",
-    "epg_id": "enginetcl:AM406554",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Nashville English",
-    "epg_id": "enginetcl:AM453552",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Degrassi",
-    "epg_id": "enginetcl:AM008518",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Electric Now",
-    "epg_id": "enginetcl:AM397228",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Lawless",
-    "epg_id": "enginetcl:AM686031",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "E! Keeping Up",
-    "epg_id": "enginetcl:XU530768",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Say Yes to the Dress",
-    "epg_id": "enginetcl:AM775373",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Property Brothers",
-    "epg_id": "enginetcl:FE882619",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Real Housewives Vault",
-    "epg_id": "enginetcl:XU883706",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Bravo Vault",
-    "epg_id": "enginetcl:XU983349",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Bad Girls Club",
-    "epg_id": "enginetcl:XU872330",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Nosey",
-    "epg_id": "enginetcl:AM016987",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Untold Stories of the ER",
-    "epg_id": "enginetcl:XU324897",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Cheaters",
-    "epg_id": "enginetcl:XU122658",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Dance Moms",
-    "epg_id": "enginetcl:AM432545",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Matched Married Meet",
-    "epg_id": "enginetcl:AM485882",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Perform",
-    "epg_id": "enginetcl:WU530508",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Unspeakable",
-    "epg_id": "enginetcl:XU895532",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Oxygen True Crime Archives",
-    "epg_id": "enginetcl:XU817578",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Cold Case Files",
-    "epg_id": "enginetcl:AM689774",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "World's Wildest Police Videos",
-    "epg_id": "enginetcl:XU207744",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "The FBI Files",
-    "epg_id": "enginetcl:XU506954",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Dr. G: Medical Examiner",
-    "epg_id": "enginetcl:XU173285",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Court TV",
-    "epg_id": "enginetcl:WU837488",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "World's Most Evil Killers",
-    "epg_id": "enginetcl:XU191576",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Crime Cults Killers  by A&E",
-    "epg_id": "enginetcl:WU469819",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Car Chase",
-    "epg_id": "enginetcl:CB986699",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Filmrise True Crime",
-    "epg_id": "enginetcl:XU871093",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Court TV Legendary Trials",
-    "epg_id": "enginetcl:WU858055",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Real Crime Uncovered by VideoElephant",
-    "epg_id": "enginetcl:WU048581",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Mysteria",
-    "epg_id": "enginetcl:FE345509",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Crime 360",
-    "epg_id": "enginetcl:WU779011",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Forensic Files",
-    "epg_id": "enginetcl:XU970524",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "American Crimes",
-    "epg_id": "enginetcl:XU174262",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Living with Evil",
-    "epg_id": "enginetcl:AM242782",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Unsolved Mysteries",
-    "epg_id": "enginetcl:XU064834",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Women Behind Bars",
-    "epg_id": "enginetcl:XU206578",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Sheriffs: El Dorado County",
-    "epg_id": "enginetcl:XU325470",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "The New Detectives",
-    "epg_id": "enginetcl:XU353866",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Bloodline Detectives",
-    "epg_id": "enginetcl:XU642756",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "TruBlu",
-    "epg_id": "enginetcl:WU420494",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Crime Scene TV",
-    "epg_id": "enginetcl:XU306984",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Modern Marvels",
-    "epg_id": "enginetcl:WU930479",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Storage Wars by A&E",
-    "epg_id": "enginetcl:PF071329",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Duck Dynasty",
-    "epg_id": "enginetcl:AM989242",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Ancient Aliens",
-    "epg_id": "enginetcl:PF205970",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Mysterious Worlds",
-    "epg_id": "enginetcl:AM803267",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Xtreme Outdoor Presented by HISTORY",
-    "epg_id": "enginetcl:WU298810",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "MythBusters",
-    "epg_id": "enginetcl:AM263562",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Ax Men",
-    "epg_id": "enginetcl:WU009392",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Ice Road Truckers",
-    "epg_id": "enginetcl:WU389687",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Mayday: Air Disaster",
-    "epg_id": "enginetcl:FE003388",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Extreme Jobs",
-    "epg_id": "enginetcl:AM309880",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "History and Warfare",
-    "epg_id": "enginetcl:AM292916",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Highway Thru Hell",
-    "epg_id": "enginetcl:FA427783",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Military Heroes",
-    "epg_id": "enginetcl:AM627975",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "AIR & SPACE",
-    "epg_id": "enginetcl:WU687342",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Are We There Yet?",
-    "epg_id": "enginetcl:LG742817",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Love Thy Neighbor",
-    "epg_id": "enginetcl:AM321194",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Bounce XL",
-    "epg_id": "enginetcl:WU779514",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Ebony TV",
-    "epg_id": "enginetcl:AM961182",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Shades of Black",
-    "epg_id": "enginetcl:AM904644",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Complex TV",
-    "epg_id": "enginetcl:AM088930",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Judge Faith",
-    "epg_id": "enginetcl:AM765904",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "LOL! Network",
-    "epg_id": "enginetcl:AM749565",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Maverick Black Cinema",
-    "epg_id": "enginetcl:WU433353",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Free Black Cinema",
-    "epg_id": "enginetcl:XU366765",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "FilmRise Black TV",
-    "epg_id": "enginetcl:XU151176",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "4UV",
-    "epg_id": "enginetcl:AM910637",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "The BLK Effect",
-    "epg_id": "enginetcl:WU943652",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "The Conners",
-    "epg_id": "enginetcl:AM269952",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "SNL Vault",
-    "epg_id": "enginetcl:XU033415",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Saved by the Bell",
-    "epg_id": "enginetcl:XU580234",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Fluffy TV",
-    "epg_id": "enginetcl:FM282790",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "80s Sitcom",
-    "epg_id": "enginetcl:AM570652",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Mr.Bean",
-    "epg_id": "enginetcl:FA146933",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Kim's Convenience",
-    "epg_id": "enginetcl:XU646871",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "FailArmy",
-    "epg_id": "enginetcl:XU187954",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "LAFF More",
-    "epg_id": "enginetcl:WU637641",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Always Funny",
-    "epg_id": "enginetcl:FE546780",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "JAJAJA",
-    "epg_id": "enginetcl:FV234337",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Just for Laughs Gags",
-    "epg_id": "enginetcl:XU901253",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "CBS Sports HQ",
-    "epg_id": "enginetcl:CB348247",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "NBC Sports NOW",
-    "epg_id": "enginetcl:XU776570",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "FOX Sports",
-    "epg_id": "enginetcl:PF152772",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "SportsGrid",
-    "epg_id": "enginetcl:AM651789",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "GLORY Kickboxing",
-    "epg_id": "enginetcl:WU242206",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Billiard TV",
-    "epg_id": "enginetcl:XU692943",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Tennis Channel US",
-    "epg_id": "enginetcl:FA210004",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "PickleTV",
-    "epg_id": "enginetcl:WU601793",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "CW Presents WWE NXT",
-    "epg_id": "enginetcl:AM212467",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "TNA Wrestling",
-    "epg_id": "enginetcl:XU872967",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "CBS Sports Golazo Network",
-    "epg_id": "enginetcl:CB660527",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "FIFA+",
-    "epg_id": "enginetcl:WU817348",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "UEFA Champions League",
-    "epg_id": "enginetcl:CB954201",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Real Madrid",
-    "epg_id": "enginetcl:WU442248",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Man City 24/7",
-    "epg_id": "enginetcl:OW958511",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "INTER 24-7 English",
-    "epg_id": "enginetcl:OM608101",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "GolfPass",
-    "epg_id": "enginetcl:XU812308",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Strongman Champions League",
-    "epg_id": "enginetcl:WU165958",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "PFL MMA",
-    "epg_id": "enginetcl:FW712284",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Swerve Combat",
-    "epg_id": "enginetcl:FE537428",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Scripps Sports Network",
-    "epg_id": "enginetcl:WU443592",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Fubo Sports Network",
-    "epg_id": "enginetcl:FB353766",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Women's Sports Network",
-    "epg_id": "enginetcl:AM451783",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "The Jim Rome Show",
-    "epg_id": "enginetcl:AM376413",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Discovery Turbo TV",
-    "epg_id": "enginetcl:AM983575",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Torque",
-    "epg_id": "enginetcl:WU652261",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "PowerNation",
-    "epg_id": "enginetcl:AM229381",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Top Gear",
-    "epg_id": "enginetcl:PF352890",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "FloRacing 24/7",
-    "epg_id": "enginetcl:AM092791",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "MTRSPT1",
-    "epg_id": "enginetcl:AM928735",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Filmrise Horror",
-    "epg_id": "enginetcl:XU310151",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Haunt TV US",
-    "epg_id": "enginetcl:AM371484",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Z Nation",
-    "epg_id": "enginetcl:XU106664",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "The Asylum",
-    "epg_id": "enginetcl:XU336767",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Midnight Pulp",
-    "epg_id": "enginetcl:FE966854",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "DREAD TV",
-    "epg_id": "enginetcl:WU010416",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Free Horror & Thriller Movies",
-    "epg_id": "enginetcl:XU898723",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Deal or No Deal",
-    "epg_id": "enginetcl:BA498155",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "The Price is Right",
-    "epg_id": "enginetcl:PF973058",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Classic Family Feud",
-    "epg_id": "enginetcl:FR775718",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "MrBeast",
-    "epg_id": "enginetcl:PF869566",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Iron Chef",
-    "epg_id": "enginetcl:XU818918",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Fear Factor",
-    "epg_id": "enginetcl:BA308232",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Celebrity Name Game",
-    "epg_id": "enginetcl:AM988594",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Wipeout Xtra",
-    "epg_id": "enginetcl:BA594861",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Lucha Plus",
-    "epg_id": "enginetcl:AM555031",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "PBS Nature",
-    "epg_id": "enginetcl:XU615949",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "BBC Earth",
-    "epg_id": "enginetcl:PF990145",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Love Nature English",
-    "epg_id": "enginetcl:AM607084",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Stingray Naturescape",
-    "epg_id": "enginetcl:XU054202",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Terra Mater WILD",
-    "epg_id": "enginetcl:WU264213",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "The Jack Hanna Channel",
-    "epg_id": "enginetcl:AM734725",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Go Wild",
-    "epg_id": "enginetcl:XU567886",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Adventure Earth",
-    "epg_id": "enginetcl:WU659701",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Rovr Pets",
-    "epg_id": "enginetcl:AM165395",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Dog House TV+",
-    "epg_id": "enginetcl:XU193007",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Cesar's Pack Leader TV",
-    "epg_id": "enginetcl:WU535664",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Paternity Court",
-    "epg_id": "enginetcl:FE805784",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Divorce Court",
-    "epg_id": "enginetcl:XU264158",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Confess by Nosey",
-    "epg_id": "enginetcl:AM677552",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Judge Nosey",
-    "epg_id": "enginetcl:AM548308",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "TODAY All Day",
-    "epg_id": "enginetcl:XU362928",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Inside Edition",
-    "epg_id": "enginetcl:CB200222",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "America's Test Kitchen",
-    "epg_id": "enginetcl:XU178278",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Sweet Escapes",
-    "epg_id": "enginetcl:AM362630",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Lidia's Kitchen",
-    "epg_id": "enginetcl:XU922123",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Tastemade US",
-    "epg_id": "enginetcl:AM042279",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Emeril Lagasse Channel",
-    "epg_id": "enginetcl:AM187284",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "PBS Food",
-    "epg_id": "enginetcl:FA967537",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "TV5 MONDE+ Chefs",
-    "epg_id": "enginetcl:OT656084",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Martha Stewart Channel",
-    "epg_id": "enginetcl:AM977002",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "At Home with Family Handyman",
-    "epg_id": "enginetcl:XU897250",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Tiny House Nation",
-    "epg_id": "enginetcl:WU103763",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Home.Made.Nation",
-    "epg_id": "enginetcl:WU657544",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Property & Reno",
-    "epg_id": "enginetcl:FE390815",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "QVC",
-    "epg_id": "enginetcl:WU693279",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "QVC2",
-    "epg_id": "enginetcl:WU427208",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "HSN",
-    "epg_id": "enginetcl:WU173542",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Pokémon",
-    "epg_id": "enginetcl:AM991851",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "BABY SHARK TV",
-    "epg_id": "enginetcl:NI121531",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Baby Joy Joy",
-    "epg_id": "enginetcl:FU999236",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Teletubbies",
-    "epg_id": "enginetcl:XU156802",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Like Nastya",
-    "epg_id": "enginetcl:FU793789",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "True and the Rainbow Kingdom",
-    "epg_id": "enginetcl:FU350932",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "My Little Pony",
-    "epg_id": "enginetcl:FA919798",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Power Rangers",
-    "epg_id": "enginetcl:FA069789",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Sonic The Hedgehog",
-    "epg_id": "enginetcl:XU054446",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Hasbro Legends",
-    "epg_id": "enginetcl:AM313742",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Transformers",
-    "epg_id": "enginetcl:FA048168",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "The LEGO Channel",
-    "epg_id": "enginetcl:FU614975",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Strawberry Shortcake",
-    "epg_id": "enginetcl:XU614863",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Kids TV",
-    "epg_id": "enginetcl:FW774290",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Pitufo TV",
-    "epg_id": "enginetcl:OT013414",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "TG Junior",
-    "epg_id": "enginetcl:OT471200",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Filmrise Kids",
-    "epg_id": "enginetcl:XU269712",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "PBS Retro",
-    "epg_id": "enginetcl:FA778313",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Toon Goggles",
-    "epg_id": "enginetcl:OT654980",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Trinity Broadcast Network",
-    "epg_id": "enginetcl:XU888932",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Joel Osteen Network",
-    "epg_id": "enginetcl:FE068647",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Elevation Church Network",
-    "epg_id": "enginetcl:FE814954",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "InTouchPlus",
-    "epg_id": "enginetcl:AM688909",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Daystar TV",
-    "epg_id": "enginetcl:DA181752",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "XITE Christian Hits",
-    "epg_id": "enginetcl:FA758247",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Xena Warrior Princess",
-    "epg_id": "enginetcl:XU192667",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "UnXplained Zone",
-    "epg_id": "enginetcl:WU648620",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "The Outer Limits",
-    "epg_id": "enginetcl:FE435858",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Paranormal Files",
-    "epg_id": "enginetcl:XU531449",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Outersphere",
-    "epg_id": "enginetcl:AM743405",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Beyond Belief: Fact or Fiction!",
-    "epg_id": "enginetcl:XU772781",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Ghost Hunters",
-    "epg_id": "enginetcl:AM230412",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Beyond Paranormal",
-    "epg_id": "enginetcl:WU306069",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "The Outpost",
-    "epg_id": "enginetcl:XU921128",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Naruto",
-    "epg_id": "enginetcl:XU580950",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Hunter x Hunter",
-    "epg_id": "enginetcl:XU901100",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Inuyasha",
-    "epg_id": "enginetcl:XU380235",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Sailor Moon",
-    "epg_id": "enginetcl:XU166165",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "TCL Anime",
-    "epg_id": "enginetcl:XU572810",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Anime 24/7",
-    "epg_id": "enginetcl:OM659334",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Filmrise Anime",
-    "epg_id": "enginetcl:XU132409",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Caso Cerrado",
-    "epg_id": "enginetcl:XU585373",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Dateline en Español",
-    "epg_id": "enginetcl:XU953043",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "El Señor de los Cielos",
-    "epg_id": "enginetcl:XU649697",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Como Dice el Dicho",
-    "epg_id": "enginetcl:FV268943",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Estrella TV",
-    "epg_id": "enginetcl:AM580280",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Canela.TV Clasicos",
-    "epg_id": "enginetcl:CA767528",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Canela.TV Narco Drama",
-    "epg_id": "enginetcl:CA848418",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Canela.TV Novelas y Dramas",
-    "epg_id": "enginetcl:CA819588",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Telemundo Deportes Ahora",
-    "epg_id": "enginetcl:XU083198",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Canela.TV Hollywood y Mas",
-    "epg_id": "enginetcl:CA546520",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Galanes",
-    "epg_id": "enginetcl:FV534695",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Grandes Parejas",
-    "epg_id": "enginetcl:FV824171",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Las 3 Marias",
-    "epg_id": "enginetcl:FV691538",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Cine de Oro",
-    "epg_id": "enginetcl:FV572421",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Cine Retro",
-    "epg_id": "enginetcl:FV250417",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "XITE Siempre Latino",
-    "epg_id": "enginetcl:FA768065",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "XITE Nuevo Latino",
-    "epg_id": "enginetcl:FA287765",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Rebelde",
-    "epg_id": "enginetcl:FV132076",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Pequeños Gigantes",
-    "epg_id": "enginetcl:FV000141",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Nosey Escándalos",
-    "epg_id": "enginetcl:AM274300",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Toon Goggles en Español",
-    "epg_id": "enginetcl:OT473261",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Hersphere",
-    "epg_id": "enginetcl:AM166293",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Wu Tang Collection TV",
-    "epg_id": "enginetcl:XU028214",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "The Graham Norton Show",
-    "epg_id": "enginetcl:OA256954",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "ET",
-    "epg_id": "enginetcl:CB982000",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Dungeons & Dragons",
-    "epg_id": "enginetcl:FA469670",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Revry Domestic",
-    "epg_id": "enginetcl:FE193904",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Creator Television",
-    "epg_id": "enginetcl:AM716108",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Valuetainment",
-    "epg_id": "enginetcl:WU796440",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Jubao",
-    "epg_id": "enginetcl:OT770028",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "PBS Antiques Roadshow",
-    "epg_id": "enginetcl:FA252970",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Travel Escapes",
-    "epg_id": "enginetcl:WU242280",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Field & Stream TV",
-    "epg_id": "enginetcl:XU028741",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "WayPoint",
-    "epg_id": "enginetcl:AM503078",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "PursuitUP",
-    "epg_id": "enginetcl:FE033248",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Xplore",
-    "epg_id": "enginetcl:AM804357",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Antiques Road Trip",
-    "epg_id": "enginetcl:FA668900",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "TV5 MONDE+ Voyage",
-    "epg_id": "enginetcl:OT842331",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Wheels & Steel",
-    "epg_id": "enginetcl:AM772391",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Cosmic Frontiers",
-    "epg_id": "enginetcl:AM270986",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "MagellanTV Wildest",
-    "epg_id": "enginetcl:AM308076",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Vice",
-    "epg_id": "enginetcl:OA685650",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Startalk TV",
-    "epg_id": "enginetcl:FE977627",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "ValorousTV",
-    "epg_id": "enginetcl:XU844129",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Curiosity Now",
-    "epg_id": "enginetcl:AM283518",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Milenio Television",
-    "epg_id": "enginetcl:OT597464",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Telemundo Al Dia",
-    "epg_id": "enginetcl:XU643992",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Telemundo Noticias Florida",
-    "epg_id": "enginetcl:XU774561",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Telemundo Noticias Noreste",
-    "epg_id": "enginetcl:XU749774",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Telemundo Noticias Texas",
-    "epg_id": "enginetcl:XU468074",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Telemundo Noticias Suroeste",
-    "epg_id": "enginetcl:XU715947",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Estrella News",
-    "epg_id": "enginetcl:AM636993",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Telemundo Noticias California",
-    "epg_id": "enginetcl:XU551460",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Aquí y Ahora",
-    "epg_id": "enginetcl:FV679190",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "ViX Deportes 24/7",
-    "epg_id": "enginetcl:FV831109",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "The Country Network",
-    "epg_id": "enginetcl:CI937878",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "XITE Classic Country",
-    "epg_id": "enginetcl:FA932598",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "XITE Country Today",
-    "epg_id": "enginetcl:FA498977",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Stingray Classic Rock",
-    "epg_id": "enginetcl:XU732983",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Stingray Hot Country",
-    "epg_id": "enginetcl:XU493635",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Stingray Greatest Holiday Hits",
-    "epg_id": "enginetcl:XU678145",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "XITE Happy Holidays",
-    "epg_id": "enginetcl:FA627246",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Stingray Easy Listening",
-    "epg_id": "enginetcl:XU320319",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "XITE Rock x Metal",
-    "epg_id": "enginetcl:FA565147",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Stingray Remember the 80s",
-    "epg_id": "enginetcl:XU926524",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "XITE 80s Flashback",
-    "epg_id": "enginetcl:FA701227",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "XITE 60s & 70s Groove",
-    "epg_id": "enginetcl:FA733454",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "XITE Rap Game",
-    "epg_id": "enginetcl:FA984417",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "XITE Hip-Hop Evolution",
-    "epg_id": "enginetcl:FA473987",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Stingray Hip Hop",
-    "epg_id": "enginetcl:XU717281",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "XITE R&B Classic Jams",
-    "epg_id": "enginetcl:FA517545",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "XITE R&B Feels",
-    "epg_id": "enginetcl:FA181033",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "XITE Reggae Vibes",
-    "epg_id": "enginetcl:FA165120",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Stingray Hitlist",
-    "epg_id": "enginetcl:XU194328",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "XITE Hits",
-    "epg_id": "enginetcl:FA701202",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Stingray Cozy Cafe",
-    "epg_id": "enginetcl:XU679187",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "XITE Just Chill",
-    "epg_id": "enginetcl:FA527013",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Stingray SPA",
-    "epg_id": "enginetcl:XU073066",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Stingray Nothin' but the 90s",
-    "epg_id": "enginetcl:XU728542",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "XITE 90s Throwback",
-    "epg_id": "enginetcl:FA798979",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Stingray Smooth Jazz",
-    "epg_id": "enginetcl:XU541633",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Movie Music by Stingray",
-    "epg_id": "enginetcl:XU711898",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "TikTok Radio",
-    "epg_id": "enginetcl:XU747146",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Dove Channel",
-    "epg_id": "enginetcl:FE463482",
-    "country": "",
-    "list": "native-tcl"
-  },
-  {
-    "name": "Free Action & Drama TV",
-    "epg_id": "enginetcl:XU069721",
-    "country": "",
-    "list": "native-tcl"
   }
 ]
